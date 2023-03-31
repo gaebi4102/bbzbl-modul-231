@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Frameworks/Nist",
+  "id": "Frameworks/Nist",
+  "title": "1. Nist",
+  "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+  "source": "@site/docs/Frameworks/Nist.md",
+  "sourceDirName": "Frameworks",
+  "slug": "/Frameworks/Nist",
+  "permalink": "/bbzbl-modul-m231/docs/Frameworks/Nist",
+  "draft": false,
+  "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Frameworks/Nist.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Frameworks",
+    "permalink": "/bbzbl-modul-m231/docs/category/frameworks"
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "/bbzbl-modul-m231/__docusaurus/debug-6ed": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---bbzbl-modul-m-231-docusaurus-debug-8-e-7-4c5"
+    }
+  },
+  "/bbzbl-modul-m231/__docusaurus/debug/config-dfb": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---bbzbl-modul-m-231-docusaurus-debug-8-e-7-4c5"
+    }
+  },
+  "/bbzbl-modul-m231/__docusaurus/debug/content-574": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---bbzbl-modul-m-231-docusaurus-debug-8-e-7-4c5"
+    },
+    "allContent": "allContent---bbzbl-modul-m-231-docusaurus-debug-content-246-104"
+  },
+  "/bbzbl-modul-m231/__docusaurus/debug/globalData-34a": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---bbzbl-modul-m-231-docusaurus-debug-8-e-7-4c5"
+    }
+  },
+  "/bbzbl-modul-m231/__docusaurus/debug/metadata-76c": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---bbzbl-modul-m-231-docusaurus-debug-8-e-7-4c5"
+    }
+  },
+  "/bbzbl-modul-m231/__docusaurus/debug/registry-3a8": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---bbzbl-modul-m-231-docusaurus-debug-8-e-7-4c5"
+    }
+  },
+  "/bbzbl-modul-m231/__docusaurus/debug/routes-495": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---bbzbl-modul-m-231-docusaurus-debug-8-e-7-4c5"
+    }
+  },
+  "/bbzbl-modul-m231/markdown-page-b94": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---bbzbl-modul-m-231-markdown-page-3-f-1-21b"
+    },
+    "content": "content---bbzbl-modul-m-231-markdown-page-393-507"
+  },
+  "/bbzbl-modul-m231/search-d90": {
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__context": {
+      "plugin": "plugin---bbzbl-modul-m-231-search-56-a-7c7"
+    }
+  },
+  "/bbzbl-modul-m231/slides-23e": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---bbzbl-modul-m-231-markdown-page-3-f-1-21b"
+    },
+    "content": "content---bbzbl-modul-m-231-slides-513-3a8"
+  },
+  "/bbzbl-modul-m231/docs-395": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---bbzbl-modul-m-231-docsefa-23d"
+    },
+    "versionMetadata": "versionMetadata---bbzbl-modul-m-231-docs-935-98c"
+  },
+  "/bbzbl-modul-m231/docs/-210": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-c-37-c4b"
+  },
+  "/bbzbl-modul-m231/docs/beurteilungen/lb1-23f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-beurteilungen-lb-19-ae-e63"
+  },
+  "/bbzbl-modul-m231/docs/beurteilungen/lb2-99d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-beurteilungen-lb-237-e-b48"
+  },
+  "/bbzbl-modul-m231/docs/beurteilungen/lb3-e79": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-beurteilungen-lb-33-c-2-898"
+  },
+  "/bbzbl-modul-m231/docs/category/beurteilungen-7e7": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---bbzbl-modul-m-231-docs-category-beurteilungene-01-477"
+  },
+  "/bbzbl-modul-m231/docs/category/datenschutz-b11": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---bbzbl-modul-m-231-docs-category-datenschutz-321-150"
+  },
+  "/bbzbl-modul-m231/docs/category/datensicherheit-0d6": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---bbzbl-modul-m-231-docs-category-datensicherheit-92-d-19d"
+  },
+  "/bbzbl-modul-m231/docs/category/frameworks-308": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---bbzbl-modul-m-231-docs-category-frameworksf-2-e-835"
+  },
+  "/bbzbl-modul-m231/docs/category/identity-und-access-management-29e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---bbzbl-modul-m-231-docs-category-identity-und-access-management-9-a-5-a44"
+  },
+  "/bbzbl-modul-m231/docs/Datenschutz/Daten-daa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-datenschutz-datend-20-7d0"
+  },
+  "/bbzbl-modul-m231/docs/Datenschutz/EU-fc6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-datenschutz-e-ua-69-7bc"
+  },
+  "/bbzbl-modul-m231/docs/Datenschutz/Schweiz-7ca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-datenschutz-schweizbc-2-53a"
+  },
+  "/bbzbl-modul-m231/docs/Datensicherheit/Gefahren-711": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-datensicherheit-gefahrend-0-e-4c9"
+  },
+  "/bbzbl-modul-m231/docs/Frameworks/Nist-81b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-frameworks-nist-998-8ea"
+  },
+  "/bbzbl-modul-m231/docs/Identity und Access Management/Identity-1c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-identity-und-access-management-identityc-19-7b5"
+  },
+  "/bbzbl-modul-m231/docs/lektionen/-c8a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-lektionen-7-a-9-e3f"
+  },
+  "/bbzbl-modul-m231/docs/lektionen/woche-01-231": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-lektionen-woche-01805-b13"
+  },
+  "/bbzbl-modul-m231/docs/lektionen/woche-02-53e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-lektionen-woche-02-c-84-384"
+  },
+  "/bbzbl-modul-m231/docs/lektionen/woche-03-d6d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-lektionen-woche-0354-e-849"
+  },
+  "/bbzbl-modul-m231/docs/lektionen/woche-04-1e4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-lektionen-woche-043-d-8-164"
+  },
+  "/bbzbl-modul-m231/docs/lektionen/woche-05-507": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-lektionen-woche-05-d-1-f-84b"
+  },
+  "/bbzbl-modul-m231/docs/lektionen/woche-06-2d8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-lektionen-woche-06-c-33-8b7"
+  },
+  "/bbzbl-modul-m231/docs/lektionen/woche-07-b65": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-lektionen-woche-072-ba-096"
+  },
+  "/bbzbl-modul-m231/docs/lektionen/woche-08-333": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-lektionen-woche-0878-a-432"
+  },
+  "/bbzbl-modul-m231/docs/lektionen/woche-09-627": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-lektionen-woche-093-b-8-fa1"
+  },
+  "/bbzbl-modul-m231/-fe9": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---bbzbl-modul-m-231-markdown-page-3-f-1-21b"
+    },
+    "config": "config---bbzbl-modul-m-231-5-e-9-caf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Datenschutz/Schweiz",
+  "id": "Datenschutz/Schweiz",
+  "title": "2. Schweiz",
+  "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+  "source": "@site/docs/Datenschutz/Schweiz.md",
+  "sourceDirName": "Datenschutz",
+  "slug": "/Datenschutz/Schweiz",
+  "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Schweiz",
+  "draft": false,
+  "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Datenschutz/Schweiz.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1. Daten",
+    "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Daten"
+  },
+  "next": {
+    "title": "3. EU",
+    "permalink": "/bbzbl-modul-m231/docs/Datenschutz/EU"
+  }
+}

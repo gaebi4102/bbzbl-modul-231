@@ -1,0 +1,24 @@
+{
+  "unversionedId": "beurteilungen/lb2",
+  "id": "beurteilungen/lb2",
+  "title": "LB 2 - Projekt",
+  "description": "| Dauer                     | Gewichtung        |",
+  "source": "@site/docs/beurteilungen/lb2.md",
+  "sourceDirName": "beurteilungen",
+  "slug": "/beurteilungen/lb2",
+  "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb2",
+  "draft": false,
+  "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/beurteilungen/lb2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LB 1",
+    "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb1"
+  },
+  "next": {
+    "title": "LB 2 - Projekt",
+    "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb3"
+  }
+}

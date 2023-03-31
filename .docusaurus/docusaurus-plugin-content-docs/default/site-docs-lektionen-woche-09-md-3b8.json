@@ -1,0 +1,27 @@
+{
+  "unversionedId": "lektionen/woche-09",
+  "id": "lektionen/woche-09",
+  "title": "Woche 9",
+  "description": "Präsentation",
+  "source": "@site/docs/lektionen/woche-09.md",
+  "sourceDirName": "lektionen",
+  "slug": "/lektionen/woche-09",
+  "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-09",
+  "draft": false,
+  "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/lektionen/woche-09.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Woche 8",
+    "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-08"
+  },
+  "next": {
+    "title": "Datenschutz",
+    "permalink": "/bbzbl-modul-m231/docs/category/datenschutz"
+  }
+}

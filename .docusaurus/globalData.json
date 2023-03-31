@@ -1,0 +1,153 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/bbzbl-modul-m231/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/bbzbl-modul-m231/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "beurteilungen/lb1",
+              "path": "/bbzbl-modul-m231/docs/beurteilungen/lb1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beurteilungen/lb2",
+              "path": "/bbzbl-modul-m231/docs/beurteilungen/lb2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "beurteilungen/lb3",
+              "path": "/bbzbl-modul-m231/docs/beurteilungen/lb3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Datenschutz/Daten",
+              "path": "/bbzbl-modul-m231/docs/Datenschutz/Daten",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Datenschutz/EU",
+              "path": "/bbzbl-modul-m231/docs/Datenschutz/EU",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Datenschutz/Schweiz",
+              "path": "/bbzbl-modul-m231/docs/Datenschutz/Schweiz",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Datensicherheit/Gefahren",
+              "path": "/bbzbl-modul-m231/docs/Datensicherheit/Gefahren",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Frameworks/Nist",
+              "path": "/bbzbl-modul-m231/docs/Frameworks/Nist",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Identity und Access Management/Identity",
+              "path": "/bbzbl-modul-m231/docs/Identity und Access Management/Identity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/bbzbl-modul-m231/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "lektionen/index",
+              "path": "/bbzbl-modul-m231/docs/lektionen/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "lektionen/woche-01",
+              "path": "/bbzbl-modul-m231/docs/lektionen/woche-01",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "lektionen/woche-02",
+              "path": "/bbzbl-modul-m231/docs/lektionen/woche-02",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "lektionen/woche-03",
+              "path": "/bbzbl-modul-m231/docs/lektionen/woche-03",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "lektionen/woche-04",
+              "path": "/bbzbl-modul-m231/docs/lektionen/woche-04",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "lektionen/woche-05",
+              "path": "/bbzbl-modul-m231/docs/lektionen/woche-05",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "lektionen/woche-06",
+              "path": "/bbzbl-modul-m231/docs/lektionen/woche-06",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "lektionen/woche-07",
+              "path": "/bbzbl-modul-m231/docs/lektionen/woche-07",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "lektionen/woche-08",
+              "path": "/bbzbl-modul-m231/docs/lektionen/woche-08",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "lektionen/woche-09",
+              "path": "/bbzbl-modul-m231/docs/lektionen/woche-09",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/beurteilungen",
+              "path": "/bbzbl-modul-m231/docs/category/beurteilungen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/datenschutz",
+              "path": "/bbzbl-modul-m231/docs/category/datenschutz",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/datensicherheit",
+              "path": "/bbzbl-modul-m231/docs/category/datensicherheit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/identity-und-access-management",
+              "path": "/bbzbl-modul-m231/docs/category/identity-und-access-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/frameworks",
+              "path": "/bbzbl-modul-m231/docs/category/frameworks",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/bbzbl-modul-m231/docs/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

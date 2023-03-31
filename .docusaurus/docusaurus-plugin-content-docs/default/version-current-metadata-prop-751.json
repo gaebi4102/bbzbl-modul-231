@@ -1,0 +1,304 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Allgemeine Informationen",
+        "href": "/bbzbl-modul-m231/docs/",
+        "docId": "index"
+      },
+      {
+        "type": "category",
+        "label": "Beurteilungen",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "LB 1",
+            "href": "/bbzbl-modul-m231/docs/beurteilungen/lb1",
+            "docId": "beurteilungen/lb1"
+          },
+          {
+            "type": "link",
+            "label": "LB 2 - Projekt",
+            "href": "/bbzbl-modul-m231/docs/beurteilungen/lb2",
+            "docId": "beurteilungen/lb2"
+          },
+          {
+            "type": "link",
+            "label": "LB 2 - Projekt",
+            "href": "/bbzbl-modul-m231/docs/beurteilungen/lb3",
+            "docId": "beurteilungen/lb3"
+          }
+        ],
+        "href": "/bbzbl-modul-m231/docs/category/beurteilungen"
+      },
+      {
+        "type": "category",
+        "label": "Lektionen",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Woche 1",
+            "href": "/bbzbl-modul-m231/docs/lektionen/woche-01",
+            "docId": "lektionen/woche-01"
+          },
+          {
+            "type": "link",
+            "label": "Woche 2",
+            "href": "/bbzbl-modul-m231/docs/lektionen/woche-02",
+            "docId": "lektionen/woche-02"
+          },
+          {
+            "type": "link",
+            "label": "Woche 3",
+            "href": "/bbzbl-modul-m231/docs/lektionen/woche-03",
+            "docId": "lektionen/woche-03"
+          },
+          {
+            "type": "link",
+            "label": "Woche 4",
+            "href": "/bbzbl-modul-m231/docs/lektionen/woche-04",
+            "docId": "lektionen/woche-04"
+          },
+          {
+            "type": "link",
+            "label": "Woche 5",
+            "href": "/bbzbl-modul-m231/docs/lektionen/woche-05",
+            "docId": "lektionen/woche-05"
+          },
+          {
+            "type": "link",
+            "label": "Woche 6",
+            "href": "/bbzbl-modul-m231/docs/lektionen/woche-06",
+            "docId": "lektionen/woche-06"
+          },
+          {
+            "type": "link",
+            "label": "Woche 7",
+            "href": "/bbzbl-modul-m231/docs/lektionen/woche-07",
+            "docId": "lektionen/woche-07"
+          },
+          {
+            "type": "link",
+            "label": "Woche 8",
+            "href": "/bbzbl-modul-m231/docs/lektionen/woche-08",
+            "docId": "lektionen/woche-08"
+          },
+          {
+            "type": "link",
+            "label": "Woche 9",
+            "href": "/bbzbl-modul-m231/docs/lektionen/woche-09",
+            "docId": "lektionen/woche-09"
+          }
+        ],
+        "href": "/bbzbl-modul-m231/docs/lektionen/"
+      },
+      {
+        "type": "category",
+        "label": "Datenschutz",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "1. Daten",
+            "href": "/bbzbl-modul-m231/docs/Datenschutz/Daten",
+            "docId": "Datenschutz/Daten"
+          },
+          {
+            "type": "link",
+            "label": "2. Schweiz",
+            "href": "/bbzbl-modul-m231/docs/Datenschutz/Schweiz",
+            "docId": "Datenschutz/Schweiz"
+          },
+          {
+            "type": "link",
+            "label": "3. EU",
+            "href": "/bbzbl-modul-m231/docs/Datenschutz/EU",
+            "docId": "Datenschutz/EU"
+          }
+        ],
+        "href": "/bbzbl-modul-m231/docs/category/datenschutz"
+      },
+      {
+        "type": "category",
+        "label": "Datensicherheit",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "1. Gefahren",
+            "href": "/bbzbl-modul-m231/docs/Datensicherheit/Gefahren",
+            "docId": "Datensicherheit/Gefahren"
+          }
+        ],
+        "href": "/bbzbl-modul-m231/docs/category/datensicherheit"
+      },
+      {
+        "type": "category",
+        "label": "Identity und Access Management",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "1. Identity",
+            "href": "/bbzbl-modul-m231/docs/Identity und Access Management/Identity",
+            "docId": "Identity und Access Management/Identity"
+          }
+        ],
+        "href": "/bbzbl-modul-m231/docs/category/identity-und-access-management"
+      },
+      {
+        "type": "category",
+        "label": "Frameworks",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "1. Nist",
+            "href": "/bbzbl-modul-m231/docs/Frameworks/Nist",
+            "docId": "Frameworks/Nist"
+          }
+        ],
+        "href": "/bbzbl-modul-m231/docs/category/frameworks"
+      }
+    ]
+  },
+  "docs": {
+    "beurteilungen/lb1": {
+      "id": "beurteilungen/lb1",
+      "title": "LB 1",
+      "description": "| Dauer  | Gewichtung        |",
+      "sidebar": "tutorialSidebar"
+    },
+    "beurteilungen/lb2": {
+      "id": "beurteilungen/lb2",
+      "title": "LB 2 - Projekt",
+      "description": "| Dauer                     | Gewichtung        |",
+      "sidebar": "tutorialSidebar"
+    },
+    "beurteilungen/lb3": {
+      "id": "beurteilungen/lb3",
+      "title": "LB 2 - Projekt",
+      "description": "| Dauer                     | Gewichtung        |",
+      "sidebar": "tutorialSidebar"
+    },
+    "Datenschutz/Daten": {
+      "id": "Datenschutz/Daten",
+      "title": "1. Daten",
+      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "sidebar": "tutorialSidebar"
+    },
+    "Datenschutz/EU": {
+      "id": "Datenschutz/EU",
+      "title": "3. EU",
+      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "sidebar": "tutorialSidebar"
+    },
+    "Datenschutz/Schweiz": {
+      "id": "Datenschutz/Schweiz",
+      "title": "2. Schweiz",
+      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "sidebar": "tutorialSidebar"
+    },
+    "Datensicherheit/Gefahren": {
+      "id": "Datensicherheit/Gefahren",
+      "title": "1. Gefahren",
+      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "sidebar": "tutorialSidebar"
+    },
+    "Frameworks/Nist": {
+      "id": "Frameworks/Nist",
+      "title": "1. Nist",
+      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "sidebar": "tutorialSidebar"
+    },
+    "Identity und Access Management/Identity": {
+      "id": "Identity und Access Management/Identity",
+      "title": "1. Identity",
+      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "sidebar": "tutorialSidebar"
+    },
+    "index": {
+      "id": "index",
+      "title": "Allgemeine Informationen",
+      "description": "Modulbeschreibung",
+      "sidebar": "tutorialSidebar"
+    },
+    "lektionen/index": {
+      "id": "lektionen/index",
+      "title": "Quartalsübersicht",
+      "description": "|         Woche          |             Datum             | Thema                                             | Leistungsbewertung |",
+      "sidebar": "tutorialSidebar"
+    },
+    "lektionen/woche-01": {
+      "id": "lektionen/woche-01",
+      "title": "Woche 1",
+      "description": "Präsentation",
+      "sidebar": "tutorialSidebar"
+    },
+    "lektionen/woche-02": {
+      "id": "lektionen/woche-02",
+      "title": "Woche 2",
+      "description": "Präsentation",
+      "sidebar": "tutorialSidebar"
+    },
+    "lektionen/woche-03": {
+      "id": "lektionen/woche-03",
+      "title": "Woche 3",
+      "description": "Präsentation",
+      "sidebar": "tutorialSidebar"
+    },
+    "lektionen/woche-04": {
+      "id": "lektionen/woche-04",
+      "title": "Woche 4",
+      "description": "Präsentation",
+      "sidebar": "tutorialSidebar"
+    },
+    "lektionen/woche-05": {
+      "id": "lektionen/woche-05",
+      "title": "Woche 5",
+      "description": "Präsentation",
+      "sidebar": "tutorialSidebar"
+    },
+    "lektionen/woche-06": {
+      "id": "lektionen/woche-06",
+      "title": "Woche 6",
+      "description": "Präsentation",
+      "sidebar": "tutorialSidebar"
+    },
+    "lektionen/woche-07": {
+      "id": "lektionen/woche-07",
+      "title": "Woche 7",
+      "description": "Präsentation",
+      "sidebar": "tutorialSidebar"
+    },
+    "lektionen/woche-08": {
+      "id": "lektionen/woche-08",
+      "title": "Woche 8",
+      "description": "Präsentation",
+      "sidebar": "tutorialSidebar"
+    },
+    "lektionen/woche-09": {
+      "id": "lektionen/woche-09",
+      "title": "Woche 9",
+      "description": "Präsentation",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

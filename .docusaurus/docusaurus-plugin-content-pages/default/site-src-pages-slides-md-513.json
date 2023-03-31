@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/bbzbl-modul-m231/slides",
+  "source": "@site/src/pages/slides.md",
+  "title": "Slides",
+  "description": "Woche 1",
+  "frontMatter": {
+    "title": "Slides"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "lektionen/woche-02",
+  "id": "lektionen/woche-02",
+  "title": "Woche 2",
+  "description": "Präsentation",
+  "source": "@site/docs/lektionen/woche-02.md",
+  "sourceDirName": "lektionen",
+  "slug": "/lektionen/woche-02",
+  "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-02",
+  "draft": false,
+  "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/lektionen/woche-02.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Woche 1",
+    "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-01"
+  },
+  "next": {
+    "title": "Woche 3",
+    "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-03"
+  }
+}

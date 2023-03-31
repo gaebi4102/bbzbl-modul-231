@@ -1,0 +1,752 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/bbzbl-modul-m231/docs",
+          "tagsPath": "/bbzbl-modul-m231/docs/tags",
+          "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs",
+          "editUrlLocalized": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/i18n/de/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/gianlucaaebi/git/m231/sidebars.js",
+          "contentPath": "/Users/gianlucaaebi/git/m231/docs",
+          "contentPathLocalized": "/Users/gianlucaaebi/git/m231/i18n/de/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "beurteilungen/lb1",
+              "id": "beurteilungen/lb1",
+              "title": "LB 1",
+              "description": "| Dauer  | Gewichtung        |",
+              "source": "@site/docs/beurteilungen/lb1.md",
+              "sourceDirName": "beurteilungen",
+              "slug": "/beurteilungen/lb1",
+              "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb1",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/beurteilungen/lb1.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Beurteilungen",
+                "permalink": "/bbzbl-modul-m231/docs/category/beurteilungen"
+              },
+              "next": {
+                "title": "LB 2 - Projekt",
+                "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb2"
+              }
+            },
+            {
+              "unversionedId": "beurteilungen/lb2",
+              "id": "beurteilungen/lb2",
+              "title": "LB 2 - Projekt",
+              "description": "| Dauer                     | Gewichtung        |",
+              "source": "@site/docs/beurteilungen/lb2.md",
+              "sourceDirName": "beurteilungen",
+              "slug": "/beurteilungen/lb2",
+              "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb2",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/beurteilungen/lb2.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "LB 1",
+                "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb1"
+              },
+              "next": {
+                "title": "LB 2 - Projekt",
+                "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb3"
+              }
+            },
+            {
+              "unversionedId": "beurteilungen/lb3",
+              "id": "beurteilungen/lb3",
+              "title": "LB 2 - Projekt",
+              "description": "| Dauer                     | Gewichtung        |",
+              "source": "@site/docs/beurteilungen/lb3.md",
+              "sourceDirName": "beurteilungen",
+              "slug": "/beurteilungen/lb3",
+              "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb3",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/beurteilungen/lb3.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "LB 2 - Projekt",
+                "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb2"
+              },
+              "next": {
+                "title": "Quartalsübersicht",
+                "permalink": "/bbzbl-modul-m231/docs/lektionen/"
+              }
+            },
+            {
+              "unversionedId": "Datenschutz/Daten",
+              "id": "Datenschutz/Daten",
+              "title": "1. Daten",
+              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "source": "@site/docs/Datenschutz/Daten.md",
+              "sourceDirName": "Datenschutz",
+              "slug": "/Datenschutz/Daten",
+              "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Daten",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Datenschutz/Daten.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Datenschutz",
+                "permalink": "/bbzbl-modul-m231/docs/category/datenschutz"
+              },
+              "next": {
+                "title": "2. Schweiz",
+                "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Schweiz"
+              }
+            },
+            {
+              "unversionedId": "Datenschutz/EU",
+              "id": "Datenschutz/EU",
+              "title": "3. EU",
+              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "source": "@site/docs/Datenschutz/EU.md",
+              "sourceDirName": "Datenschutz",
+              "slug": "/Datenschutz/EU",
+              "permalink": "/bbzbl-modul-m231/docs/Datenschutz/EU",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Datenschutz/EU.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "2. Schweiz",
+                "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Schweiz"
+              },
+              "next": {
+                "title": "Datensicherheit",
+                "permalink": "/bbzbl-modul-m231/docs/category/datensicherheit"
+              }
+            },
+            {
+              "unversionedId": "Datenschutz/Schweiz",
+              "id": "Datenschutz/Schweiz",
+              "title": "2. Schweiz",
+              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "source": "@site/docs/Datenschutz/Schweiz.md",
+              "sourceDirName": "Datenschutz",
+              "slug": "/Datenschutz/Schweiz",
+              "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Schweiz",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Datenschutz/Schweiz.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "1. Daten",
+                "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Daten"
+              },
+              "next": {
+                "title": "3. EU",
+                "permalink": "/bbzbl-modul-m231/docs/Datenschutz/EU"
+              }
+            },
+            {
+              "unversionedId": "Datensicherheit/Gefahren",
+              "id": "Datensicherheit/Gefahren",
+              "title": "1. Gefahren",
+              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "source": "@site/docs/Datensicherheit/Gefahren.md",
+              "sourceDirName": "Datensicherheit",
+              "slug": "/Datensicherheit/Gefahren",
+              "permalink": "/bbzbl-modul-m231/docs/Datensicherheit/Gefahren",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Datensicherheit/Gefahren.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Datensicherheit",
+                "permalink": "/bbzbl-modul-m231/docs/category/datensicherheit"
+              },
+              "next": {
+                "title": "Identity und Access Management",
+                "permalink": "/bbzbl-modul-m231/docs/category/identity-und-access-management"
+              }
+            },
+            {
+              "unversionedId": "Frameworks/Nist",
+              "id": "Frameworks/Nist",
+              "title": "1. Nist",
+              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "source": "@site/docs/Frameworks/Nist.md",
+              "sourceDirName": "Frameworks",
+              "slug": "/Frameworks/Nist",
+              "permalink": "/bbzbl-modul-m231/docs/Frameworks/Nist",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Frameworks/Nist.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Frameworks",
+                "permalink": "/bbzbl-modul-m231/docs/category/frameworks"
+              }
+            },
+            {
+              "unversionedId": "Identity und Access Management/Identity",
+              "id": "Identity und Access Management/Identity",
+              "title": "1. Identity",
+              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "source": "@site/docs/Identity und Access Management/Identity.md",
+              "sourceDirName": "Identity und Access Management",
+              "slug": "/Identity und Access Management/Identity",
+              "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Identity",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Identity und Access Management/Identity.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Identity und Access Management",
+                "permalink": "/bbzbl-modul-m231/docs/category/identity-und-access-management"
+              },
+              "next": {
+                "title": "Frameworks",
+                "permalink": "/bbzbl-modul-m231/docs/category/frameworks"
+              }
+            },
+            {
+              "unversionedId": "index",
+              "id": "index",
+              "title": "Allgemeine Informationen",
+              "description": "Modulbeschreibung",
+              "source": "@site/docs/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/bbzbl-modul-m231/docs/",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Beurteilungen",
+                "permalink": "/bbzbl-modul-m231/docs/category/beurteilungen"
+              }
+            },
+            {
+              "unversionedId": "lektionen/index",
+              "id": "lektionen/index",
+              "title": "Quartalsübersicht",
+              "description": "|         Woche          |             Datum             | Thema                                             | Leistungsbewertung |",
+              "source": "@site/docs/lektionen/index.md",
+              "sourceDirName": "lektionen",
+              "slug": "/lektionen/",
+              "permalink": "/bbzbl-modul-m231/docs/lektionen/",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/lektionen/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "LB 2 - Projekt",
+                "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb3"
+              },
+              "next": {
+                "title": "Woche 1",
+                "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-01"
+              }
+            },
+            {
+              "unversionedId": "lektionen/woche-01",
+              "id": "lektionen/woche-01",
+              "title": "Woche 1",
+              "description": "Präsentation",
+              "source": "@site/docs/lektionen/woche-01.md",
+              "sourceDirName": "lektionen",
+              "slug": "/lektionen/woche-01",
+              "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-01",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/lektionen/woche-01.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Quartalsübersicht",
+                "permalink": "/bbzbl-modul-m231/docs/lektionen/"
+              },
+              "next": {
+                "title": "Woche 2",
+                "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-02"
+              }
+            },
+            {
+              "unversionedId": "lektionen/woche-02",
+              "id": "lektionen/woche-02",
+              "title": "Woche 2",
+              "description": "Präsentation",
+              "source": "@site/docs/lektionen/woche-02.md",
+              "sourceDirName": "lektionen",
+              "slug": "/lektionen/woche-02",
+              "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-02",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/lektionen/woche-02.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Woche 1",
+                "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-01"
+              },
+              "next": {
+                "title": "Woche 3",
+                "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-03"
+              }
+            },
+            {
+              "unversionedId": "lektionen/woche-03",
+              "id": "lektionen/woche-03",
+              "title": "Woche 3",
+              "description": "Präsentation",
+              "source": "@site/docs/lektionen/woche-03.md",
+              "sourceDirName": "lektionen",
+              "slug": "/lektionen/woche-03",
+              "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-03",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/lektionen/woche-03.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Woche 2",
+                "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-02"
+              },
+              "next": {
+                "title": "Woche 4",
+                "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-04"
+              }
+            },
+            {
+              "unversionedId": "lektionen/woche-04",
+              "id": "lektionen/woche-04",
+              "title": "Woche 4",
+              "description": "Präsentation",
+              "source": "@site/docs/lektionen/woche-04.md",
+              "sourceDirName": "lektionen",
+              "slug": "/lektionen/woche-04",
+              "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-04",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/lektionen/woche-04.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Woche 3",
+                "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-03"
+              },
+              "next": {
+                "title": "Woche 5",
+                "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-05"
+              }
+            },
+            {
+              "unversionedId": "lektionen/woche-05",
+              "id": "lektionen/woche-05",
+              "title": "Woche 5",
+              "description": "Präsentation",
+              "source": "@site/docs/lektionen/woche-05.md",
+              "sourceDirName": "lektionen",
+              "slug": "/lektionen/woche-05",
+              "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-05",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/lektionen/woche-05.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Woche 4",
+                "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-04"
+              },
+              "next": {
+                "title": "Woche 6",
+                "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-06"
+              }
+            },
+            {
+              "unversionedId": "lektionen/woche-06",
+              "id": "lektionen/woche-06",
+              "title": "Woche 6",
+              "description": "Präsentation",
+              "source": "@site/docs/lektionen/woche-06.md",
+              "sourceDirName": "lektionen",
+              "slug": "/lektionen/woche-06",
+              "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-06",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/lektionen/woche-06.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Woche 5",
+                "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-05"
+              },
+              "next": {
+                "title": "Woche 7",
+                "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-07"
+              }
+            },
+            {
+              "unversionedId": "lektionen/woche-07",
+              "id": "lektionen/woche-07",
+              "title": "Woche 7",
+              "description": "Präsentation",
+              "source": "@site/docs/lektionen/woche-07.md",
+              "sourceDirName": "lektionen",
+              "slug": "/lektionen/woche-07",
+              "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-07",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/lektionen/woche-07.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Woche 6",
+                "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-06"
+              },
+              "next": {
+                "title": "Woche 8",
+                "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-08"
+              }
+            },
+            {
+              "unversionedId": "lektionen/woche-08",
+              "id": "lektionen/woche-08",
+              "title": "Woche 8",
+              "description": "Präsentation",
+              "source": "@site/docs/lektionen/woche-08.md",
+              "sourceDirName": "lektionen",
+              "slug": "/lektionen/woche-08",
+              "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-08",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/lektionen/woche-08.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Woche 7",
+                "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-07"
+              },
+              "next": {
+                "title": "Woche 9",
+                "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-09"
+              }
+            },
+            {
+              "unversionedId": "lektionen/woche-09",
+              "id": "lektionen/woche-09",
+              "title": "Woche 9",
+              "description": "Präsentation",
+              "source": "@site/docs/lektionen/woche-09.md",
+              "sourceDirName": "lektionen",
+              "slug": "/lektionen/woche-09",
+              "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-09",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/lektionen/woche-09.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Woche 8",
+                "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-08"
+              },
+              "next": {
+                "title": "Datenschutz",
+                "permalink": "/bbzbl-modul-m231/docs/category/datenschutz"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "index"
+              },
+              {
+                "type": "category",
+                "label": "Beurteilungen",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "beurteilungen/lb1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "beurteilungen/lb2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "beurteilungen/lb3"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/beurteilungen",
+                  "permalink": "/bbzbl-modul-m231/docs/category/beurteilungen"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Lektionen",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "lektionen/woche-01"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "lektionen/woche-02"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "lektionen/woche-03"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "lektionen/woche-04"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "lektionen/woche-05"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "lektionen/woche-06"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "lektionen/woche-07"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "lektionen/woche-08"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "lektionen/woche-09"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "lektionen/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Datenschutz",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Datenschutz/Daten"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Datenschutz/Schweiz"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Datenschutz/EU"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/datenschutz",
+                  "permalink": "/bbzbl-modul-m231/docs/category/datenschutz"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Datensicherheit",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Datensicherheit/Gefahren"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/datensicherheit",
+                  "permalink": "/bbzbl-modul-m231/docs/category/datensicherheit"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Identity und Access Management",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Identity und Access Management/Identity"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/identity-und-access-management",
+                  "permalink": "/bbzbl-modul-m231/docs/category/identity-und-access-management"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Frameworks",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Frameworks/Nist"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/frameworks",
+                  "permalink": "/bbzbl-modul-m231/docs/category/frameworks"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/bbzbl-modul-m231/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/bbzbl-modul-m231/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/bbzbl-modul-m231/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      },
+      {
+        "type": "mdx",
+        "permalink": "/bbzbl-modul-m231/slides",
+        "source": "@site/src/pages/slides.md",
+        "title": "Slides",
+        "description": "Woche 1",
+        "frontMatter": {
+          "title": "Slides"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "devserver-config": {},
+  "@easyops-cn/docusaurus-search-local": {},
+  "docusaurus-theme-mermaid": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

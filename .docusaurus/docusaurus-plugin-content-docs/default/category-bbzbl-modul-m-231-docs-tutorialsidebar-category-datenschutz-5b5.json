@@ -1,0 +1,16 @@
+{
+  "title": "Datenschutz",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/datenschutz",
+  "permalink": "/bbzbl-modul-m231/docs/category/datenschutz",
+  "navigation": {
+    "previous": {
+      "title": "Woche 9",
+      "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-09"
+    },
+    "next": {
+      "title": "1. Daten",
+      "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Daten"
+    }
+  }
+}
