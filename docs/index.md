@@ -9,13 +9,14 @@ sidebar_position: 1
 - [:paperclip: Modulidentifikation](https://www.modulbaukasten.ch/module/231/1/de-DE?title=Datenschutz-und-Datensicherheit-anwenden)
 - [:paperclip: LBV](https://drive.google.com/file/d/136Q5njndm681KO-w4Vzn0oGNA5VazImF/view)
 
-## Faktenblätter
+# Quartalsübersicht
 
-- [:paperclip: Faktenblatt 404](https://drive.google.com/file/d/131h3iXmzMGexMoQLhKLrC9qWRO1LgXd3/view)
-- [:paperclip: Faktenblatt 403](https://drive.google.com/file/d/1318FFx6ZBkpmmFzr9xrpZc2zrfEvmjz5/view)
+|         Woche          |             Datum             | Thema                                             | Leistungsbewertung |
+| :--------------------: | :---------------------------: | :------------------------------------------------ | :----------------- |
+|     Woche&nbsp;1       |          xx.xx.2023           | Informationen zum Modul/ IT - Sec.                |
+|   **Woche&nbsp;8**     |         **xx.xx.2023**        | **Prüfung zur Theorie**                           | **[LB1]** 
+|   **Woche&nbsp;9**     |        **21.04.2023**         | **Abgabe**            | **[LB2]** **[LB3]**       |
 
-:::tip
-
-Wenn Ihr die Faktenblätter **aktiv** verwendet, sind sie euch eine bessere Hilfe bei der Prüfung!
-
-:::
+[LB1]: ./beurteilungen/lb1.md
+[LB2]: ./beurteilungen/lb2.md
+[LB3]: ./beurteilungen/lb3.md

@@ -86,56 +86,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "lektionen/index",
-              "path": "/bbzbl-modul-m231/docs/lektionen/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "lektionen/woche-01",
-              "path": "/bbzbl-modul-m231/docs/lektionen/woche-01",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "lektionen/woche-02",
-              "path": "/bbzbl-modul-m231/docs/lektionen/woche-02",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "lektionen/woche-03",
-              "path": "/bbzbl-modul-m231/docs/lektionen/woche-03",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "lektionen/woche-04",
-              "path": "/bbzbl-modul-m231/docs/lektionen/woche-04",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "lektionen/woche-05",
-              "path": "/bbzbl-modul-m231/docs/lektionen/woche-05",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "lektionen/woche-06",
-              "path": "/bbzbl-modul-m231/docs/lektionen/woche-06",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "lektionen/woche-07",
-              "path": "/bbzbl-modul-m231/docs/lektionen/woche-07",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "lektionen/woche-08",
-              "path": "/bbzbl-modul-m231/docs/lektionen/woche-08",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "lektionen/woche-09",
-              "path": "/bbzbl-modul-m231/docs/lektionen/woche-09",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "/category/beurteilungen",
               "path": "/bbzbl-modul-m231/docs/category/beurteilungen",
               "sidebar": "tutorialSidebar"

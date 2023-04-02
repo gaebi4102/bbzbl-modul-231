@@ -6,7 +6,7 @@
 export default {
   "title": "Modul M231",
   "tagline": "Datenschutz und Datensicherheit anwenden",
-  "url": "https://codingluke.github.io",
+  "url": "http://localhost:3000",
   "baseUrl": "/bbzbl-modul-m231/",
   "onBrokenLinks": "log",
   "onBrokenMarkdownLinks": "warn",

@@ -44,69 +44,6 @@
       },
       {
         "type": "category",
-        "label": "Lektionen",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Woche 1",
-            "href": "/bbzbl-modul-m231/docs/lektionen/woche-01",
-            "docId": "lektionen/woche-01"
-          },
-          {
-            "type": "link",
-            "label": "Woche 2",
-            "href": "/bbzbl-modul-m231/docs/lektionen/woche-02",
-            "docId": "lektionen/woche-02"
-          },
-          {
-            "type": "link",
-            "label": "Woche 3",
-            "href": "/bbzbl-modul-m231/docs/lektionen/woche-03",
-            "docId": "lektionen/woche-03"
-          },
-          {
-            "type": "link",
-            "label": "Woche 4",
-            "href": "/bbzbl-modul-m231/docs/lektionen/woche-04",
-            "docId": "lektionen/woche-04"
-          },
-          {
-            "type": "link",
-            "label": "Woche 5",
-            "href": "/bbzbl-modul-m231/docs/lektionen/woche-05",
-            "docId": "lektionen/woche-05"
-          },
-          {
-            "type": "link",
-            "label": "Woche 6",
-            "href": "/bbzbl-modul-m231/docs/lektionen/woche-06",
-            "docId": "lektionen/woche-06"
-          },
-          {
-            "type": "link",
-            "label": "Woche 7",
-            "href": "/bbzbl-modul-m231/docs/lektionen/woche-07",
-            "docId": "lektionen/woche-07"
-          },
-          {
-            "type": "link",
-            "label": "Woche 8",
-            "href": "/bbzbl-modul-m231/docs/lektionen/woche-08",
-            "docId": "lektionen/woche-08"
-          },
-          {
-            "type": "link",
-            "label": "Woche 9",
-            "href": "/bbzbl-modul-m231/docs/lektionen/woche-09",
-            "docId": "lektionen/woche-09"
-          }
-        ],
-        "href": "/bbzbl-modul-m231/docs/lektionen/"
-      },
-      {
-        "type": "category",
         "label": "Grundlagen",
         "collapsible": true,
         "collapsed": true,
@@ -307,66 +244,6 @@
       "id": "index",
       "title": "Allgemeine Informationen",
       "description": "Modulbeschreibung",
-      "sidebar": "tutorialSidebar"
-    },
-    "lektionen/index": {
-      "id": "lektionen/index",
-      "title": "Quartalsübersicht",
-      "description": "|         Woche          |             Datum             | Thema                                             | Leistungsbewertung |",
-      "sidebar": "tutorialSidebar"
-    },
-    "lektionen/woche-01": {
-      "id": "lektionen/woche-01",
-      "title": "Woche 1",
-      "description": "Präsentation",
-      "sidebar": "tutorialSidebar"
-    },
-    "lektionen/woche-02": {
-      "id": "lektionen/woche-02",
-      "title": "Woche 2",
-      "description": "Präsentation",
-      "sidebar": "tutorialSidebar"
-    },
-    "lektionen/woche-03": {
-      "id": "lektionen/woche-03",
-      "title": "Woche 3",
-      "description": "Präsentation",
-      "sidebar": "tutorialSidebar"
-    },
-    "lektionen/woche-04": {
-      "id": "lektionen/woche-04",
-      "title": "Woche 4",
-      "description": "Präsentation",
-      "sidebar": "tutorialSidebar"
-    },
-    "lektionen/woche-05": {
-      "id": "lektionen/woche-05",
-      "title": "Woche 5",
-      "description": "Präsentation",
-      "sidebar": "tutorialSidebar"
-    },
-    "lektionen/woche-06": {
-      "id": "lektionen/woche-06",
-      "title": "Woche 6",
-      "description": "Präsentation",
-      "sidebar": "tutorialSidebar"
-    },
-    "lektionen/woche-07": {
-      "id": "lektionen/woche-07",
-      "title": "Woche 7",
-      "description": "Präsentation",
-      "sidebar": "tutorialSidebar"
-    },
-    "lektionen/woche-08": {
-      "id": "lektionen/woche-08",
-      "title": "Woche 8",
-      "description": "Präsentation",
-      "sidebar": "tutorialSidebar"
-    },
-    "lektionen/woche-09": {
-      "id": "lektionen/woche-09",
-      "title": "Woche 9",
-      "description": "Präsentation",
       "sidebar": "tutorialSidebar"
     }
   }

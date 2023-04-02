@@ -54,7 +54,7 @@ export default [
   },
   {
     path: '/bbzbl-modul-m231/docs',
-    component: ComponentCreator('/bbzbl-modul-m231/docs', '8cd'),
+    component: ComponentCreator('/bbzbl-modul-m231/docs', '0aa'),
     routes: [
       {
         path: '/bbzbl-modul-m231/docs/',
@@ -179,66 +179,6 @@ export default [
       {
         path: '/bbzbl-modul-m231/docs/Identity und Access Management/Identity',
         component: ComponentCreator('/bbzbl-modul-m231/docs/Identity und Access Management/Identity', '1c3'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/bbzbl-modul-m231/docs/lektionen/',
-        component: ComponentCreator('/bbzbl-modul-m231/docs/lektionen/', 'c8a'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/bbzbl-modul-m231/docs/lektionen/woche-01',
-        component: ComponentCreator('/bbzbl-modul-m231/docs/lektionen/woche-01', '231'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/bbzbl-modul-m231/docs/lektionen/woche-02',
-        component: ComponentCreator('/bbzbl-modul-m231/docs/lektionen/woche-02', '53e'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/bbzbl-modul-m231/docs/lektionen/woche-03',
-        component: ComponentCreator('/bbzbl-modul-m231/docs/lektionen/woche-03', 'd6d'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/bbzbl-modul-m231/docs/lektionen/woche-04',
-        component: ComponentCreator('/bbzbl-modul-m231/docs/lektionen/woche-04', '1e4'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/bbzbl-modul-m231/docs/lektionen/woche-05',
-        component: ComponentCreator('/bbzbl-modul-m231/docs/lektionen/woche-05', '507'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/bbzbl-modul-m231/docs/lektionen/woche-06',
-        component: ComponentCreator('/bbzbl-modul-m231/docs/lektionen/woche-06', '2d8'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/bbzbl-modul-m231/docs/lektionen/woche-07',
-        component: ComponentCreator('/bbzbl-modul-m231/docs/lektionen/woche-07', 'b65'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/bbzbl-modul-m231/docs/lektionen/woche-08',
-        component: ComponentCreator('/bbzbl-modul-m231/docs/lektionen/woche-08', '333'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/bbzbl-modul-m231/docs/lektionen/woche-09',
-        component: ComponentCreator('/bbzbl-modul-m231/docs/lektionen/woche-09', '627'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
