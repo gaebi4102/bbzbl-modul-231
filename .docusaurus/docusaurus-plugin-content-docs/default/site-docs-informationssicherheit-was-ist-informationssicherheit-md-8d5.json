@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Informationssicherheit/Was ist Informationssicherheit",
+  "id": "Informationssicherheit/Was ist Informationssicherheit",
+  "title": "1. Informationssicherheit",
+  "description": "| Material   | Video Informationen und Internet              |",
+  "source": "@site/docs/Informationssicherheit/Was ist Informationssicherheit.md",
+  "sourceDirName": "Informationssicherheit",
+  "slug": "/Informationssicherheit/Was ist Informationssicherheit",
+  "permalink": "/bbzbl-modul-m231/docs/Informationssicherheit/Was ist Informationssicherheit",
+  "draft": false,
+  "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Informationssicherheit/Was ist Informationssicherheit.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Informationssicherheit",
+    "permalink": "/bbzbl-modul-m231/docs/category/informationssicherheit"
+  },
+  "next": {
+    "title": "2. Was ist Daten ?",
+    "permalink": "/bbzbl-modul-m231/docs/Informationssicherheit/Was sind Daten"
+  }
+}

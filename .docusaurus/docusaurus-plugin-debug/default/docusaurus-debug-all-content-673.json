@@ -92,16 +92,43 @@
               }
             },
             {
-              "unversionedId": "Datenschutz/Daten",
-              "id": "Datenschutz/Daten",
-              "title": "1. Daten",
-              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
-              "source": "@site/docs/Datenschutz/Daten.md",
+              "unversionedId": "Datenschutz/AGBs etc",
+              "id": "Datenschutz/AGBs etc",
+              "title": "4. Impressum, Disclaimer, AGBs",
+              "description": "Was gibts sonst noch?",
+              "source": "@site/docs/Datenschutz/AGBs etc.md",
               "sourceDirName": "Datenschutz",
-              "slug": "/Datenschutz/Daten",
-              "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Daten",
+              "slug": "/Datenschutz/AGBs etc",
+              "permalink": "/bbzbl-modul-m231/docs/Datenschutz/AGBs etc",
               "draft": false,
-              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Datenschutz/Daten.md",
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Datenschutz/AGBs etc.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "3. EU - DSGVO",
+                "permalink": "/bbzbl-modul-m231/docs/Datenschutz/EU"
+              },
+              "next": {
+                "title": "Datensicherheit",
+                "permalink": "/bbzbl-modul-m231/docs/category/datensicherheit"
+              }
+            },
+            {
+              "unversionedId": "Datenschutz/Allgemein",
+              "id": "Datenschutz/Allgemein",
+              "title": "1. Allgemein",
+              "description": "Was ist Datenschutz?",
+              "source": "@site/docs/Datenschutz/Allgemein.md",
+              "sourceDirName": "Datenschutz",
+              "slug": "/Datenschutz/Allgemein",
+              "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Allgemein",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Datenschutz/Allgemein.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -114,15 +141,15 @@
                 "permalink": "/bbzbl-modul-m231/docs/category/datenschutz"
               },
               "next": {
-                "title": "2. Schweiz",
+                "title": "2. CH - DSG und nDSG",
                 "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Schweiz"
               }
             },
             {
               "unversionedId": "Datenschutz/EU",
               "id": "Datenschutz/EU",
-              "title": "3. EU",
-              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "title": "3. EU - DSGVO",
+              "description": "Wie sieht das in der EU aus?",
               "source": "@site/docs/Datenschutz/EU.md",
               "sourceDirName": "Datenschutz",
               "slug": "/Datenschutz/EU",
@@ -137,19 +164,19 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "2. Schweiz",
+                "title": "2. CH - DSG und nDSG",
                 "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Schweiz"
               },
               "next": {
-                "title": "Datensicherheit",
-                "permalink": "/bbzbl-modul-m231/docs/category/datensicherheit"
+                "title": "4. Impressum, Disclaimer, AGBs",
+                "permalink": "/bbzbl-modul-m231/docs/Datenschutz/AGBs etc"
               }
             },
             {
               "unversionedId": "Datenschutz/Schweiz",
               "id": "Datenschutz/Schweiz",
-              "title": "2. Schweiz",
-              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "title": "2. CH - DSG und nDSG",
+              "description": "Was sagt das Schweizer Gesetz?",
               "source": "@site/docs/Datenschutz/Schweiz.md",
               "sourceDirName": "Datenschutz",
               "slug": "/Datenschutz/Schweiz",
@@ -164,11 +191,11 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "1. Daten",
-                "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Daten"
+                "title": "1. Allgemein",
+                "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Allgemein"
               },
               "next": {
-                "title": "3. EU",
+                "title": "3. EU - DSGVO",
                 "permalink": "/bbzbl-modul-m231/docs/Datenschutz/EU"
               }
             },
@@ -220,6 +247,114 @@
               "previous": {
                 "title": "Frameworks",
                 "permalink": "/bbzbl-modul-m231/docs/category/frameworks"
+              }
+            },
+            {
+              "unversionedId": "Grundlagen/Daten",
+              "id": "Grundlagen/Daten",
+              "title": "3.  Daten",
+              "description": "| Material   | Video Informationen und Internet              |",
+              "source": "@site/docs/Grundlagen/Daten.md",
+              "sourceDirName": "Grundlagen",
+              "slug": "/Grundlagen/Daten",
+              "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Daten",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Grundlagen/Daten.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "2.  Informationssicherheit",
+                "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Informationssicherheit"
+              },
+              "next": {
+                "title": "4.  Sicherheit und Risiko",
+                "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Sicherheit und Risiko"
+              }
+            },
+            {
+              "unversionedId": "Grundlagen/Informationssicherheit",
+              "id": "Grundlagen/Informationssicherheit",
+              "title": "2.  Informationssicherheit",
+              "description": "| Material   | Video Informationen und Internet              |",
+              "source": "@site/docs/Grundlagen/Informationssicherheit.md",
+              "sourceDirName": "Grundlagen",
+              "slug": "/Grundlagen/Informationssicherheit",
+              "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Informationssicherheit",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Grundlagen/Informationssicherheit.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "1.  Tools und Aufbau des Moduls",
+                "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Tools und Aufbau des Moduls"
+              },
+              "next": {
+                "title": "3.  Daten",
+                "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Daten"
+              }
+            },
+            {
+              "unversionedId": "Grundlagen/Sicherheit und Risiko",
+              "id": "Grundlagen/Sicherheit und Risiko",
+              "title": "4.  Sicherheit und Risiko",
+              "description": "| Material   | Video Informationen und Internet              |",
+              "source": "@site/docs/Grundlagen/Sicherheit und Risiko.md",
+              "sourceDirName": "Grundlagen",
+              "slug": "/Grundlagen/Sicherheit und Risiko",
+              "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Sicherheit und Risiko",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Grundlagen/Sicherheit und Risiko.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "3.  Daten",
+                "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Daten"
+              },
+              "next": {
+                "title": "Datenschutz",
+                "permalink": "/bbzbl-modul-m231/docs/category/datenschutz"
+              }
+            },
+            {
+              "unversionedId": "Grundlagen/Tools und Aufbau des Moduls",
+              "id": "Grundlagen/Tools und Aufbau des Moduls",
+              "title": "1.  Tools und Aufbau des Moduls",
+              "description": "Kurze Einführung in das Modul und die Unterlagen des Moduls, sowie die Tools, LBs und Lernjournal.",
+              "source": "@site/docs/Grundlagen/Tools und Aufbau des Moduls.md",
+              "sourceDirName": "Grundlagen",
+              "slug": "/Grundlagen/Tools und Aufbau des Moduls",
+              "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Tools und Aufbau des Moduls",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Grundlagen/Tools und Aufbau des Moduls.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Grundlagen",
+                "permalink": "/bbzbl-modul-m231/docs/category/grundlagen"
+              },
+              "next": {
+                "title": "2.  Informationssicherheit",
+                "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Informationssicherheit"
               }
             },
             {
@@ -535,8 +670,8 @@
                 "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-08"
               },
               "next": {
-                "title": "Datenschutz",
-                "permalink": "/bbzbl-modul-m231/docs/category/datenschutz"
+                "title": "Grundlagen",
+                "permalink": "/bbzbl-modul-m231/docs/category/grundlagen"
               }
             }
           ],
@@ -622,13 +757,42 @@
               },
               {
                 "type": "category",
+                "label": "Grundlagen",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Grundlagen/Tools und Aufbau des Moduls"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Grundlagen/Informationssicherheit"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Grundlagen/Daten"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Grundlagen/Sicherheit und Risiko"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/grundlagen",
+                  "permalink": "/bbzbl-modul-m231/docs/category/grundlagen"
+                }
+              },
+              {
+                "type": "category",
                 "label": "Datenschutz",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Datenschutz/Daten"
+                    "id": "Datenschutz/Allgemein"
                   },
                   {
                     "type": "doc",
@@ -637,11 +801,15 @@
                   {
                     "type": "doc",
                     "id": "Datenschutz/EU"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Datenschutz/AGBs etc"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "description": "Datenschutz befasst sich mit dem Schutz von persönlichen Daten und damit der Privatsphäre.",
                   "slug": "/category/datenschutz",
                   "permalink": "/bbzbl-modul-m231/docs/category/datenschutz"
                 }

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Grundlagen/Sicherheit und Risiko",
+  "id": "Grundlagen/Sicherheit und Risiko",
+  "title": "4.  Sicherheit und Risiko",
+  "description": "| Material   | Video Informationen und Internet              |",
+  "source": "@site/docs/Grundlagen/Sicherheit und Risiko.md",
+  "sourceDirName": "Grundlagen",
+  "slug": "/Grundlagen/Sicherheit und Risiko",
+  "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Sicherheit und Risiko",
+  "draft": false,
+  "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Grundlagen/Sicherheit und Risiko.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3.  Daten",
+    "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Daten"
+  },
+  "next": {
+    "title": "Datenschutz",
+    "permalink": "/bbzbl-modul-m231/docs/category/datenschutz"
+  }
+}

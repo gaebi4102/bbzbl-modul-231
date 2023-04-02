@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Datenschutz/AGBs etc",
+  "id": "Datenschutz/AGBs etc",
+  "title": "4. Impressum, Disclaimer, AGBs",
+  "description": "Was gibts sonst noch?",
+  "source": "@site/docs/Datenschutz/AGBs etc.md",
+  "sourceDirName": "Datenschutz",
+  "slug": "/Datenschutz/AGBs etc",
+  "permalink": "/bbzbl-modul-m231/docs/Datenschutz/AGBs etc",
+  "draft": false,
+  "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Datenschutz/AGBs etc.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3. EU - DSGVO",
+    "permalink": "/bbzbl-modul-m231/docs/Datenschutz/EU"
+  },
+  "next": {
+    "title": "Datensicherheit",
+    "permalink": "/bbzbl-modul-m231/docs/category/datensicherheit"
+  }
+}

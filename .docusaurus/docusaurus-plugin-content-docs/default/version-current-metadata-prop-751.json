@@ -107,27 +107,66 @@
       },
       {
         "type": "category",
+        "label": "Grundlagen",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "1.  Tools und Aufbau des Moduls",
+            "href": "/bbzbl-modul-m231/docs/Grundlagen/Tools und Aufbau des Moduls",
+            "docId": "Grundlagen/Tools und Aufbau des Moduls"
+          },
+          {
+            "type": "link",
+            "label": "2.  Informationssicherheit",
+            "href": "/bbzbl-modul-m231/docs/Grundlagen/Informationssicherheit",
+            "docId": "Grundlagen/Informationssicherheit"
+          },
+          {
+            "type": "link",
+            "label": "3.  Daten",
+            "href": "/bbzbl-modul-m231/docs/Grundlagen/Daten",
+            "docId": "Grundlagen/Daten"
+          },
+          {
+            "type": "link",
+            "label": "4.  Sicherheit und Risiko",
+            "href": "/bbzbl-modul-m231/docs/Grundlagen/Sicherheit und Risiko",
+            "docId": "Grundlagen/Sicherheit und Risiko"
+          }
+        ],
+        "href": "/bbzbl-modul-m231/docs/category/grundlagen"
+      },
+      {
+        "type": "category",
         "label": "Datenschutz",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "1. Daten",
-            "href": "/bbzbl-modul-m231/docs/Datenschutz/Daten",
-            "docId": "Datenschutz/Daten"
+            "label": "1. Allgemein",
+            "href": "/bbzbl-modul-m231/docs/Datenschutz/Allgemein",
+            "docId": "Datenschutz/Allgemein"
           },
           {
             "type": "link",
-            "label": "2. Schweiz",
+            "label": "2. CH - DSG und nDSG",
             "href": "/bbzbl-modul-m231/docs/Datenschutz/Schweiz",
             "docId": "Datenschutz/Schweiz"
           },
           {
             "type": "link",
-            "label": "3. EU",
+            "label": "3. EU - DSGVO",
             "href": "/bbzbl-modul-m231/docs/Datenschutz/EU",
             "docId": "Datenschutz/EU"
+          },
+          {
+            "type": "link",
+            "label": "4. Impressum, Disclaimer, AGBs",
+            "href": "/bbzbl-modul-m231/docs/Datenschutz/AGBs etc",
+            "docId": "Datenschutz/AGBs etc"
           }
         ],
         "href": "/bbzbl-modul-m231/docs/category/datenschutz"
@@ -198,22 +237,28 @@
       "description": "| Dauer                     | Gewichtung        |",
       "sidebar": "tutorialSidebar"
     },
-    "Datenschutz/Daten": {
-      "id": "Datenschutz/Daten",
-      "title": "1. Daten",
-      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+    "Datenschutz/AGBs etc": {
+      "id": "Datenschutz/AGBs etc",
+      "title": "4. Impressum, Disclaimer, AGBs",
+      "description": "Was gibts sonst noch?",
+      "sidebar": "tutorialSidebar"
+    },
+    "Datenschutz/Allgemein": {
+      "id": "Datenschutz/Allgemein",
+      "title": "1. Allgemein",
+      "description": "Was ist Datenschutz?",
       "sidebar": "tutorialSidebar"
     },
     "Datenschutz/EU": {
       "id": "Datenschutz/EU",
-      "title": "3. EU",
-      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "title": "3. EU - DSGVO",
+      "description": "Wie sieht das in der EU aus?",
       "sidebar": "tutorialSidebar"
     },
     "Datenschutz/Schweiz": {
       "id": "Datenschutz/Schweiz",
-      "title": "2. Schweiz",
-      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "title": "2. CH - DSG und nDSG",
+      "description": "Was sagt das Schweizer Gesetz?",
       "sidebar": "tutorialSidebar"
     },
     "Datensicherheit/Gefahren": {
@@ -226,6 +271,30 @@
       "id": "Frameworks/Nist",
       "title": "1. Nist",
       "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "sidebar": "tutorialSidebar"
+    },
+    "Grundlagen/Daten": {
+      "id": "Grundlagen/Daten",
+      "title": "3.  Daten",
+      "description": "| Material   | Video Informationen und Internet              |",
+      "sidebar": "tutorialSidebar"
+    },
+    "Grundlagen/Informationssicherheit": {
+      "id": "Grundlagen/Informationssicherheit",
+      "title": "2.  Informationssicherheit",
+      "description": "| Material   | Video Informationen und Internet              |",
+      "sidebar": "tutorialSidebar"
+    },
+    "Grundlagen/Sicherheit und Risiko": {
+      "id": "Grundlagen/Sicherheit und Risiko",
+      "title": "4.  Sicherheit und Risiko",
+      "description": "| Material   | Video Informationen und Internet              |",
+      "sidebar": "tutorialSidebar"
+    },
+    "Grundlagen/Tools und Aufbau des Moduls": {
+      "id": "Grundlagen/Tools und Aufbau des Moduls",
+      "title": "1.  Tools und Aufbau des Moduls",
+      "description": "Kurze Einführung in das Modul und die Unterlagen des Moduls, sowie die Tools, LBs und Lernjournal.",
       "sidebar": "tutorialSidebar"
     },
     "Identity und Access Management/Identity": {

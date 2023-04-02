@@ -1,8 +1,8 @@
 {
   "unversionedId": "Datenschutz/Schweiz",
   "id": "Datenschutz/Schweiz",
-  "title": "2. Schweiz",
-  "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+  "title": "2. CH - DSG und nDSG",
+  "description": "Was sagt das Schweizer Gesetz?",
   "source": "@site/docs/Datenschutz/Schweiz.md",
   "sourceDirName": "Datenschutz",
   "slug": "/Datenschutz/Schweiz",
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "1. Daten",
-    "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Daten"
+    "title": "1. Allgemein",
+    "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Allgemein"
   },
   "next": {
-    "title": "3. EU",
+    "title": "3. EU - DSGVO",
     "permalink": "/bbzbl-modul-m231/docs/Datenschutz/EU"
   }
 }

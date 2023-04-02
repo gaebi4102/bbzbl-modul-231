@@ -1,8 +1,8 @@
 {
   "unversionedId": "Datenschutz/EU",
   "id": "Datenschutz/EU",
-  "title": "3. EU",
-  "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+  "title": "3. EU - DSGVO",
+  "description": "Wie sieht das in der EU aus?",
   "source": "@site/docs/Datenschutz/EU.md",
   "sourceDirName": "Datenschutz",
   "slug": "/Datenschutz/EU",
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "2. Schweiz",
+    "title": "2. CH - DSG und nDSG",
     "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Schweiz"
   },
   "next": {
-    "title": "Datensicherheit",
-    "permalink": "/bbzbl-modul-m231/docs/category/datensicherheit"
+    "title": "4. Impressum, Disclaimer, AGBs",
+    "permalink": "/bbzbl-modul-m231/docs/Datenschutz/AGBs etc"
   }
 }

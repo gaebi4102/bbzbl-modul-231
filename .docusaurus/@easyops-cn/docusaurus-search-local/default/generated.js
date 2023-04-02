@@ -5,7 +5,7 @@ export const language = ["de"];
 export const removeDefaultStopWordFilter = false;
 export const removeDefaultStemmer = false;
 export const Mark = null;
-export const searchIndexUrl = "search-index{dir}.json?_=3745040e";
+export const searchIndexUrl = "search-index{dir}.json?_=f4382a62";
 export const searchResultLimits = 8;
 export const searchResultContextMaxLength = 50;
 export const explicitSearchResultPath = false;

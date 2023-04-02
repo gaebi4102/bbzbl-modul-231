@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Informationssicherheit/CIA",
+  "id": "Informationssicherheit/CIA",
+  "title": "1. Gefahren",
+  "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+  "source": "@site/docs/Informationssicherheit/CIA.md",
+  "sourceDirName": "Informationssicherheit",
+  "slug": "/Informationssicherheit/CIA",
+  "permalink": "/bbzbl-modul-m231/docs/Informationssicherheit/CIA",
+  "draft": false,
+  "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Informationssicherheit/CIA.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Informationssicherheit",
+    "permalink": "/bbzbl-modul-m231/docs/category/informationssicherheit"
+  },
+  "next": {
+    "title": "Datenschutz",
+    "permalink": "/bbzbl-modul-m231/docs/category/datenschutz"
+  }
+}

@@ -62,7 +62,7 @@
     },
     "content": "content---bbzbl-modul-m-231-slides-513-3a8"
   },
-  "/bbzbl-modul-m231/docs-395": {
+  "/bbzbl-modul-m231/docs-8cd": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---bbzbl-modul-m-231-docsefa-23d"
@@ -101,13 +101,21 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---bbzbl-modul-m-231-docs-category-frameworksf-2-e-835"
   },
+  "/bbzbl-modul-m231/docs/category/grundlagen-928": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---bbzbl-modul-m-231-docs-category-grundlagendab-d60"
+  },
   "/bbzbl-modul-m231/docs/category/identity-und-access-management-29e": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---bbzbl-modul-m-231-docs-category-identity-und-access-management-9-a-5-a44"
   },
-  "/bbzbl-modul-m231/docs/Datenschutz/Daten-daa": {
+  "/bbzbl-modul-m231/docs/Datenschutz/AGBs etc-328": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---bbzbl-modul-m-231-docs-datenschutz-datend-20-7d0"
+    "content": "content---bbzbl-modul-m-231-docs-datenschutz-ag-bs-etc-418-142"
+  },
+  "/bbzbl-modul-m231/docs/Datenschutz/Allgemein-3b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-datenschutz-allgemein-7-ee-d01"
   },
   "/bbzbl-modul-m231/docs/Datenschutz/EU-fc6": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -124,6 +132,22 @@
   "/bbzbl-modul-m231/docs/Frameworks/Nist-81b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---bbzbl-modul-m-231-docs-frameworks-nist-998-8ea"
+  },
+  "/bbzbl-modul-m231/docs/Grundlagen/Daten-562": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-grundlagen-daten-877-069"
+  },
+  "/bbzbl-modul-m231/docs/Grundlagen/Informationssicherheit-c66": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-grundlagen-informationssicherheit-35-a-c55"
+  },
+  "/bbzbl-modul-m231/docs/Grundlagen/Sicherheit und Risiko-048": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-grundlagen-sicherheit-und-risiko-4-cd-92d"
+  },
+  "/bbzbl-modul-m231/docs/Grundlagen/Tools und Aufbau des Moduls-813": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-grundlagen-tools-und-aufbau-des-moduls-844-437"
   },
   "/bbzbl-modul-m231/docs/Identity und Access Management/Identity-1c3": {
     "__comp": "__comp---theme-doc-item-178-a40",

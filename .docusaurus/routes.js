@@ -54,7 +54,7 @@ export default [
   },
   {
     path: '/bbzbl-modul-m231/docs',
-    component: ComponentCreator('/bbzbl-modul-m231/docs', '395'),
+    component: ComponentCreator('/bbzbl-modul-m231/docs', '8cd'),
     routes: [
       {
         path: '/bbzbl-modul-m231/docs/',
@@ -105,14 +105,26 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/bbzbl-modul-m231/docs/category/grundlagen',
+        component: ComponentCreator('/bbzbl-modul-m231/docs/category/grundlagen', '928'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/bbzbl-modul-m231/docs/category/identity-und-access-management',
         component: ComponentCreator('/bbzbl-modul-m231/docs/category/identity-und-access-management', '29e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/bbzbl-modul-m231/docs/Datenschutz/Daten',
-        component: ComponentCreator('/bbzbl-modul-m231/docs/Datenschutz/Daten', 'daa'),
+        path: '/bbzbl-modul-m231/docs/Datenschutz/AGBs etc',
+        component: ComponentCreator('/bbzbl-modul-m231/docs/Datenschutz/AGBs etc', '328'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/bbzbl-modul-m231/docs/Datenschutz/Allgemein',
+        component: ComponentCreator('/bbzbl-modul-m231/docs/Datenschutz/Allgemein', '3b3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -137,6 +149,30 @@ export default [
       {
         path: '/bbzbl-modul-m231/docs/Frameworks/Nist',
         component: ComponentCreator('/bbzbl-modul-m231/docs/Frameworks/Nist', '81b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/bbzbl-modul-m231/docs/Grundlagen/Daten',
+        component: ComponentCreator('/bbzbl-modul-m231/docs/Grundlagen/Daten', '562'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/bbzbl-modul-m231/docs/Grundlagen/Informationssicherheit',
+        component: ComponentCreator('/bbzbl-modul-m231/docs/Grundlagen/Informationssicherheit', 'c66'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/bbzbl-modul-m231/docs/Grundlagen/Sicherheit und Risiko',
+        component: ComponentCreator('/bbzbl-modul-m231/docs/Grundlagen/Sicherheit und Risiko', '048'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/bbzbl-modul-m231/docs/Grundlagen/Tools und Aufbau des Moduls',
+        component: ComponentCreator('/bbzbl-modul-m231/docs/Grundlagen/Tools und Aufbau des Moduls', '813'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

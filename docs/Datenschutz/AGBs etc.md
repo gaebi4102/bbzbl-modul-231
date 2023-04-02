@@ -1,10 +1,10 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
-# 3. EU - DSGVO
+# 4. Impressum, Disclaimer, AGBs
 
-Wie sieht das in der EU aus?
+Was gibts sonst noch?
 
 | **Material**   | Video Informationen und Internet              |
 | :------------- | :-------------------------------------------- |
@@ -13,8 +13,9 @@ Wie sieht das in der EU aus?
 
 ## Ziel
 
-* Sie kennen die Unterschiedlichen Arten von Daten.
-* Sie kennen die Unterschiedlichen zustände welche Daten haben können.
+* Sie wissen wan es ein Impressum benötig und was es beinhaltet.
+* Sie wissen was ein Disclaimer ist und wan dieser sinvoll ist.
+* Sie wissen was AGBs sind und wan diese sinvoll sind.
 
 ## Video
 
@@ -25,6 +26,7 @@ Wie sieht das in der EU aus?
 Als einstig schauen Sie sich das Video zum Thema Daten an. Vertiefen sie das Thema weiter mit Hilfe der Quellen.
 
 Beantworten sie folgende Fragen im Lernjournal:
+
 
 - Was sind Daten?
 - Welche Arten von Daten gibt es?

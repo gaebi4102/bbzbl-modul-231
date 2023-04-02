@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Informationssicherheit/Was sind Daten copy",
+  "id": "Informationssicherheit/Was sind Daten copy",
+  "title": "2. Was ist Daten?",
+  "description": "| Material   | Video Informationen und Internet              |",
+  "source": "@site/docs/Informationssicherheit/Was sind Daten copy.md",
+  "sourceDirName": "Informationssicherheit",
+  "slug": "/Informationssicherheit/Was sind Daten copy",
+  "permalink": "/bbzbl-modul-m231/docs/Informationssicherheit/Was sind Daten copy",
+  "draft": false,
+  "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Informationssicherheit/Was sind Daten copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1. Was ist Informationssicherheit?",
+    "permalink": "/bbzbl-modul-m231/docs/Informationssicherheit/Was ist Informationssicherheit"
+  },
+  "next": {
+    "title": "2. Was ist Daten?",
+    "permalink": "/bbzbl-modul-m231/docs/Informationssicherheit/Was sind Daten"
+  }
+}

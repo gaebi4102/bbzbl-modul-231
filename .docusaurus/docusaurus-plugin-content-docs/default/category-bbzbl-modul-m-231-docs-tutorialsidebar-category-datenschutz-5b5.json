@@ -1,16 +1,16 @@
 {
   "title": "Datenschutz",
-  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "description": "Datenschutz befasst sich mit dem Schutz von persönlichen Daten und damit der Privatsphäre.",
   "slug": "/category/datenschutz",
   "permalink": "/bbzbl-modul-m231/docs/category/datenschutz",
   "navigation": {
     "previous": {
-      "title": "Woche 9",
-      "permalink": "/bbzbl-modul-m231/docs/lektionen/woche-09"
+      "title": "4.  Sicherheit und Risiko",
+      "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Sicherheit und Risiko"
     },
     "next": {
-      "title": "1. Daten",
-      "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Daten"
+      "title": "1. Allgemein",
+      "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Allgemein"
     }
   }
 }

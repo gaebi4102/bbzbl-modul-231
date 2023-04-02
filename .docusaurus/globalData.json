@@ -26,8 +26,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Datenschutz/Daten",
-              "path": "/bbzbl-modul-m231/docs/Datenschutz/Daten",
+              "id": "Datenschutz/AGBs etc",
+              "path": "/bbzbl-modul-m231/docs/Datenschutz/AGBs etc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Datenschutz/Allgemein",
+              "path": "/bbzbl-modul-m231/docs/Datenschutz/Allgemein",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -48,6 +53,26 @@
             {
               "id": "Frameworks/Nist",
               "path": "/bbzbl-modul-m231/docs/Frameworks/Nist",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Grundlagen/Daten",
+              "path": "/bbzbl-modul-m231/docs/Grundlagen/Daten",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Grundlagen/Informationssicherheit",
+              "path": "/bbzbl-modul-m231/docs/Grundlagen/Informationssicherheit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Grundlagen/Sicherheit und Risiko",
+              "path": "/bbzbl-modul-m231/docs/Grundlagen/Sicherheit und Risiko",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Grundlagen/Tools und Aufbau des Moduls",
+              "path": "/bbzbl-modul-m231/docs/Grundlagen/Tools und Aufbau des Moduls",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -113,6 +138,11 @@
             {
               "id": "/category/beurteilungen",
               "path": "/bbzbl-modul-m231/docs/category/beurteilungen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/grundlagen",
+              "path": "/bbzbl-modul-m231/docs/category/grundlagen",
               "sidebar": "tutorialSidebar"
             },
             {

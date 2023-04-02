@@ -2,9 +2,7 @@
 sidebar_position: 3
 ---
 
-# 3. EU - DSGVO
-
-Wie sieht das in der EU aus?
+# 3.  Daten
 
 | **Material**   | Video Informationen und Internet              |
 | :------------- | :-------------------------------------------- |
