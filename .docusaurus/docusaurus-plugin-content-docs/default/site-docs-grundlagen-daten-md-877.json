@@ -6,9 +6,9 @@
   "source": "@site/docs/Grundlagen/Daten.md",
   "sourceDirName": "Grundlagen",
   "slug": "/Grundlagen/Daten",
-  "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Daten",
+  "permalink": "/bbzbl-modul-231/docs/Grundlagen/Daten",
   "draft": false,
-  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Grundlagen/Daten.md",
+  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Grundlagen/Daten.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "2.  Informationssicherheit",
-    "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Informationssicherheit"
+    "permalink": "/bbzbl-modul-231/docs/Grundlagen/Informationssicherheit"
   },
   "next": {
     "title": "4.  Sicherheit und Risiko",
-    "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Sicherheit und Risiko"
+    "permalink": "/bbzbl-modul-231/docs/Grundlagen/Sicherheit und Risiko"
   }
 }

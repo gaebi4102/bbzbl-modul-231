@@ -6,9 +6,9 @@
   "source": "@site/docs/Frameworks/Nist.md",
   "sourceDirName": "Frameworks",
   "slug": "/Frameworks/Nist",
-  "permalink": "/bbzbl-modul-m231/docs/Frameworks/Nist",
+  "permalink": "/bbzbl-modul-231/docs/Frameworks/Nist",
   "draft": false,
-  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Frameworks/Nist.md",
+  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Frameworks/Nist.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Frameworks",
-    "permalink": "/bbzbl-modul-m231/docs/category/frameworks"
+    "permalink": "/bbzbl-modul-231/docs/category/frameworks"
   },
   "next": {
     "title": "Verschlüsselung",
-    "permalink": "/bbzbl-modul-m231/docs/category/verschlüsselung"
+    "permalink": "/bbzbl-modul-231/docs/category/verschlüsselung"
   }
 }

@@ -6,19 +6,19 @@
   "source": "@site/docs/beurteilungen/lb1.md",
   "sourceDirName": "beurteilungen",
   "slug": "/beurteilungen/lb1",
-  "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb1",
+  "permalink": "/bbzbl-modul-231/docs/beurteilungen/lb1",
   "draft": false,
-  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/beurteilungen/lb1.md",
+  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/beurteilungen/lb1.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Beurteilungen",
-    "permalink": "/bbzbl-modul-m231/docs/category/beurteilungen"
+    "permalink": "/bbzbl-modul-231/docs/category/beurteilungen"
   },
   "next": {
-    "title": "LB 2 - Projekt",
-    "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb2"
+    "title": "LB 2",
+    "permalink": "/bbzbl-modul-231/docs/beurteilungen/lb2"
   }
 }

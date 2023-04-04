@@ -2,13 +2,13 @@
   "unversionedId": "Identity und Access Management/RBAC",
   "id": "Identity und Access Management/RBAC",
   "title": "4. RBAC",
-  "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+  "description": "| Material   | Video Informationen und Internet              |",
   "source": "@site/docs/Identity und Access Management/RBAC.md",
   "sourceDirName": "Identity und Access Management",
   "slug": "/Identity und Access Management/RBAC",
-  "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/RBAC",
+  "permalink": "/bbzbl-modul-231/docs/Identity und Access Management/RBAC",
   "draft": false,
-  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Identity und Access Management/RBAC.md",
+  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Identity und Access Management/RBAC.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "3. Passwörter und MFA",
-    "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Passwörter und MFA"
+    "permalink": "/bbzbl-modul-231/docs/Identity und Access Management/Passwörter und MFA"
   },
   "next": {
     "title": "Lizenzen",
-    "permalink": "/bbzbl-modul-m231/docs/category/lizenzen"
+    "permalink": "/bbzbl-modul-231/docs/category/lizenzen"
   }
 }

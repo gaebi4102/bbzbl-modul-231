@@ -6,9 +6,9 @@
   "source": "@site/docs/Datenschutz/AGBs etc.md",
   "sourceDirName": "Datenschutz",
   "slug": "/Datenschutz/AGBs etc",
-  "permalink": "/bbzbl-modul-m231/docs/Datenschutz/AGBs etc",
+  "permalink": "/bbzbl-modul-231/docs/Datenschutz/AGBs etc",
   "draft": false,
-  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Datenschutz/AGBs etc.md",
+  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Datenschutz/AGBs etc.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "3. EU - DSGVO",
-    "permalink": "/bbzbl-modul-m231/docs/Datenschutz/EU"
+    "permalink": "/bbzbl-modul-231/docs/Datenschutz/EU"
   },
   "next": {
     "title": "Datensicherheit",
-    "permalink": "/bbzbl-modul-m231/docs/category/datensicherheit"
+    "permalink": "/bbzbl-modul-231/docs/category/datensicherheit"
   }
 }

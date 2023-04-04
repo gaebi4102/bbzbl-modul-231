@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Allgemeine Informationen",
-        "href": "/bbzbl-modul-m231/docs/",
+        "href": "/bbzbl-modul-231/docs/",
         "docId": "index"
       },
       {
@@ -24,23 +24,23 @@
           {
             "type": "link",
             "label": "LB 1",
-            "href": "/bbzbl-modul-m231/docs/beurteilungen/lb1",
+            "href": "/bbzbl-modul-231/docs/beurteilungen/lb1",
             "docId": "beurteilungen/lb1"
           },
           {
             "type": "link",
-            "label": "LB 2 - Projekt",
-            "href": "/bbzbl-modul-m231/docs/beurteilungen/lb2",
+            "label": "LB 2",
+            "href": "/bbzbl-modul-231/docs/beurteilungen/lb2",
             "docId": "beurteilungen/lb2"
           },
           {
             "type": "link",
-            "label": "LB 2 - Projekt",
-            "href": "/bbzbl-modul-m231/docs/beurteilungen/lb3",
+            "label": "LB 3",
+            "href": "/bbzbl-modul-231/docs/beurteilungen/lb3",
             "docId": "beurteilungen/lb3"
           }
         ],
-        "href": "/bbzbl-modul-m231/docs/category/beurteilungen"
+        "href": "/bbzbl-modul-231/docs/category/beurteilungen"
       },
       {
         "type": "category",
@@ -51,29 +51,29 @@
           {
             "type": "link",
             "label": "1.  Tools und Aufbau des Moduls",
-            "href": "/bbzbl-modul-m231/docs/Grundlagen/Tools und Aufbau des Moduls",
+            "href": "/bbzbl-modul-231/docs/Grundlagen/Tools und Aufbau des Moduls",
             "docId": "Grundlagen/Tools und Aufbau des Moduls"
           },
           {
             "type": "link",
             "label": "2.  Informationssicherheit",
-            "href": "/bbzbl-modul-m231/docs/Grundlagen/Informationssicherheit",
+            "href": "/bbzbl-modul-231/docs/Grundlagen/Informationssicherheit",
             "docId": "Grundlagen/Informationssicherheit"
           },
           {
             "type": "link",
             "label": "3.  Daten",
-            "href": "/bbzbl-modul-m231/docs/Grundlagen/Daten",
+            "href": "/bbzbl-modul-231/docs/Grundlagen/Daten",
             "docId": "Grundlagen/Daten"
           },
           {
             "type": "link",
             "label": "4.  Sicherheit und Risiko",
-            "href": "/bbzbl-modul-m231/docs/Grundlagen/Sicherheit und Risiko",
+            "href": "/bbzbl-modul-231/docs/Grundlagen/Sicherheit und Risiko",
             "docId": "Grundlagen/Sicherheit und Risiko"
           }
         ],
-        "href": "/bbzbl-modul-m231/docs/category/grundlagen"
+        "href": "/bbzbl-modul-231/docs/category/grundlagen"
       },
       {
         "type": "category",
@@ -84,29 +84,29 @@
           {
             "type": "link",
             "label": "1. Allgemein",
-            "href": "/bbzbl-modul-m231/docs/Datenschutz/Allgemein",
+            "href": "/bbzbl-modul-231/docs/Datenschutz/Allgemein",
             "docId": "Datenschutz/Allgemein"
           },
           {
             "type": "link",
             "label": "2. CH - DSG und nDSG",
-            "href": "/bbzbl-modul-m231/docs/Datenschutz/Schweiz",
+            "href": "/bbzbl-modul-231/docs/Datenschutz/Schweiz",
             "docId": "Datenschutz/Schweiz"
           },
           {
             "type": "link",
             "label": "3. EU - DSGVO",
-            "href": "/bbzbl-modul-m231/docs/Datenschutz/EU",
+            "href": "/bbzbl-modul-231/docs/Datenschutz/EU",
             "docId": "Datenschutz/EU"
           },
           {
             "type": "link",
             "label": "4. Impressum, Disclaimer, AGBs",
-            "href": "/bbzbl-modul-m231/docs/Datenschutz/AGBs etc",
+            "href": "/bbzbl-modul-231/docs/Datenschutz/AGBs etc",
             "docId": "Datenschutz/AGBs etc"
           }
         ],
-        "href": "/bbzbl-modul-m231/docs/category/datenschutz"
+        "href": "/bbzbl-modul-231/docs/category/datenschutz"
       },
       {
         "type": "category",
@@ -117,11 +117,11 @@
           {
             "type": "link",
             "label": "1. Gefahren",
-            "href": "/bbzbl-modul-m231/docs/Datensicherheit/Gefahren",
+            "href": "/bbzbl-modul-231/docs/Datensicherheit/Gefahren",
             "docId": "Datensicherheit/Gefahren"
           }
         ],
-        "href": "/bbzbl-modul-m231/docs/category/datensicherheit"
+        "href": "/bbzbl-modul-231/docs/category/datensicherheit"
       },
       {
         "type": "category",
@@ -132,29 +132,29 @@
           {
             "type": "link",
             "label": "1. Identity",
-            "href": "/bbzbl-modul-m231/docs/Identity und Access Management/Identity",
+            "href": "/bbzbl-modul-231/docs/Identity und Access Management/Identity",
             "docId": "Identity und Access Management/Identity"
           },
           {
             "type": "link",
             "label": "2. Authentifizierung und Autorisierung",
-            "href": "/bbzbl-modul-m231/docs/Identity und Access Management/Authentifizierung und Autorisierung",
+            "href": "/bbzbl-modul-231/docs/Identity und Access Management/Authentifizierung und Autorisierung",
             "docId": "Identity und Access Management/Authentifizierung und Autorisierung"
           },
           {
             "type": "link",
             "label": "3. Passwörter und MFA",
-            "href": "/bbzbl-modul-m231/docs/Identity und Access Management/Passwörter und MFA",
+            "href": "/bbzbl-modul-231/docs/Identity und Access Management/Passwörter und MFA",
             "docId": "Identity und Access Management/Passwörter und MFA"
           },
           {
             "type": "link",
             "label": "4. RBAC",
-            "href": "/bbzbl-modul-m231/docs/Identity und Access Management/RBAC",
+            "href": "/bbzbl-modul-231/docs/Identity und Access Management/RBAC",
             "docId": "Identity und Access Management/RBAC"
           }
         ],
-        "href": "/bbzbl-modul-m231/docs/category/identity-und-access-management"
+        "href": "/bbzbl-modul-231/docs/category/identity-und-access-management"
       },
       {
         "type": "category",
@@ -165,23 +165,23 @@
           {
             "type": "link",
             "label": "1. Grundlagen/ Urheberrecht",
-            "href": "/bbzbl-modul-m231/docs/Lizenzen/Grundlagen",
+            "href": "/bbzbl-modul-231/docs/Lizenzen/Grundlagen",
             "docId": "Lizenzen/Grundlagen"
           },
           {
             "type": "link",
             "label": "2. Software Lizenzen",
-            "href": "/bbzbl-modul-m231/docs/Lizenzen/Software",
+            "href": "/bbzbl-modul-231/docs/Lizenzen/Software",
             "docId": "Lizenzen/Software"
           },
           {
             "type": "link",
             "label": "3. Bildlizenzen",
-            "href": "/bbzbl-modul-m231/docs/Lizenzen/Bilder",
+            "href": "/bbzbl-modul-231/docs/Lizenzen/Bilder",
             "docId": "Lizenzen/Bilder"
           }
         ],
-        "href": "/bbzbl-modul-m231/docs/category/lizenzen"
+        "href": "/bbzbl-modul-231/docs/category/lizenzen"
       },
       {
         "type": "category",
@@ -191,12 +191,12 @@
         "items": [
           {
             "type": "link",
-            "label": "1. Identity",
-            "href": "/bbzbl-modul-m231/docs/Massnahmen/Identity",
-            "docId": "Massnahmen/Identity"
+            "label": "1. Vorlage",
+            "href": "/bbzbl-modul-231/docs/Massnahmen/Vorlage",
+            "docId": "Massnahmen/Vorlage"
           }
         ],
-        "href": "/bbzbl-modul-m231/docs/category/massnahmen"
+        "href": "/bbzbl-modul-231/docs/category/massnahmen"
       },
       {
         "type": "category",
@@ -207,11 +207,11 @@
           {
             "type": "link",
             "label": "1. Nist",
-            "href": "/bbzbl-modul-m231/docs/Frameworks/Nist",
+            "href": "/bbzbl-modul-231/docs/Frameworks/Nist",
             "docId": "Frameworks/Nist"
           }
         ],
-        "href": "/bbzbl-modul-m231/docs/category/frameworks"
+        "href": "/bbzbl-modul-231/docs/category/frameworks"
       },
       {
         "type": "category",
@@ -221,12 +221,12 @@
         "items": [
           {
             "type": "link",
-            "label": "1. Identity",
-            "href": "/bbzbl-modul-m231/docs/Verschlüsselung/Identity",
-            "docId": "Verschlüsselung/Identity"
+            "label": "1. Vorlage",
+            "href": "/bbzbl-modul-231/docs/Verschlüsselung/Vorlage",
+            "docId": "Verschlüsselung/Vorlage"
           }
         ],
-        "href": "/bbzbl-modul-m231/docs/category/verschlüsselung"
+        "href": "/bbzbl-modul-231/docs/category/verschlüsselung"
       }
     ]
   },
@@ -239,14 +239,14 @@
     },
     "beurteilungen/lb2": {
       "id": "beurteilungen/lb2",
-      "title": "LB 2 - Projekt",
-      "description": "| Dauer                     | Gewichtung        |",
+      "title": "LB 2",
+      "description": "| Dauer  | Gewichtung        |",
       "sidebar": "tutorialSidebar"
     },
     "beurteilungen/lb3": {
       "id": "beurteilungen/lb3",
-      "title": "LB 2 - Projekt",
-      "description": "| Dauer                     | Gewichtung        |",
+      "title": "LB 3",
+      "description": "| Dauer  | Gewichtung        |",
       "sidebar": "tutorialSidebar"
     },
     "Datenschutz/AGBs etc": {
@@ -312,25 +312,25 @@
     "Identity und Access Management/Authentifizierung und Autorisierung": {
       "id": "Identity und Access Management/Authentifizierung und Autorisierung",
       "title": "2. Authentifizierung und Autorisierung",
-      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "description": "| Material   | Video Informationen und Internet              |",
       "sidebar": "tutorialSidebar"
     },
     "Identity und Access Management/Identity": {
       "id": "Identity und Access Management/Identity",
       "title": "1. Identity",
-      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "description": "| Material   | Video Informationen und Internet              |",
       "sidebar": "tutorialSidebar"
     },
     "Identity und Access Management/Passwörter und MFA": {
       "id": "Identity und Access Management/Passwörter und MFA",
       "title": "3. Passwörter und MFA",
-      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "description": "| Material   | Video Informationen und Internet              |",
       "sidebar": "tutorialSidebar"
     },
     "Identity und Access Management/RBAC": {
       "id": "Identity und Access Management/RBAC",
       "title": "4. RBAC",
-      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "description": "| Material   | Video Informationen und Internet              |",
       "sidebar": "tutorialSidebar"
     },
     "index": {
@@ -342,31 +342,31 @@
     "Lizenzen/Bilder": {
       "id": "Lizenzen/Bilder",
       "title": "3. Bildlizenzen",
-      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "description": "| Material   | Video Informationen und Internet              |",
       "sidebar": "tutorialSidebar"
     },
     "Lizenzen/Grundlagen": {
       "id": "Lizenzen/Grundlagen",
       "title": "1. Grundlagen/ Urheberrecht",
-      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "description": "| Material   | Video Informationen und Internet              |",
       "sidebar": "tutorialSidebar"
     },
     "Lizenzen/Software": {
       "id": "Lizenzen/Software",
       "title": "2. Software Lizenzen",
-      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "description": "| Material   | Video Informationen und Internet              |",
       "sidebar": "tutorialSidebar"
     },
-    "Massnahmen/Identity": {
-      "id": "Massnahmen/Identity",
-      "title": "1. Identity",
-      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+    "Massnahmen/Vorlage": {
+      "id": "Massnahmen/Vorlage",
+      "title": "1. Vorlage",
+      "description": "| Material   | Video Informationen und Internet              |",
       "sidebar": "tutorialSidebar"
     },
-    "Verschlüsselung/Identity": {
-      "id": "Verschlüsselung/Identity",
-      "title": "1. Identity",
-      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+    "Verschlüsselung/Vorlage": {
+      "id": "Verschlüsselung/Vorlage",
+      "title": "1. Vorlage",
+      "description": "| Material   | Video Informationen und Internet              |",
       "sidebar": "tutorialSidebar"
     }
   }

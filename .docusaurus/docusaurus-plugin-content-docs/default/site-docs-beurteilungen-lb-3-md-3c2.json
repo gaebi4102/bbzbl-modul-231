@@ -1,24 +1,24 @@
 {
   "unversionedId": "beurteilungen/lb3",
   "id": "beurteilungen/lb3",
-  "title": "LB 2 - Projekt",
-  "description": "| Dauer                     | Gewichtung        |",
+  "title": "LB 3",
+  "description": "| Dauer  | Gewichtung        |",
   "source": "@site/docs/beurteilungen/lb3.md",
   "sourceDirName": "beurteilungen",
   "slug": "/beurteilungen/lb3",
-  "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb3",
+  "permalink": "/bbzbl-modul-231/docs/beurteilungen/lb3",
   "draft": false,
-  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/beurteilungen/lb3.md",
+  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/beurteilungen/lb3.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "LB 2 - Projekt",
-    "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb2"
+    "title": "LB 2",
+    "permalink": "/bbzbl-modul-231/docs/beurteilungen/lb2"
   },
   "next": {
     "title": "Grundlagen",
-    "permalink": "/bbzbl-modul-m231/docs/category/grundlagen"
+    "permalink": "/bbzbl-modul-231/docs/category/grundlagen"
   }
 }

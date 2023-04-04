@@ -6,9 +6,9 @@
   "source": "@site/docs/Datenschutz/Allgemein.md",
   "sourceDirName": "Datenschutz",
   "slug": "/Datenschutz/Allgemein",
-  "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Allgemein",
+  "permalink": "/bbzbl-modul-231/docs/Datenschutz/Allgemein",
   "draft": false,
-  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Datenschutz/Allgemein.md",
+  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Datenschutz/Allgemein.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Datenschutz",
-    "permalink": "/bbzbl-modul-m231/docs/category/datenschutz"
+    "permalink": "/bbzbl-modul-231/docs/category/datenschutz"
   },
   "next": {
     "title": "2. CH - DSG und nDSG",
-    "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Schweiz"
+    "permalink": "/bbzbl-modul-231/docs/Datenschutz/Schweiz"
   }
 }

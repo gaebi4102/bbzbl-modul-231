@@ -2,13 +2,13 @@
   "unversionedId": "Lizenzen/Bilder",
   "id": "Lizenzen/Bilder",
   "title": "3. Bildlizenzen",
-  "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+  "description": "| Material   | Video Informationen und Internet              |",
   "source": "@site/docs/Lizenzen/Bilder.md",
   "sourceDirName": "Lizenzen",
   "slug": "/Lizenzen/Bilder",
-  "permalink": "/bbzbl-modul-m231/docs/Lizenzen/Bilder",
+  "permalink": "/bbzbl-modul-231/docs/Lizenzen/Bilder",
   "draft": false,
-  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Lizenzen/Bilder.md",
+  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Lizenzen/Bilder.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "2. Software Lizenzen",
-    "permalink": "/bbzbl-modul-m231/docs/Lizenzen/Software"
+    "permalink": "/bbzbl-modul-231/docs/Lizenzen/Software"
   },
   "next": {
     "title": "Massnahmen",
-    "permalink": "/bbzbl-modul-m231/docs/category/massnahmen"
+    "permalink": "/bbzbl-modul-231/docs/category/massnahmen"
   }
 }

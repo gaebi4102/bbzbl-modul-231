@@ -6,9 +6,9 @@
   "source": "@site/docs/Grundlagen/Sicherheit und Risiko.md",
   "sourceDirName": "Grundlagen",
   "slug": "/Grundlagen/Sicherheit und Risiko",
-  "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Sicherheit und Risiko",
+  "permalink": "/bbzbl-modul-231/docs/Grundlagen/Sicherheit und Risiko",
   "draft": false,
-  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Grundlagen/Sicherheit und Risiko.md",
+  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Grundlagen/Sicherheit und Risiko.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "3.  Daten",
-    "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Daten"
+    "permalink": "/bbzbl-modul-231/docs/Grundlagen/Daten"
   },
   "next": {
     "title": "Datenschutz",
-    "permalink": "/bbzbl-modul-m231/docs/category/datenschutz"
+    "permalink": "/bbzbl-modul-231/docs/category/datenschutz"
   }
 }

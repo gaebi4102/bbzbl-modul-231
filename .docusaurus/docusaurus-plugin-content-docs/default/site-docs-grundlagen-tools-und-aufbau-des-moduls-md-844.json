@@ -6,9 +6,9 @@
   "source": "@site/docs/Grundlagen/Tools und Aufbau des Moduls.md",
   "sourceDirName": "Grundlagen",
   "slug": "/Grundlagen/Tools und Aufbau des Moduls",
-  "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Tools und Aufbau des Moduls",
+  "permalink": "/bbzbl-modul-231/docs/Grundlagen/Tools und Aufbau des Moduls",
   "draft": false,
-  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Grundlagen/Tools und Aufbau des Moduls.md",
+  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Grundlagen/Tools und Aufbau des Moduls.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Grundlagen",
-    "permalink": "/bbzbl-modul-m231/docs/category/grundlagen"
+    "permalink": "/bbzbl-modul-231/docs/category/grundlagen"
   },
   "next": {
     "title": "2.  Informationssicherheit",
-    "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Informationssicherheit"
+    "permalink": "/bbzbl-modul-231/docs/Grundlagen/Informationssicherheit"
   }
 }

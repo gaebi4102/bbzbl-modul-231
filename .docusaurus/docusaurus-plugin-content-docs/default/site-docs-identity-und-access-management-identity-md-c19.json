@@ -2,13 +2,13 @@
   "unversionedId": "Identity und Access Management/Identity",
   "id": "Identity und Access Management/Identity",
   "title": "1. Identity",
-  "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+  "description": "| Material   | Video Informationen und Internet              |",
   "source": "@site/docs/Identity und Access Management/Identity.md",
   "sourceDirName": "Identity und Access Management",
   "slug": "/Identity und Access Management/Identity",
-  "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Identity",
+  "permalink": "/bbzbl-modul-231/docs/Identity und Access Management/Identity",
   "draft": false,
-  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Identity und Access Management/Identity.md",
+  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Identity und Access Management/Identity.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Identity und Access Management",
-    "permalink": "/bbzbl-modul-m231/docs/category/identity-und-access-management"
+    "permalink": "/bbzbl-modul-231/docs/category/identity-und-access-management"
   },
   "next": {
     "title": "2. Authentifizierung und Autorisierung",
-    "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Authentifizierung und Autorisierung"
+    "permalink": "/bbzbl-modul-231/docs/Identity und Access Management/Authentifizierung und Autorisierung"
   }
 }

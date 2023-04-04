@@ -7,7 +7,7 @@ export default {
   "title": "Modul M231",
   "tagline": "Datenschutz und Datensicherheit anwenden",
   "url": "http://localhost:3000",
-  "baseUrl": "/bbzbl-modul-m231/",
+  "baseUrl": "/bbzbl-modul-231/",
   "onBrokenLinks": "log",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.png",
@@ -15,7 +15,7 @@ export default {
     "mermaid": true
   },
   "organizationName": "gaebi4102",
-  "projectName": "bbzbl-modul-m231",
+  "projectName": "bbzbl-modul-231",
   "i18n": {
     "defaultLocale": "de",
     "locales": [
@@ -43,8 +43,8 @@ export default {
       "devserver-config",
       {
         "proxy": {
-          "/bbzbl-modul-m231/slides": {
-            "target": "http://localhost:3003"
+          "/bbzbl-modul-231/slides": {
+            "target": "http://localhost:3000"
           }
         }
       }
@@ -56,7 +56,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/gianlucaaebi/git/m231/sidebars.js",
-          "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/",
+          "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/",
           "remarkPlugins": [
             {}
           ]
@@ -94,7 +94,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/gaebi4102/bbzbl-modul-m231",
+          "href": "https://github.com/gaebi4102/bbzbl-modul-231",
           "label": "GitHub",
           "position": "right"
         }

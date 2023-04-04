@@ -2,13 +2,13 @@
   "unversionedId": "Identity und Access Management/Passwörter und MFA",
   "id": "Identity und Access Management/Passwörter und MFA",
   "title": "3. Passwörter und MFA",
-  "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+  "description": "| Material   | Video Informationen und Internet              |",
   "source": "@site/docs/Identity und Access Management/Passwörter und MFA.md",
   "sourceDirName": "Identity und Access Management",
   "slug": "/Identity und Access Management/Passwörter und MFA",
-  "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Passwörter und MFA",
+  "permalink": "/bbzbl-modul-231/docs/Identity und Access Management/Passwörter und MFA",
   "draft": false,
-  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Identity und Access Management/Passwörter und MFA.md",
+  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Identity und Access Management/Passwörter und MFA.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "2. Authentifizierung und Autorisierung",
-    "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Authentifizierung und Autorisierung"
+    "permalink": "/bbzbl-modul-231/docs/Identity und Access Management/Authentifizierung und Autorisierung"
   },
   "next": {
     "title": "4. RBAC",
-    "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/RBAC"
+    "permalink": "/bbzbl-modul-231/docs/Identity und Access Management/RBAC"
   }
 }

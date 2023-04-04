@@ -6,9 +6,9 @@
   "source": "@site/docs/Datenschutz/Schweiz.md",
   "sourceDirName": "Datenschutz",
   "slug": "/Datenschutz/Schweiz",
-  "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Schweiz",
+  "permalink": "/bbzbl-modul-231/docs/Datenschutz/Schweiz",
   "draft": false,
-  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Datenschutz/Schweiz.md",
+  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Datenschutz/Schweiz.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "1. Allgemein",
-    "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Allgemein"
+    "permalink": "/bbzbl-modul-231/docs/Datenschutz/Allgemein"
   },
   "next": {
     "title": "3. EU - DSGVO",
-    "permalink": "/bbzbl-modul-m231/docs/Datenschutz/EU"
+    "permalink": "/bbzbl-modul-231/docs/Datenschutz/EU"
   }
 }

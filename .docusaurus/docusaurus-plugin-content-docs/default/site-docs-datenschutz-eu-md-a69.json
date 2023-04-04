@@ -6,9 +6,9 @@
   "source": "@site/docs/Datenschutz/EU.md",
   "sourceDirName": "Datenschutz",
   "slug": "/Datenschutz/EU",
-  "permalink": "/bbzbl-modul-m231/docs/Datenschutz/EU",
+  "permalink": "/bbzbl-modul-231/docs/Datenschutz/EU",
   "draft": false,
-  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Datenschutz/EU.md",
+  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Datenschutz/EU.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "2. CH - DSG und nDSG",
-    "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Schweiz"
+    "permalink": "/bbzbl-modul-231/docs/Datenschutz/Schweiz"
   },
   "next": {
     "title": "4. Impressum, Disclaimer, AGBs",
-    "permalink": "/bbzbl-modul-m231/docs/Datenschutz/AGBs etc"
+    "permalink": "/bbzbl-modul-231/docs/Datenschutz/AGBs etc"
   }
 }

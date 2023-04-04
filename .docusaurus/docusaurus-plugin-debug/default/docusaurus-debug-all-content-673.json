@@ -9,10 +9,10 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/bbzbl-modul-m231/docs",
-          "tagsPath": "/bbzbl-modul-m231/docs/tags",
-          "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs",
-          "editUrlLocalized": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/i18n/de/docusaurus-plugin-content-docs/current",
+          "path": "/bbzbl-modul-231/docs",
+          "tagsPath": "/bbzbl-modul-231/docs/tags",
+          "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs",
+          "editUrlLocalized": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/i18n/de/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/Users/gianlucaaebi/git/m231/sidebars.js",
@@ -27,68 +27,68 @@
               "source": "@site/docs/beurteilungen/lb1.md",
               "sourceDirName": "beurteilungen",
               "slug": "/beurteilungen/lb1",
-              "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb1",
+              "permalink": "/bbzbl-modul-231/docs/beurteilungen/lb1",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/beurteilungen/lb1.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/beurteilungen/lb1.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Beurteilungen",
-                "permalink": "/bbzbl-modul-m231/docs/category/beurteilungen"
+                "permalink": "/bbzbl-modul-231/docs/category/beurteilungen"
               },
               "next": {
-                "title": "LB 2 - Projekt",
-                "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb2"
+                "title": "LB 2",
+                "permalink": "/bbzbl-modul-231/docs/beurteilungen/lb2"
               }
             },
             {
               "unversionedId": "beurteilungen/lb2",
               "id": "beurteilungen/lb2",
-              "title": "LB 2 - Projekt",
-              "description": "| Dauer                     | Gewichtung        |",
+              "title": "LB 2",
+              "description": "| Dauer  | Gewichtung        |",
               "source": "@site/docs/beurteilungen/lb2.md",
               "sourceDirName": "beurteilungen",
               "slug": "/beurteilungen/lb2",
-              "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb2",
+              "permalink": "/bbzbl-modul-231/docs/beurteilungen/lb2",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/beurteilungen/lb2.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/beurteilungen/lb2.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "LB 1",
-                "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb1"
+                "permalink": "/bbzbl-modul-231/docs/beurteilungen/lb1"
               },
               "next": {
-                "title": "LB 2 - Projekt",
-                "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb3"
+                "title": "LB 3",
+                "permalink": "/bbzbl-modul-231/docs/beurteilungen/lb3"
               }
             },
             {
               "unversionedId": "beurteilungen/lb3",
               "id": "beurteilungen/lb3",
-              "title": "LB 2 - Projekt",
-              "description": "| Dauer                     | Gewichtung        |",
+              "title": "LB 3",
+              "description": "| Dauer  | Gewichtung        |",
               "source": "@site/docs/beurteilungen/lb3.md",
               "sourceDirName": "beurteilungen",
               "slug": "/beurteilungen/lb3",
-              "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb3",
+              "permalink": "/bbzbl-modul-231/docs/beurteilungen/lb3",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/beurteilungen/lb3.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/beurteilungen/lb3.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "LB 2 - Projekt",
-                "permalink": "/bbzbl-modul-m231/docs/beurteilungen/lb2"
+                "title": "LB 2",
+                "permalink": "/bbzbl-modul-231/docs/beurteilungen/lb2"
               },
               "next": {
                 "title": "Grundlagen",
-                "permalink": "/bbzbl-modul-m231/docs/category/grundlagen"
+                "permalink": "/bbzbl-modul-231/docs/category/grundlagen"
               }
             },
             {
@@ -99,9 +99,9 @@
               "source": "@site/docs/Datenschutz/AGBs etc.md",
               "sourceDirName": "Datenschutz",
               "slug": "/Datenschutz/AGBs etc",
-              "permalink": "/bbzbl-modul-m231/docs/Datenschutz/AGBs etc",
+              "permalink": "/bbzbl-modul-231/docs/Datenschutz/AGBs etc",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Datenschutz/AGBs etc.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Datenschutz/AGBs etc.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -111,11 +111,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "3. EU - DSGVO",
-                "permalink": "/bbzbl-modul-m231/docs/Datenschutz/EU"
+                "permalink": "/bbzbl-modul-231/docs/Datenschutz/EU"
               },
               "next": {
                 "title": "Datensicherheit",
-                "permalink": "/bbzbl-modul-m231/docs/category/datensicherheit"
+                "permalink": "/bbzbl-modul-231/docs/category/datensicherheit"
               }
             },
             {
@@ -126,9 +126,9 @@
               "source": "@site/docs/Datenschutz/Allgemein.md",
               "sourceDirName": "Datenschutz",
               "slug": "/Datenschutz/Allgemein",
-              "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Allgemein",
+              "permalink": "/bbzbl-modul-231/docs/Datenschutz/Allgemein",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Datenschutz/Allgemein.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Datenschutz/Allgemein.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -138,11 +138,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Datenschutz",
-                "permalink": "/bbzbl-modul-m231/docs/category/datenschutz"
+                "permalink": "/bbzbl-modul-231/docs/category/datenschutz"
               },
               "next": {
                 "title": "2. CH - DSG und nDSG",
-                "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Schweiz"
+                "permalink": "/bbzbl-modul-231/docs/Datenschutz/Schweiz"
               }
             },
             {
@@ -153,9 +153,9 @@
               "source": "@site/docs/Datenschutz/EU.md",
               "sourceDirName": "Datenschutz",
               "slug": "/Datenschutz/EU",
-              "permalink": "/bbzbl-modul-m231/docs/Datenschutz/EU",
+              "permalink": "/bbzbl-modul-231/docs/Datenschutz/EU",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Datenschutz/EU.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Datenschutz/EU.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -165,11 +165,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "2. CH - DSG und nDSG",
-                "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Schweiz"
+                "permalink": "/bbzbl-modul-231/docs/Datenschutz/Schweiz"
               },
               "next": {
                 "title": "4. Impressum, Disclaimer, AGBs",
-                "permalink": "/bbzbl-modul-m231/docs/Datenschutz/AGBs etc"
+                "permalink": "/bbzbl-modul-231/docs/Datenschutz/AGBs etc"
               }
             },
             {
@@ -180,9 +180,9 @@
               "source": "@site/docs/Datenschutz/Schweiz.md",
               "sourceDirName": "Datenschutz",
               "slug": "/Datenschutz/Schweiz",
-              "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Schweiz",
+              "permalink": "/bbzbl-modul-231/docs/Datenschutz/Schweiz",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Datenschutz/Schweiz.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Datenschutz/Schweiz.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -192,11 +192,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "1. Allgemein",
-                "permalink": "/bbzbl-modul-m231/docs/Datenschutz/Allgemein"
+                "permalink": "/bbzbl-modul-231/docs/Datenschutz/Allgemein"
               },
               "next": {
                 "title": "3. EU - DSGVO",
-                "permalink": "/bbzbl-modul-m231/docs/Datenschutz/EU"
+                "permalink": "/bbzbl-modul-231/docs/Datenschutz/EU"
               }
             },
             {
@@ -207,9 +207,9 @@
               "source": "@site/docs/Datensicherheit/Gefahren.md",
               "sourceDirName": "Datensicherheit",
               "slug": "/Datensicherheit/Gefahren",
-              "permalink": "/bbzbl-modul-m231/docs/Datensicherheit/Gefahren",
+              "permalink": "/bbzbl-modul-231/docs/Datensicherheit/Gefahren",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Datensicherheit/Gefahren.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Datensicherheit/Gefahren.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -219,11 +219,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Datensicherheit",
-                "permalink": "/bbzbl-modul-m231/docs/category/datensicherheit"
+                "permalink": "/bbzbl-modul-231/docs/category/datensicherheit"
               },
               "next": {
                 "title": "Identity und Access Management",
-                "permalink": "/bbzbl-modul-m231/docs/category/identity-und-access-management"
+                "permalink": "/bbzbl-modul-231/docs/category/identity-und-access-management"
               }
             },
             {
@@ -234,9 +234,9 @@
               "source": "@site/docs/Frameworks/Nist.md",
               "sourceDirName": "Frameworks",
               "slug": "/Frameworks/Nist",
-              "permalink": "/bbzbl-modul-m231/docs/Frameworks/Nist",
+              "permalink": "/bbzbl-modul-231/docs/Frameworks/Nist",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Frameworks/Nist.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Frameworks/Nist.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -246,11 +246,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Frameworks",
-                "permalink": "/bbzbl-modul-m231/docs/category/frameworks"
+                "permalink": "/bbzbl-modul-231/docs/category/frameworks"
               },
               "next": {
                 "title": "Verschlüsselung",
-                "permalink": "/bbzbl-modul-m231/docs/category/verschlüsselung"
+                "permalink": "/bbzbl-modul-231/docs/category/verschlüsselung"
               }
             },
             {
@@ -261,9 +261,9 @@
               "source": "@site/docs/Grundlagen/Daten.md",
               "sourceDirName": "Grundlagen",
               "slug": "/Grundlagen/Daten",
-              "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Daten",
+              "permalink": "/bbzbl-modul-231/docs/Grundlagen/Daten",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Grundlagen/Daten.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Grundlagen/Daten.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -273,11 +273,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "2.  Informationssicherheit",
-                "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Informationssicherheit"
+                "permalink": "/bbzbl-modul-231/docs/Grundlagen/Informationssicherheit"
               },
               "next": {
                 "title": "4.  Sicherheit und Risiko",
-                "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Sicherheit und Risiko"
+                "permalink": "/bbzbl-modul-231/docs/Grundlagen/Sicherheit und Risiko"
               }
             },
             {
@@ -288,9 +288,9 @@
               "source": "@site/docs/Grundlagen/Informationssicherheit.md",
               "sourceDirName": "Grundlagen",
               "slug": "/Grundlagen/Informationssicherheit",
-              "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Informationssicherheit",
+              "permalink": "/bbzbl-modul-231/docs/Grundlagen/Informationssicherheit",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Grundlagen/Informationssicherheit.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Grundlagen/Informationssicherheit.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -300,11 +300,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "1.  Tools und Aufbau des Moduls",
-                "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Tools und Aufbau des Moduls"
+                "permalink": "/bbzbl-modul-231/docs/Grundlagen/Tools und Aufbau des Moduls"
               },
               "next": {
                 "title": "3.  Daten",
-                "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Daten"
+                "permalink": "/bbzbl-modul-231/docs/Grundlagen/Daten"
               }
             },
             {
@@ -315,9 +315,9 @@
               "source": "@site/docs/Grundlagen/Sicherheit und Risiko.md",
               "sourceDirName": "Grundlagen",
               "slug": "/Grundlagen/Sicherheit und Risiko",
-              "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Sicherheit und Risiko",
+              "permalink": "/bbzbl-modul-231/docs/Grundlagen/Sicherheit und Risiko",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Grundlagen/Sicherheit und Risiko.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Grundlagen/Sicherheit und Risiko.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -327,11 +327,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "3.  Daten",
-                "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Daten"
+                "permalink": "/bbzbl-modul-231/docs/Grundlagen/Daten"
               },
               "next": {
                 "title": "Datenschutz",
-                "permalink": "/bbzbl-modul-m231/docs/category/datenschutz"
+                "permalink": "/bbzbl-modul-231/docs/category/datenschutz"
               }
             },
             {
@@ -342,9 +342,9 @@
               "source": "@site/docs/Grundlagen/Tools und Aufbau des Moduls.md",
               "sourceDirName": "Grundlagen",
               "slug": "/Grundlagen/Tools und Aufbau des Moduls",
-              "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Tools und Aufbau des Moduls",
+              "permalink": "/bbzbl-modul-231/docs/Grundlagen/Tools und Aufbau des Moduls",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Grundlagen/Tools und Aufbau des Moduls.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Grundlagen/Tools und Aufbau des Moduls.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -354,24 +354,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Grundlagen",
-                "permalink": "/bbzbl-modul-m231/docs/category/grundlagen"
+                "permalink": "/bbzbl-modul-231/docs/category/grundlagen"
               },
               "next": {
                 "title": "2.  Informationssicherheit",
-                "permalink": "/bbzbl-modul-m231/docs/Grundlagen/Informationssicherheit"
+                "permalink": "/bbzbl-modul-231/docs/Grundlagen/Informationssicherheit"
               }
             },
             {
               "unversionedId": "Identity und Access Management/Authentifizierung und Autorisierung",
               "id": "Identity und Access Management/Authentifizierung und Autorisierung",
               "title": "2. Authentifizierung und Autorisierung",
-              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "description": "| Material   | Video Informationen und Internet              |",
               "source": "@site/docs/Identity und Access Management/Authentifizierung und Autorisierung.md",
               "sourceDirName": "Identity und Access Management",
               "slug": "/Identity und Access Management/Authentifizierung und Autorisierung",
-              "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Authentifizierung und Autorisierung",
+              "permalink": "/bbzbl-modul-231/docs/Identity und Access Management/Authentifizierung und Autorisierung",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Identity und Access Management/Authentifizierung und Autorisierung.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Identity und Access Management/Authentifizierung und Autorisierung.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -381,24 +381,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "1. Identity",
-                "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Identity"
+                "permalink": "/bbzbl-modul-231/docs/Identity und Access Management/Identity"
               },
               "next": {
                 "title": "3. Passwörter und MFA",
-                "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Passwörter und MFA"
+                "permalink": "/bbzbl-modul-231/docs/Identity und Access Management/Passwörter und MFA"
               }
             },
             {
               "unversionedId": "Identity und Access Management/Identity",
               "id": "Identity und Access Management/Identity",
               "title": "1. Identity",
-              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "description": "| Material   | Video Informationen und Internet              |",
               "source": "@site/docs/Identity und Access Management/Identity.md",
               "sourceDirName": "Identity und Access Management",
               "slug": "/Identity und Access Management/Identity",
-              "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Identity",
+              "permalink": "/bbzbl-modul-231/docs/Identity und Access Management/Identity",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Identity und Access Management/Identity.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Identity und Access Management/Identity.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -408,24 +408,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Identity und Access Management",
-                "permalink": "/bbzbl-modul-m231/docs/category/identity-und-access-management"
+                "permalink": "/bbzbl-modul-231/docs/category/identity-und-access-management"
               },
               "next": {
                 "title": "2. Authentifizierung und Autorisierung",
-                "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Authentifizierung und Autorisierung"
+                "permalink": "/bbzbl-modul-231/docs/Identity und Access Management/Authentifizierung und Autorisierung"
               }
             },
             {
               "unversionedId": "Identity und Access Management/Passwörter und MFA",
               "id": "Identity und Access Management/Passwörter und MFA",
               "title": "3. Passwörter und MFA",
-              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "description": "| Material   | Video Informationen und Internet              |",
               "source": "@site/docs/Identity und Access Management/Passwörter und MFA.md",
               "sourceDirName": "Identity und Access Management",
               "slug": "/Identity und Access Management/Passwörter und MFA",
-              "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Passwörter und MFA",
+              "permalink": "/bbzbl-modul-231/docs/Identity und Access Management/Passwörter und MFA",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Identity und Access Management/Passwörter und MFA.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Identity und Access Management/Passwörter und MFA.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -435,24 +435,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "2. Authentifizierung und Autorisierung",
-                "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Authentifizierung und Autorisierung"
+                "permalink": "/bbzbl-modul-231/docs/Identity und Access Management/Authentifizierung und Autorisierung"
               },
               "next": {
                 "title": "4. RBAC",
-                "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/RBAC"
+                "permalink": "/bbzbl-modul-231/docs/Identity und Access Management/RBAC"
               }
             },
             {
               "unversionedId": "Identity und Access Management/RBAC",
               "id": "Identity und Access Management/RBAC",
               "title": "4. RBAC",
-              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "description": "| Material   | Video Informationen und Internet              |",
               "source": "@site/docs/Identity und Access Management/RBAC.md",
               "sourceDirName": "Identity und Access Management",
               "slug": "/Identity und Access Management/RBAC",
-              "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/RBAC",
+              "permalink": "/bbzbl-modul-231/docs/Identity und Access Management/RBAC",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Identity und Access Management/RBAC.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Identity und Access Management/RBAC.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -462,11 +462,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "3. Passwörter und MFA",
-                "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Passwörter und MFA"
+                "permalink": "/bbzbl-modul-231/docs/Identity und Access Management/Passwörter und MFA"
               },
               "next": {
                 "title": "Lizenzen",
-                "permalink": "/bbzbl-modul-m231/docs/category/lizenzen"
+                "permalink": "/bbzbl-modul-231/docs/category/lizenzen"
               }
             },
             {
@@ -477,9 +477,9 @@
               "source": "@site/docs/index.md",
               "sourceDirName": ".",
               "slug": "/",
-              "permalink": "/bbzbl-modul-m231/docs/",
+              "permalink": "/bbzbl-modul-231/docs/",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/index.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/index.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -489,20 +489,20 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Beurteilungen",
-                "permalink": "/bbzbl-modul-m231/docs/category/beurteilungen"
+                "permalink": "/bbzbl-modul-231/docs/category/beurteilungen"
               }
             },
             {
               "unversionedId": "Lizenzen/Bilder",
               "id": "Lizenzen/Bilder",
               "title": "3. Bildlizenzen",
-              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "description": "| Material   | Video Informationen und Internet              |",
               "source": "@site/docs/Lizenzen/Bilder.md",
               "sourceDirName": "Lizenzen",
               "slug": "/Lizenzen/Bilder",
-              "permalink": "/bbzbl-modul-m231/docs/Lizenzen/Bilder",
+              "permalink": "/bbzbl-modul-231/docs/Lizenzen/Bilder",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Lizenzen/Bilder.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Lizenzen/Bilder.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -512,24 +512,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "2. Software Lizenzen",
-                "permalink": "/bbzbl-modul-m231/docs/Lizenzen/Software"
+                "permalink": "/bbzbl-modul-231/docs/Lizenzen/Software"
               },
               "next": {
                 "title": "Massnahmen",
-                "permalink": "/bbzbl-modul-m231/docs/category/massnahmen"
+                "permalink": "/bbzbl-modul-231/docs/category/massnahmen"
               }
             },
             {
               "unversionedId": "Lizenzen/Grundlagen",
               "id": "Lizenzen/Grundlagen",
               "title": "1. Grundlagen/ Urheberrecht",
-              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "description": "| Material   | Video Informationen und Internet              |",
               "source": "@site/docs/Lizenzen/Grundlagen.md",
               "sourceDirName": "Lizenzen",
               "slug": "/Lizenzen/Grundlagen",
-              "permalink": "/bbzbl-modul-m231/docs/Lizenzen/Grundlagen",
+              "permalink": "/bbzbl-modul-231/docs/Lizenzen/Grundlagen",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Lizenzen/Grundlagen.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Lizenzen/Grundlagen.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -539,24 +539,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Lizenzen",
-                "permalink": "/bbzbl-modul-m231/docs/category/lizenzen"
+                "permalink": "/bbzbl-modul-231/docs/category/lizenzen"
               },
               "next": {
                 "title": "2. Software Lizenzen",
-                "permalink": "/bbzbl-modul-m231/docs/Lizenzen/Software"
+                "permalink": "/bbzbl-modul-231/docs/Lizenzen/Software"
               }
             },
             {
               "unversionedId": "Lizenzen/Software",
               "id": "Lizenzen/Software",
               "title": "2. Software Lizenzen",
-              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "description": "| Material   | Video Informationen und Internet              |",
               "source": "@site/docs/Lizenzen/Software.md",
               "sourceDirName": "Lizenzen",
               "slug": "/Lizenzen/Software",
-              "permalink": "/bbzbl-modul-m231/docs/Lizenzen/Software",
+              "permalink": "/bbzbl-modul-231/docs/Lizenzen/Software",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Lizenzen/Software.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Lizenzen/Software.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -566,24 +566,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "1. Grundlagen/ Urheberrecht",
-                "permalink": "/bbzbl-modul-m231/docs/Lizenzen/Grundlagen"
+                "permalink": "/bbzbl-modul-231/docs/Lizenzen/Grundlagen"
               },
               "next": {
                 "title": "3. Bildlizenzen",
-                "permalink": "/bbzbl-modul-m231/docs/Lizenzen/Bilder"
+                "permalink": "/bbzbl-modul-231/docs/Lizenzen/Bilder"
               }
             },
             {
-              "unversionedId": "Massnahmen/Identity",
-              "id": "Massnahmen/Identity",
-              "title": "1. Identity",
-              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
-              "source": "@site/docs/Massnahmen/Identity.md",
+              "unversionedId": "Massnahmen/Vorlage",
+              "id": "Massnahmen/Vorlage",
+              "title": "1. Vorlage",
+              "description": "| Material   | Video Informationen und Internet              |",
+              "source": "@site/docs/Massnahmen/Vorlage.md",
               "sourceDirName": "Massnahmen",
-              "slug": "/Massnahmen/Identity",
-              "permalink": "/bbzbl-modul-m231/docs/Massnahmen/Identity",
+              "slug": "/Massnahmen/Vorlage",
+              "permalink": "/bbzbl-modul-231/docs/Massnahmen/Vorlage",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Massnahmen/Identity.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Massnahmen/Vorlage.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -593,24 +593,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Massnahmen",
-                "permalink": "/bbzbl-modul-m231/docs/category/massnahmen"
+                "permalink": "/bbzbl-modul-231/docs/category/massnahmen"
               },
               "next": {
                 "title": "Frameworks",
-                "permalink": "/bbzbl-modul-m231/docs/category/frameworks"
+                "permalink": "/bbzbl-modul-231/docs/category/frameworks"
               }
             },
             {
-              "unversionedId": "Verschlüsselung/Identity",
-              "id": "Verschlüsselung/Identity",
-              "title": "1. Identity",
-              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
-              "source": "@site/docs/Verschlüsselung/Identity.md",
+              "unversionedId": "Verschlüsselung/Vorlage",
+              "id": "Verschlüsselung/Vorlage",
+              "title": "1. Vorlage",
+              "description": "| Material   | Video Informationen und Internet              |",
+              "source": "@site/docs/Verschlüsselung/Vorlage.md",
               "sourceDirName": "Verschlüsselung",
-              "slug": "/Verschlüsselung/Identity",
-              "permalink": "/bbzbl-modul-m231/docs/Verschlüsselung/Identity",
+              "slug": "/Verschlüsselung/Vorlage",
+              "permalink": "/bbzbl-modul-231/docs/Verschlüsselung/Vorlage",
               "draft": false,
-              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Verschlüsselung/Identity.md",
+              "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Verschlüsselung/Vorlage.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -620,7 +620,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Verschlüsselung",
-                "permalink": "/bbzbl-modul-m231/docs/category/verschlüsselung"
+                "permalink": "/bbzbl-modul-231/docs/category/verschlüsselung"
               }
             }
           ],
@@ -653,7 +653,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/beurteilungen",
-                  "permalink": "/bbzbl-modul-m231/docs/category/beurteilungen"
+                  "permalink": "/bbzbl-modul-231/docs/category/beurteilungen"
                 }
               },
               {
@@ -682,7 +682,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/grundlagen",
-                  "permalink": "/bbzbl-modul-m231/docs/category/grundlagen"
+                  "permalink": "/bbzbl-modul-231/docs/category/grundlagen"
                 }
               },
               {
@@ -712,7 +712,7 @@
                   "type": "generated-index",
                   "description": "Datenschutz befasst sich mit dem Schutz von persönlichen Daten und damit der Privatsphäre.",
                   "slug": "/category/datenschutz",
-                  "permalink": "/bbzbl-modul-m231/docs/category/datenschutz"
+                  "permalink": "/bbzbl-modul-231/docs/category/datenschutz"
                 }
               },
               {
@@ -729,7 +729,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/datensicherheit",
-                  "permalink": "/bbzbl-modul-m231/docs/category/datensicherheit"
+                  "permalink": "/bbzbl-modul-231/docs/category/datensicherheit"
                 }
               },
               {
@@ -758,7 +758,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/identity-und-access-management",
-                  "permalink": "/bbzbl-modul-m231/docs/category/identity-und-access-management"
+                  "permalink": "/bbzbl-modul-231/docs/category/identity-und-access-management"
                 }
               },
               {
@@ -783,7 +783,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/lizenzen",
-                  "permalink": "/bbzbl-modul-m231/docs/category/lizenzen"
+                  "permalink": "/bbzbl-modul-231/docs/category/lizenzen"
                 }
               },
               {
@@ -794,13 +794,13 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Massnahmen/Identity"
+                    "id": "Massnahmen/Vorlage"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/massnahmen",
-                  "permalink": "/bbzbl-modul-m231/docs/category/massnahmen"
+                  "permalink": "/bbzbl-modul-231/docs/category/massnahmen"
                 }
               },
               {
@@ -817,7 +817,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/frameworks",
-                  "permalink": "/bbzbl-modul-m231/docs/category/frameworks"
+                  "permalink": "/bbzbl-modul-231/docs/category/frameworks"
                 }
               },
               {
@@ -828,13 +828,13 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Verschlüsselung/Identity"
+                    "id": "Verschlüsselung/Vorlage"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/verschlüsselung",
-                  "permalink": "/bbzbl-modul-m231/docs/category/verschlüsselung"
+                  "permalink": "/bbzbl-modul-231/docs/category/verschlüsselung"
                 }
               }
             ]
@@ -849,7 +849,7 @@
       "blogPosts": [],
       "blogListPaginated": [],
       "blogTags": {},
-      "blogTagsListPath": "/bbzbl-modul-m231/blog/tags",
+      "blogTagsListPath": "/bbzbl-modul-231/blog/tags",
       "blogTagsPaginated": []
     }
   },
@@ -857,12 +857,12 @@
     "default": [
       {
         "type": "jsx",
-        "permalink": "/bbzbl-modul-m231/",
+        "permalink": "/bbzbl-modul-231/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/bbzbl-modul-m231/markdown-page",
+        "permalink": "/bbzbl-modul-231/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",
@@ -872,7 +872,7 @@
       },
       {
         "type": "mdx",
-        "permalink": "/bbzbl-modul-m231/slides",
+        "permalink": "/bbzbl-modul-231/slides",
         "source": "@site/src/pages/slides.md",
         "title": "Slides",
         "description": "Woche 1",

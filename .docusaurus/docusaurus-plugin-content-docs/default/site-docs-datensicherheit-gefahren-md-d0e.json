@@ -6,9 +6,9 @@
   "source": "@site/docs/Datensicherheit/Gefahren.md",
   "sourceDirName": "Datensicherheit",
   "slug": "/Datensicherheit/Gefahren",
-  "permalink": "/bbzbl-modul-m231/docs/Datensicherheit/Gefahren",
+  "permalink": "/bbzbl-modul-231/docs/Datensicherheit/Gefahren",
   "draft": false,
-  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/docs/Datensicherheit/Gefahren.md",
+  "editUrl": "https://github.com/gaebi4102/bbzbl-modul-231/tree/main/docs/Datensicherheit/Gefahren.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Datensicherheit",
-    "permalink": "/bbzbl-modul-m231/docs/category/datensicherheit"
+    "permalink": "/bbzbl-modul-231/docs/category/datensicherheit"
   },
   "next": {
     "title": "Identity und Access Management",
-    "permalink": "/bbzbl-modul-m231/docs/category/identity-und-access-management"
+    "permalink": "/bbzbl-modul-231/docs/category/identity-und-access-management"
   }
 }
