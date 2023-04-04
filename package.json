@@ -60,7 +60,9 @@
     "@docusaurus/module-type-aliases": "^2.4.0"
   },
   "markdownlint.config": {
-    "MD049": { "style": "asterisk" }
+    "MD049": {
+      "style": "asterisk"
+    }
   },
   "browserslist": {
     "production": [
