@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Massnahmen (Technische und Organisatorische)/Identity",
+  "id": "Massnahmen (Technische und Organisatorische)/Identity",
+  "title": "1. Identity",
+  "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+  "source": "@site/docs/Massnahmen (Technische und Organisatorische)/Identity.md",
+  "sourceDirName": "Massnahmen (Technische und Organisatorische)",
+  "slug": "/Massnahmen (Technische und Organisatorische)/Identity",
+  "permalink": "/bbzbl-modul-m231/docs/Massnahmen (Technische und Organisatorische)/Identity",
+  "draft": false,
+  "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Massnahmen (Technische und Organisatorische)/Identity.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Massnahmen Technische und Organisatorische",
+    "permalink": "/bbzbl-modul-m231/docs/category/massnahmen-technische-und-organisatorische"
+  },
+  "next": {
+    "title": "Frameworks",
+    "permalink": "/bbzbl-modul-m231/docs/category/frameworks"
+  }
+}

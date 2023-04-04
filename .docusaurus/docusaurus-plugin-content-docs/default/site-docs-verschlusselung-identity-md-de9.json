@@ -1,14 +1,14 @@
 {
-  "unversionedId": "Frameworks/Nist",
-  "id": "Frameworks/Nist",
-  "title": "1. Nist",
+  "unversionedId": "Verschlüsselung/Identity",
+  "id": "Verschlüsselung/Identity",
+  "title": "1. Identity",
   "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
-  "source": "@site/docs/Frameworks/Nist.md",
-  "sourceDirName": "Frameworks",
-  "slug": "/Frameworks/Nist",
-  "permalink": "/bbzbl-modul-m231/docs/Frameworks/Nist",
+  "source": "@site/docs/Verschlüsselung/Identity.md",
+  "sourceDirName": "Verschlüsselung",
+  "slug": "/Verschlüsselung/Identity",
+  "permalink": "/bbzbl-modul-m231/docs/Verschlüsselung/Identity",
   "draft": false,
-  "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Frameworks/Nist.md",
+  "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Verschlüsselung/Identity.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,6 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Frameworks",
-    "permalink": "/bbzbl-modul-m231/docs/category/frameworks"
-  },
-  "next": {
     "title": "Verschlüsselung",
     "permalink": "/bbzbl-modul-m231/docs/category/verschlüsselung"
   }

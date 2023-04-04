@@ -76,13 +76,53 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Identity und Access Management/Authentifizierung und Autorisierung",
+              "path": "/bbzbl-modul-m231/docs/Identity und Access Management/Authentifizierung und Autorisierung",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Identity und Access Management/Identity",
               "path": "/bbzbl-modul-m231/docs/Identity und Access Management/Identity",
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Identity und Access Management/Passwörter und MFA",
+              "path": "/bbzbl-modul-m231/docs/Identity und Access Management/Passwörter und MFA",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Identity und Access Management/RBAC",
+              "path": "/bbzbl-modul-m231/docs/Identity und Access Management/RBAC",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "index",
               "path": "/bbzbl-modul-m231/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Lizenzen/Bilder",
+              "path": "/bbzbl-modul-m231/docs/Lizenzen/Bilder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Lizenzen/Grundlagen",
+              "path": "/bbzbl-modul-m231/docs/Lizenzen/Grundlagen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Lizenzen/Software",
+              "path": "/bbzbl-modul-m231/docs/Lizenzen/Software",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Massnahmen/Identity",
+              "path": "/bbzbl-modul-m231/docs/Massnahmen/Identity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Verschlüsselung/Identity",
+              "path": "/bbzbl-modul-m231/docs/Verschlüsselung/Identity",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -111,8 +151,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "/category/lizenzen",
+              "path": "/bbzbl-modul-m231/docs/category/lizenzen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/massnahmen",
+              "path": "/bbzbl-modul-m231/docs/category/massnahmen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/frameworks",
               "path": "/bbzbl-modul-m231/docs/category/frameworks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/verschlüsselung",
+              "path": "/bbzbl-modul-m231/docs/category/verschlüsselung",
               "sidebar": "tutorialSidebar"
             }
           ],

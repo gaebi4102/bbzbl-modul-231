@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Lizenzen (z.B. für Software, Texte, Bilder)/Grundlagen",
+  "id": "Lizenzen (z.B. für Software, Texte, Bilder)/Grundlagen",
+  "title": "1. Grundlagen/ Urheberrecht",
+  "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+  "source": "@site/docs/Lizenzen (z.B. für Software, Texte, Bilder)/Grundlagen.md",
+  "sourceDirName": "Lizenzen (z.B. für Software, Texte, Bilder)",
+  "slug": "/Lizenzen (z.B. für Software, Texte, Bilder)/Grundlagen",
+  "permalink": "/bbzbl-modul-m231/docs/Lizenzen (z.B. für Software, Texte, Bilder)/Grundlagen",
+  "draft": false,
+  "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Lizenzen (z.B. für Software, Texte, Bilder)/Grundlagen.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lizenzen (z.B. für Software, Texte, Bilder)",
+    "permalink": "/bbzbl-modul-m231/docs/category/lizenzen-zb-für-software-texte-bilder"
+  },
+  "next": {
+    "title": "2. Software Lizenzen",
+    "permalink": "/bbzbl-modul-m231/docs/Lizenzen (z.B. für Software, Texte, Bilder)/Software"
+  }
+}

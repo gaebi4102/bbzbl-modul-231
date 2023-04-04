@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Lizenzen/Grundlagen",
+  "id": "Lizenzen/Grundlagen",
+  "title": "1. Grundlagen/ Urheberrecht",
+  "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+  "source": "@site/docs/Lizenzen/Grundlagen.md",
+  "sourceDirName": "Lizenzen",
+  "slug": "/Lizenzen/Grundlagen",
+  "permalink": "/bbzbl-modul-m231/docs/Lizenzen/Grundlagen",
+  "draft": false,
+  "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Lizenzen/Grundlagen.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lizenzen",
+    "permalink": "/bbzbl-modul-m231/docs/category/lizenzen"
+  },
+  "next": {
+    "title": "2. Software Lizenzen",
+    "permalink": "/bbzbl-modul-m231/docs/Lizenzen/Software"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Lizenzen/Software",
+  "id": "Lizenzen/Software",
+  "title": "2. Software Lizenzen",
+  "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+  "source": "@site/docs/Lizenzen/Software.md",
+  "sourceDirName": "Lizenzen",
+  "slug": "/Lizenzen/Software",
+  "permalink": "/bbzbl-modul-m231/docs/Lizenzen/Software",
+  "draft": false,
+  "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Lizenzen/Software.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1. Grundlagen/ Urheberrecht",
+    "permalink": "/bbzbl-modul-m231/docs/Lizenzen/Grundlagen"
+  },
+  "next": {
+    "title": "3. Bildlizenzen",
+    "permalink": "/bbzbl-modul-m231/docs/Lizenzen/Bilder"
+  }
+}

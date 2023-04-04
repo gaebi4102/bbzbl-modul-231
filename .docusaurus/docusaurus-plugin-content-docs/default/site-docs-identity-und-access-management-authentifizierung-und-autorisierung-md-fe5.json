@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Identity und Access Management/Authentifizierung und Autorisierung",
+  "id": "Identity und Access Management/Authentifizierung und Autorisierung",
+  "title": "2. Authentifizierung und Autorisierung",
+  "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+  "source": "@site/docs/Identity und Access Management/Authentifizierung und Autorisierung.md",
+  "sourceDirName": "Identity und Access Management",
+  "slug": "/Identity und Access Management/Authentifizierung und Autorisierung",
+  "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Authentifizierung und Autorisierung",
+  "draft": false,
+  "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Identity und Access Management/Authentifizierung und Autorisierung.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1. Identity",
+    "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Identity"
+  },
+  "next": {
+    "title": "3. Passwörter und MFA",
+    "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Passwörter und MFA"
+  }
+}

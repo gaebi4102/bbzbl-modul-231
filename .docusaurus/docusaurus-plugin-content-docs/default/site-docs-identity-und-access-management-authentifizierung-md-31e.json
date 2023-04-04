@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Identity und Access Management/Authentifizierung",
+  "id": "Identity und Access Management/Authentifizierung",
+  "title": "2. RBAC",
+  "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+  "source": "@site/docs/Identity und Access Management/Authentifizierung.md",
+  "sourceDirName": "Identity und Access Management",
+  "slug": "/Identity und Access Management/Authentifizierung",
+  "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Authentifizierung",
+  "draft": false,
+  "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Identity und Access Management/Authentifizierung.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1. Identity",
+    "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Identity"
+  },
+  "next": {
+    "title": "2. RBAC",
+    "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/RBAC"
+  }
+}

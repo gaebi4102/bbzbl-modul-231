@@ -247,6 +247,10 @@
               "previous": {
                 "title": "Frameworks",
                 "permalink": "/bbzbl-modul-m231/docs/category/frameworks"
+              },
+              "next": {
+                "title": "Verschlüsselung",
+                "permalink": "/bbzbl-modul-m231/docs/category/verschlüsselung"
               }
             },
             {
@@ -358,6 +362,33 @@
               }
             },
             {
+              "unversionedId": "Identity und Access Management/Authentifizierung und Autorisierung",
+              "id": "Identity und Access Management/Authentifizierung und Autorisierung",
+              "title": "2. Authentifizierung und Autorisierung",
+              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "source": "@site/docs/Identity und Access Management/Authentifizierung und Autorisierung.md",
+              "sourceDirName": "Identity und Access Management",
+              "slug": "/Identity und Access Management/Authentifizierung und Autorisierung",
+              "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Authentifizierung und Autorisierung",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Identity und Access Management/Authentifizierung und Autorisierung.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "1. Identity",
+                "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Identity"
+              },
+              "next": {
+                "title": "3. Passwörter und MFA",
+                "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Passwörter und MFA"
+              }
+            },
+            {
               "unversionedId": "Identity und Access Management/Identity",
               "id": "Identity und Access Management/Identity",
               "title": "1. Identity",
@@ -380,8 +411,62 @@
                 "permalink": "/bbzbl-modul-m231/docs/category/identity-und-access-management"
               },
               "next": {
-                "title": "Frameworks",
-                "permalink": "/bbzbl-modul-m231/docs/category/frameworks"
+                "title": "2. Authentifizierung und Autorisierung",
+                "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Authentifizierung und Autorisierung"
+              }
+            },
+            {
+              "unversionedId": "Identity und Access Management/Passwörter und MFA",
+              "id": "Identity und Access Management/Passwörter und MFA",
+              "title": "3. Passwörter und MFA",
+              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "source": "@site/docs/Identity und Access Management/Passwörter und MFA.md",
+              "sourceDirName": "Identity und Access Management",
+              "slug": "/Identity und Access Management/Passwörter und MFA",
+              "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Passwörter und MFA",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Identity und Access Management/Passwörter und MFA.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "2. Authentifizierung und Autorisierung",
+                "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Authentifizierung und Autorisierung"
+              },
+              "next": {
+                "title": "4. RBAC",
+                "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/RBAC"
+              }
+            },
+            {
+              "unversionedId": "Identity und Access Management/RBAC",
+              "id": "Identity und Access Management/RBAC",
+              "title": "4. RBAC",
+              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "source": "@site/docs/Identity und Access Management/RBAC.md",
+              "sourceDirName": "Identity und Access Management",
+              "slug": "/Identity und Access Management/RBAC",
+              "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/RBAC",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Identity und Access Management/RBAC.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "3. Passwörter und MFA",
+                "permalink": "/bbzbl-modul-m231/docs/Identity und Access Management/Passwörter und MFA"
+              },
+              "next": {
+                "title": "Lizenzen",
+                "permalink": "/bbzbl-modul-m231/docs/category/lizenzen"
               }
             },
             {
@@ -405,6 +490,137 @@
               "next": {
                 "title": "Beurteilungen",
                 "permalink": "/bbzbl-modul-m231/docs/category/beurteilungen"
+              }
+            },
+            {
+              "unversionedId": "Lizenzen/Bilder",
+              "id": "Lizenzen/Bilder",
+              "title": "3. Bildlizenzen",
+              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "source": "@site/docs/Lizenzen/Bilder.md",
+              "sourceDirName": "Lizenzen",
+              "slug": "/Lizenzen/Bilder",
+              "permalink": "/bbzbl-modul-m231/docs/Lizenzen/Bilder",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Lizenzen/Bilder.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "2. Software Lizenzen",
+                "permalink": "/bbzbl-modul-m231/docs/Lizenzen/Software"
+              },
+              "next": {
+                "title": "Massnahmen",
+                "permalink": "/bbzbl-modul-m231/docs/category/massnahmen"
+              }
+            },
+            {
+              "unversionedId": "Lizenzen/Grundlagen",
+              "id": "Lizenzen/Grundlagen",
+              "title": "1. Grundlagen/ Urheberrecht",
+              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "source": "@site/docs/Lizenzen/Grundlagen.md",
+              "sourceDirName": "Lizenzen",
+              "slug": "/Lizenzen/Grundlagen",
+              "permalink": "/bbzbl-modul-m231/docs/Lizenzen/Grundlagen",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Lizenzen/Grundlagen.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lizenzen",
+                "permalink": "/bbzbl-modul-m231/docs/category/lizenzen"
+              },
+              "next": {
+                "title": "2. Software Lizenzen",
+                "permalink": "/bbzbl-modul-m231/docs/Lizenzen/Software"
+              }
+            },
+            {
+              "unversionedId": "Lizenzen/Software",
+              "id": "Lizenzen/Software",
+              "title": "2. Software Lizenzen",
+              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "source": "@site/docs/Lizenzen/Software.md",
+              "sourceDirName": "Lizenzen",
+              "slug": "/Lizenzen/Software",
+              "permalink": "/bbzbl-modul-m231/docs/Lizenzen/Software",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Lizenzen/Software.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "1. Grundlagen/ Urheberrecht",
+                "permalink": "/bbzbl-modul-m231/docs/Lizenzen/Grundlagen"
+              },
+              "next": {
+                "title": "3. Bildlizenzen",
+                "permalink": "/bbzbl-modul-m231/docs/Lizenzen/Bilder"
+              }
+            },
+            {
+              "unversionedId": "Massnahmen/Identity",
+              "id": "Massnahmen/Identity",
+              "title": "1. Identity",
+              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "source": "@site/docs/Massnahmen/Identity.md",
+              "sourceDirName": "Massnahmen",
+              "slug": "/Massnahmen/Identity",
+              "permalink": "/bbzbl-modul-m231/docs/Massnahmen/Identity",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Massnahmen/Identity.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Massnahmen",
+                "permalink": "/bbzbl-modul-m231/docs/category/massnahmen"
+              },
+              "next": {
+                "title": "Frameworks",
+                "permalink": "/bbzbl-modul-m231/docs/category/frameworks"
+              }
+            },
+            {
+              "unversionedId": "Verschlüsselung/Identity",
+              "id": "Verschlüsselung/Identity",
+              "title": "1. Identity",
+              "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+              "source": "@site/docs/Verschlüsselung/Identity.md",
+              "sourceDirName": "Verschlüsselung",
+              "slug": "/Verschlüsselung/Identity",
+              "permalink": "/bbzbl-modul-m231/docs/Verschlüsselung/Identity",
+              "draft": false,
+              "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Verschlüsselung/Identity.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Verschlüsselung",
+                "permalink": "/bbzbl-modul-m231/docs/category/verschlüsselung"
               }
             }
           ],
@@ -525,12 +741,66 @@
                   {
                     "type": "doc",
                     "id": "Identity und Access Management/Identity"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Identity und Access Management/Authentifizierung und Autorisierung"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Identity und Access Management/Passwörter und MFA"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Identity und Access Management/RBAC"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/identity-und-access-management",
                   "permalink": "/bbzbl-modul-m231/docs/category/identity-und-access-management"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Lizenzen",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Lizenzen/Grundlagen"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Lizenzen/Software"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Lizenzen/Bilder"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/lizenzen",
+                  "permalink": "/bbzbl-modul-m231/docs/category/lizenzen"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Massnahmen",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Massnahmen/Identity"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/massnahmen",
+                  "permalink": "/bbzbl-modul-m231/docs/category/massnahmen"
                 }
               },
               {
@@ -548,6 +818,23 @@
                   "type": "generated-index",
                   "slug": "/category/frameworks",
                   "permalink": "/bbzbl-modul-m231/docs/category/frameworks"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Verschlüsselung",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Verschlüsselung/Identity"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/verschlüsselung",
+                  "permalink": "/bbzbl-modul-m231/docs/category/verschlüsselung"
                 }
               }
             ]

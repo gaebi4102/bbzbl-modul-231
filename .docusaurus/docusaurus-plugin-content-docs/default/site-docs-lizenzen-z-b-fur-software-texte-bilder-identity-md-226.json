@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Lizenzen (z.B. für Software, Texte, Bilder)/Identity",
+  "id": "Lizenzen (z.B. für Software, Texte, Bilder)/Identity",
+  "title": "1. Identity",
+  "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+  "source": "@site/docs/Lizenzen (z.B. für Software, Texte, Bilder)/Identity.md",
+  "sourceDirName": "Lizenzen (z.B. für Software, Texte, Bilder)",
+  "slug": "/Lizenzen (z.B. für Software, Texte, Bilder)/Identity",
+  "permalink": "/bbzbl-modul-m231/docs/Lizenzen (z.B. für Software, Texte, Bilder)/Identity",
+  "draft": false,
+  "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Lizenzen (z.B. für Software, Texte, Bilder)/Identity.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lizenzen (z.B. für Software, Texte, Bilder)",
+    "permalink": "/bbzbl-modul-m231/docs/category/lizenzen-zb-für-software-texte-bilder"
+  },
+  "next": {
+    "title": "Massnahmen (Technische und Organisatorische)",
+    "permalink": "/bbzbl-modul-m231/docs/category/massnahmen-technische-und-organisatorische"
+  }
+}

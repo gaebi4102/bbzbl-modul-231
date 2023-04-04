@@ -62,7 +62,7 @@
     },
     "content": "content---bbzbl-modul-m-231-slides-513-3a8"
   },
-  "/bbzbl-modul-m231/docs-0aa": {
+  "/bbzbl-modul-m231/docs-322": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---bbzbl-modul-m-231-docsefa-23d"
@@ -109,6 +109,18 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---bbzbl-modul-m-231-docs-category-identity-und-access-management-9-a-5-a44"
   },
+  "/bbzbl-modul-m231/docs/category/lizenzen-483": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---bbzbl-modul-m-231-docs-category-lizenzenea-5-1e1"
+  },
+  "/bbzbl-modul-m231/docs/category/massnahmen-f9b": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---bbzbl-modul-m-231-docs-category-massnahmen-8-ca-1db"
+  },
+  "/bbzbl-modul-m231/docs/category/verschlüsselung-008": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---bbzbl-modul-m-231-docs-category-verschlusselung-590-105"
+  },
   "/bbzbl-modul-m231/docs/Datenschutz/AGBs etc-328": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---bbzbl-modul-m-231-docs-datenschutz-ag-bs-etc-418-142"
@@ -149,9 +161,41 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---bbzbl-modul-m-231-docs-grundlagen-tools-und-aufbau-des-moduls-844-437"
   },
+  "/bbzbl-modul-m231/docs/Identity und Access Management/Authentifizierung und Autorisierung-2f3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-identity-und-access-management-authentifizierung-und-autorisierungfe-5-b97"
+  },
   "/bbzbl-modul-m231/docs/Identity und Access Management/Identity-1c3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---bbzbl-modul-m-231-docs-identity-und-access-management-identityc-19-7b5"
+  },
+  "/bbzbl-modul-m231/docs/Identity und Access Management/Passwörter und MFA-9a4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-identity-und-access-management-passworter-und-mf-ab-06-08c"
+  },
+  "/bbzbl-modul-m231/docs/Identity und Access Management/RBAC-1ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-identity-und-access-management-rba-cbb-2-093"
+  },
+  "/bbzbl-modul-m231/docs/Lizenzen/Bilder-bab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-lizenzen-bilderbd-7-e9a"
+  },
+  "/bbzbl-modul-m231/docs/Lizenzen/Grundlagen-2eb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-lizenzen-grundlagene-43-9f1"
+  },
+  "/bbzbl-modul-m231/docs/Lizenzen/Software-97e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-lizenzen-software-9-af-2b6"
+  },
+  "/bbzbl-modul-m231/docs/Massnahmen/Identity-c71": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-massnahmen-identity-016-1b2"
+  },
+  "/bbzbl-modul-m231/docs/Verschlüsselung/Identity-e95": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---bbzbl-modul-m-231-docs-verschlusselung-identityde-9-401"
   },
   "/bbzbl-modul-m231/-fe9": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

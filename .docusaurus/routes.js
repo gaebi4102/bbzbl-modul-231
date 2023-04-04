@@ -54,7 +54,7 @@ export default [
   },
   {
     path: '/bbzbl-modul-m231/docs',
-    component: ComponentCreator('/bbzbl-modul-m231/docs', '0aa'),
+    component: ComponentCreator('/bbzbl-modul-m231/docs', '322'),
     routes: [
       {
         path: '/bbzbl-modul-m231/docs/',
@@ -113,6 +113,24 @@ export default [
       {
         path: '/bbzbl-modul-m231/docs/category/identity-und-access-management',
         component: ComponentCreator('/bbzbl-modul-m231/docs/category/identity-und-access-management', '29e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/bbzbl-modul-m231/docs/category/lizenzen',
+        component: ComponentCreator('/bbzbl-modul-m231/docs/category/lizenzen', '483'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/bbzbl-modul-m231/docs/category/massnahmen',
+        component: ComponentCreator('/bbzbl-modul-m231/docs/category/massnahmen', 'f9b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/bbzbl-modul-m231/docs/category/verschlüsselung',
+        component: ComponentCreator('/bbzbl-modul-m231/docs/category/verschlüsselung', '008'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -177,8 +195,56 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/bbzbl-modul-m231/docs/Identity und Access Management/Authentifizierung und Autorisierung',
+        component: ComponentCreator('/bbzbl-modul-m231/docs/Identity und Access Management/Authentifizierung und Autorisierung', '2f3'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/bbzbl-modul-m231/docs/Identity und Access Management/Identity',
         component: ComponentCreator('/bbzbl-modul-m231/docs/Identity und Access Management/Identity', '1c3'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/bbzbl-modul-m231/docs/Identity und Access Management/Passwörter und MFA',
+        component: ComponentCreator('/bbzbl-modul-m231/docs/Identity und Access Management/Passwörter und MFA', '9a4'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/bbzbl-modul-m231/docs/Identity und Access Management/RBAC',
+        component: ComponentCreator('/bbzbl-modul-m231/docs/Identity und Access Management/RBAC', '1ce'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/bbzbl-modul-m231/docs/Lizenzen/Bilder',
+        component: ComponentCreator('/bbzbl-modul-m231/docs/Lizenzen/Bilder', 'bab'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/bbzbl-modul-m231/docs/Lizenzen/Grundlagen',
+        component: ComponentCreator('/bbzbl-modul-m231/docs/Lizenzen/Grundlagen', '2eb'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/bbzbl-modul-m231/docs/Lizenzen/Software',
+        component: ComponentCreator('/bbzbl-modul-m231/docs/Lizenzen/Software', '97e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/bbzbl-modul-m231/docs/Massnahmen/Identity',
+        component: ComponentCreator('/bbzbl-modul-m231/docs/Massnahmen/Identity', 'c71'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/bbzbl-modul-m231/docs/Verschlüsselung/Identity',
+        component: ComponentCreator('/bbzbl-modul-m231/docs/Verschlüsselung/Identity', 'e95'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

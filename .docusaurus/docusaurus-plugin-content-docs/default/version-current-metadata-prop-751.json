@@ -134,9 +134,69 @@
             "label": "1. Identity",
             "href": "/bbzbl-modul-m231/docs/Identity und Access Management/Identity",
             "docId": "Identity und Access Management/Identity"
+          },
+          {
+            "type": "link",
+            "label": "2. Authentifizierung und Autorisierung",
+            "href": "/bbzbl-modul-m231/docs/Identity und Access Management/Authentifizierung und Autorisierung",
+            "docId": "Identity und Access Management/Authentifizierung und Autorisierung"
+          },
+          {
+            "type": "link",
+            "label": "3. Passwörter und MFA",
+            "href": "/bbzbl-modul-m231/docs/Identity und Access Management/Passwörter und MFA",
+            "docId": "Identity und Access Management/Passwörter und MFA"
+          },
+          {
+            "type": "link",
+            "label": "4. RBAC",
+            "href": "/bbzbl-modul-m231/docs/Identity und Access Management/RBAC",
+            "docId": "Identity und Access Management/RBAC"
           }
         ],
         "href": "/bbzbl-modul-m231/docs/category/identity-und-access-management"
+      },
+      {
+        "type": "category",
+        "label": "Lizenzen",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "1. Grundlagen/ Urheberrecht",
+            "href": "/bbzbl-modul-m231/docs/Lizenzen/Grundlagen",
+            "docId": "Lizenzen/Grundlagen"
+          },
+          {
+            "type": "link",
+            "label": "2. Software Lizenzen",
+            "href": "/bbzbl-modul-m231/docs/Lizenzen/Software",
+            "docId": "Lizenzen/Software"
+          },
+          {
+            "type": "link",
+            "label": "3. Bildlizenzen",
+            "href": "/bbzbl-modul-m231/docs/Lizenzen/Bilder",
+            "docId": "Lizenzen/Bilder"
+          }
+        ],
+        "href": "/bbzbl-modul-m231/docs/category/lizenzen"
+      },
+      {
+        "type": "category",
+        "label": "Massnahmen",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "1. Identity",
+            "href": "/bbzbl-modul-m231/docs/Massnahmen/Identity",
+            "docId": "Massnahmen/Identity"
+          }
+        ],
+        "href": "/bbzbl-modul-m231/docs/category/massnahmen"
       },
       {
         "type": "category",
@@ -152,6 +212,21 @@
           }
         ],
         "href": "/bbzbl-modul-m231/docs/category/frameworks"
+      },
+      {
+        "type": "category",
+        "label": "Verschlüsselung",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "1. Identity",
+            "href": "/bbzbl-modul-m231/docs/Verschlüsselung/Identity",
+            "docId": "Verschlüsselung/Identity"
+          }
+        ],
+        "href": "/bbzbl-modul-m231/docs/category/verschlüsselung"
       }
     ]
   },
@@ -234,9 +309,27 @@
       "description": "Kurze Einführung in das Modul und die Unterlagen des Moduls, sowie die Tools, LBs und Lernjournal.",
       "sidebar": "tutorialSidebar"
     },
+    "Identity und Access Management/Authentifizierung und Autorisierung": {
+      "id": "Identity und Access Management/Authentifizierung und Autorisierung",
+      "title": "2. Authentifizierung und Autorisierung",
+      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "sidebar": "tutorialSidebar"
+    },
     "Identity und Access Management/Identity": {
       "id": "Identity und Access Management/Identity",
       "title": "1. Identity",
+      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "sidebar": "tutorialSidebar"
+    },
+    "Identity und Access Management/Passwörter und MFA": {
+      "id": "Identity und Access Management/Passwörter und MFA",
+      "title": "3. Passwörter und MFA",
+      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "sidebar": "tutorialSidebar"
+    },
+    "Identity und Access Management/RBAC": {
+      "id": "Identity und Access Management/RBAC",
+      "title": "4. RBAC",
       "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
       "sidebar": "tutorialSidebar"
     },
@@ -244,6 +337,36 @@
       "id": "index",
       "title": "Allgemeine Informationen",
       "description": "Modulbeschreibung",
+      "sidebar": "tutorialSidebar"
+    },
+    "Lizenzen/Bilder": {
+      "id": "Lizenzen/Bilder",
+      "title": "3. Bildlizenzen",
+      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "sidebar": "tutorialSidebar"
+    },
+    "Lizenzen/Grundlagen": {
+      "id": "Lizenzen/Grundlagen",
+      "title": "1. Grundlagen/ Urheberrecht",
+      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "sidebar": "tutorialSidebar"
+    },
+    "Lizenzen/Software": {
+      "id": "Lizenzen/Software",
+      "title": "2. Software Lizenzen",
+      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "sidebar": "tutorialSidebar"
+    },
+    "Massnahmen/Identity": {
+      "id": "Massnahmen/Identity",
+      "title": "1. Identity",
+      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+      "sidebar": "tutorialSidebar"
+    },
+    "Verschlüsselung/Identity": {
+      "id": "Verschlüsselung/Identity",
+      "title": "1. Identity",
+      "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
       "sidebar": "tutorialSidebar"
     }
   }

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Lizenzen (z.B. für Software, Texte, Bilder)/Bilder",
+  "id": "Lizenzen (z.B. für Software, Texte, Bilder)/Bilder",
+  "title": "3. Bildlizenzen",
+  "description": "Sicherzustellen, dass alle die Entwicklungsumgebung zum laufen haben und auch wieder in Schwung gekommen ist, werden wir diese Aufgabe zusammen lösen!",
+  "source": "@site/docs/Lizenzen (z.B. für Software, Texte, Bilder)/Bilder.md",
+  "sourceDirName": "Lizenzen (z.B. für Software, Texte, Bilder)",
+  "slug": "/Lizenzen (z.B. für Software, Texte, Bilder)/Bilder",
+  "permalink": "/bbzbl-modul-m231/docs/Lizenzen (z.B. für Software, Texte, Bilder)/Bilder",
+  "draft": false,
+  "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/docs/Lizenzen (z.B. für Software, Texte, Bilder)/Bilder.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2. Software Lizenzen",
+    "permalink": "/bbzbl-modul-m231/docs/Lizenzen (z.B. für Software, Texte, Bilder)/Software"
+  },
+  "next": {
+    "title": "Massnahmen (Technische und Organisatorische)",
+    "permalink": "/bbzbl-modul-m231/docs/category/massnahmen-technische-und-organisatorische"
+  }
+}
