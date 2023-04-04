@@ -74,7 +74,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            `https://github.com/codingluke/${modulConfig.repoName}/tree/main/`,
+            `https://github.com/gaebi4102/${modulConfig.repoName}/tree/main/`,
           remarkPlugins: [oembed],
         },
         // blog: {
@@ -112,7 +112,7 @@ const config = {
           },
           { to: '/slides/', label: 'Präsentationen', position: 'left' },
           {
-            href: `https://github.com/codingluke/${modulConfig.repoName}`,
+            href: `https://github.com/gaebi4102/${modulConfig.repoName}`,
             label: 'GitHub',
             position: 'right',
           },

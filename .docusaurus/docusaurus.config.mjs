@@ -56,7 +56,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/gianlucaaebi/git/m231/sidebars.js",
-          "editUrl": "https://github.com/codingluke/bbzbl-modul-m231/tree/main/",
+          "editUrl": "https://github.com/gaebi4102/bbzbl-modul-m231/tree/main/",
           "remarkPlugins": [
             {}
           ]
@@ -94,7 +94,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/codingluke/bbzbl-modul-m231",
+          "href": "https://github.com/gaebi4102/bbzbl-modul-m231",
           "label": "GitHub",
           "position": "right"
         }
