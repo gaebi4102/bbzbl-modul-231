@@ -10,6 +10,9 @@ $ yarn
 ```
 
 ### Local Development
+```
+npm run start-marp
+```
 
 ```
 $ yarn start

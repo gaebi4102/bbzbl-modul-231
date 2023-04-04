@@ -44,7 +44,7 @@ export default {
       {
         "proxy": {
           "/bbzbl-modul-231/slides": {
-            "target": "http://localhost:3000"
+            "target": "http://localhost:3003"
           }
         }
       }

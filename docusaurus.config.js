@@ -51,7 +51,7 @@ const config = {
       {
         proxy: {
           [`/${modulConfig.repoName}/slides`]: {
-            target: "http://localhost:3000",
+            target: "http://localhost:3003",
             pathRewrite: function(/** @type {string} */ path, /** @type {any} */ _req) {
               if (path.match(/.*\..*$/)) {
                 return path.replace(`/${modulConfig.repoName}/slides`, '');
