@@ -26,13 +26,13 @@ Als einstig schauen Sie sich das Video zum Thema Daten an. Vertiefen sie das The
 
 Beantworten sie folgende Fragen im Lernjournal:
 
-- Was sind Daten?
-- Welche Arten von Daten gibt es?
- - Was sind Vor- und Nachteile der Arten?
-- Was sind die drei Zustände können Daten haben?
-  - Nenne die Zustände und Beschreibe diese inkl. Beispielen
-- Was gefahren sind die Daten im jeweiligen Zustand ausgesetzt?
-  - pro Schutzziel 2 - 3 Gefahren welche in euerem Lehrbetrieb am Plausibelsten sind
+- Weshalb ist die EU Datenschutz Relevant für die Schweiz?
+- Daten vom wem sind Betroffen vom Datenschutzgesetz?
+- Welche Rechte haben die Betroffenen?
+- Welche Pflichte haben sie als Unternehemen?
+- Wann sind Daten vom Datenschutzgesetz betroffen?
+- Welche Daten stufft das Gesetzt als Besonders Schutzenswert ein?
+- Wie Unterscheidet sich das EU gesetzt vom Schweizer Datenschutz Gesetz? ( Erstellen sie eine Tabelle und vergleichen sie die beiden Gesetze)
 
 :::warning **Hinweis**
 
@@ -42,10 +42,13 @@ Erkläre jeweils in eigenen Worten!
 
 :::info Quellen
 
-- [**Computerweekly:** Daten](https://www.computerweekly.com/de/definition/Daten)
+- [**CH Admin EDÖB:** DSGVO](https://www.edoeb.admin.ch/edoeb/de/home/dokumentation/datenschutz/Datenschutz%20-%20International/DSGVO.html)
 
-- [**Cintellic:** Strukturierte vs. unstrukturierte Daten](https://www.cintellic.com/wiki/strukturierte-vs-unstrukturierte-daten/)
+- [**EU:** DSGVO](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32016R0679&from=DEx)
 
-- [**Cloudflare:** Was sind Data-at-Rest?](https://www.cloudflare.com/de-de/learning/security/glossary/data-at-rest/#:~:text=Data%2Dat%2DRest%20steht%20im,von%20einem%20Softwareprogramm%20verwendet%20werden)
+- [**PWC:** EU-DatenschutzGrundverordnung
+(GDPR)](https://www.pwc.ch/en/publications/2018/eu-datenschutzgrundverordnung-gdpr-d-web.pdf)
+
+- [**BARC GmbH:** Vergleich Schweiz vs. EU](https://barc.com/de/unterschiede-schweizer-datenschutzgesetz-dsgvo/)
 
 :::

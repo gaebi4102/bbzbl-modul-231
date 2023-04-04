@@ -7,7 +7,6 @@ sidebar_position: 1
 ## Modulbeschreibung
 
 - [:paperclip: Modulidentifikation](https://www.modulbaukasten.ch/module/231/1/de-DE?title=Datenschutz-und-Datensicherheit-anwenden)
-- [:paperclip: LBV](https://drive.google.com/file/d/136Q5njndm681KO-w4Vzn0oGNA5VazImF/view)
 
 # Quartalsübersicht
 

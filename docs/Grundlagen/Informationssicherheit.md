@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # 2.  Informationssicherheit
 
+Was sind Informationen und was ist Informationssicherheit?
+
 | **Material**   | Video Informationen und Internet              |
 | :------------- | :-------------------------------------------- |
 | **Richtzeit**  | ca. 45 Minuten                                |

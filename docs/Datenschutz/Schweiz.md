@@ -26,13 +26,12 @@ Als einstig schauen Sie sich das Video zum Thema Daten an. Vertiefen sie das The
 
 Beantworten sie folgende Fragen im Lernjournal:
 
-- Was sind Daten?
-- Welche Arten von Daten gibt es?
- - Was sind Vor- und Nachteile der Arten?
-- Was sind die drei Zustände können Daten haben?
-  - Nenne die Zustände und Beschreibe diese inkl. Beispielen
-- Was gefahren sind die Daten im jeweiligen Zustand ausgesetzt?
-  - pro Schutzziel 2 - 3 Gefahren welche in euerem Lehrbetrieb am Plausibelsten sind
+- Welche Gesetzt hat die Schweiz zum Thema Datenschutz?
+- Daten vom wem sind Betroffen vom Datenschutzgesetz?
+- Welche Rechte haben die Betroffenen?
+- Welche Pflichte haben sie als Unternehemen?
+- Wann sind Daten vom Datenschutzgesetz betroffen?
+- Welche Daten stufft das Gesetzt als Besonders Schutzenswert ein?
 
 :::warning **Hinweis**
 
@@ -42,10 +41,18 @@ Erkläre jeweils in eigenen Worten!
 
 :::info Quellen
 
-- [**Computerweekly:** Daten](https://www.computerweekly.com/de/definition/Daten)
+- [**CH EDÖB:** Datenschutz](https://www.edoeb.admin.ch/edoeb/de/home/datenschutz/ueberblick/datenschutz.html)
 
-- [**Cintellic:** Strukturierte vs. unstrukturierte Daten](https://www.cintellic.com/wiki/strukturierte-vs-unstrukturierte-daten/)
+- [**CH:** DSG](https://www.fedlex.admin.ch/eli/fga/2020/1998/de)
 
-- [**Cloudflare:** Was sind Data-at-Rest?](https://www.cloudflare.com/de-de/learning/security/glossary/data-at-rest/#:~:text=Data%2Dat%2DRest%20steht%20im,von%20einem%20Softwareprogramm%20verwendet%20werden)
+- [**CH:** Art. 13 der Bundesverfassung](https://www.fedlex.admin.ch/eli/cc/1999/404/de#a13)
+
+- [**CH:** Verordnung zum Bundesgesetz über den Datenschutz](https://www.fedlex.admin.ch/eli/cc/1993/1962_1962_1962/de)
+
+- [**CH:** Art. 28-28l Zivilgesetzbuches (ZGB)](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de#a28)
+
+- [**KMU CH Admin:** revDSG](https://www.kmu.admin.ch/kmu/de/home/fakten-trends/digitalisierung/datenschutz/neues-datenschutzgesetz-rev-dsg.html)
+
+- [**Hostpoint:** Blog](https://www.hostpoint.ch/blog/das-neue-datenschutzgesetz-kommt-2023-was-gilt-es-dabei-zu-beachten/)
 
 :::

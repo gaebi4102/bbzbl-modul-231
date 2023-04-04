@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # 3.  Daten
 
+Was sind Daten?
+
 | **Material**   | Video Informationen und Internet              |
 | :------------- | :-------------------------------------------- |
 | **Richtzeit**  | ca. 45 Minuten                                |
