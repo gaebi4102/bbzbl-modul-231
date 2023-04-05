@@ -39,7 +39,7 @@ Erkläre jeweils in eigenen Worten!
 
 :::
 
-:::info Quellen
+:::tip Quellen
 
 - [**Security Insider:** Was ist Informationssicherheit?](https://www.security-insider.de/was-ist-informationssicherheit-a-677316/)
 
