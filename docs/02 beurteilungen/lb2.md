@@ -1,19 +1,25 @@
-# LB 2
+# LB 2 - Prüfung
 
 | **Dauer**  | **Gewichtung**        |
 | :--------- | :-------------------- |
-| 90 Minuten | **50%** der Modulnote |
+| 90 Minuten | **25%** der Modulnote |
 
-## Mögliche Aufgaben
+## Inhalt
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+An der Prüfung wir der Inhalt aller Blöck geprüft:
 
-## Hilfsmittel
+- [**Grundlagen**](../category/grundlagen)
+- [**Datenschutz**](../category/datenschutz)
+- [**Datensicherheit**](../category/datensicherheit)
+- [**Identity und Access Management**](../category/identity-und-access-management)
+- [**Lizenzen**](../category/lizenzen)
+- [**Massnahmen**](../category/massnahmen)
+- [**Nist**](../18%20frameworks/01%20Nist)
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Die Prüfung wird aus Multiple Choice und offenen Fragen bestehen.
 
-:::danger
+:::danger Hilfsmittel
 
-- Das Faktenblatt, **doppelseitig** ausdrucken, es sind nur **handgeschriebene Notizen** darauf erlaubt!
+Spick **einseitiges** DIN A4, es sind nur **handgeschriebene Notizen** darauf erlaubt!
 
 :::

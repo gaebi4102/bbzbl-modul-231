@@ -1,8 +1,8 @@
-# LB 1
+# LB 1 - Lernjournal
 
 | **Dauer**  | **Gewichtung**        |
 | :--------- | :-------------------- |
-| 90 Minuten | **50%** der Modulnote |
+| Modul | **25%** der Modulnote |
 
 ## Mögliche Aufgaben
 
