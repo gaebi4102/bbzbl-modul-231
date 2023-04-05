@@ -1,5 +1,7 @@
 # LB 2 - Prüfung
 
+Prüfung über die Theorie des Moduls.
+
 | **Dauer**  | **Gewichtung**        |
 | :--------- | :-------------------- |
 | 90 Minuten | **25%** der Modulnote |

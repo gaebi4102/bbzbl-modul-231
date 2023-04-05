@@ -1,5 +1,7 @@
 # LB 3 - Fallstudie
 
+Fallstudie zur Praktischen Anwendung des Erlernten.
+
 | **Dauer**  | **Gewichtung**        |
 | :--------- | :-------------------- |
 | Modul | **50%** der Modulnote |
