@@ -125,7 +125,7 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 
 ---
 
-# Die Modulwebseite  [:link:](https://codingluke.github.io/bbzbl-modul-404)
+# Die Modulwebseite  [:link:](https://gaebi4102.github.io/bbzbl-modul-231/)
 
 <!-- - **Faktenblatt**: Übersicht über alle Themen  -->
 <!-- - **INB21A**: Quartalübersicht und Wochenpräsentationen -->
@@ -138,13 +138,10 @@ Wochenfolien und die Quartalsübersicht
 **Beurteilungen** 
 Prüfungsrelevante Infos 
 
-**Repetition**
-Repetitionen vom Modul 319 / 403
-
 ::: split
 
-**:pencil: Aufgaben Grundlagen**
-Alle Grunlegenden Aufgaben
+**:pencil: Grundlagen**
+Grundlagen zum Thema und Einstig ins Modul
 
 :::
 

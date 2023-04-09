@@ -2,21 +2,43 @@
 marp: true
 theme: bbzbl
 paginate: true
-header: Modul 231 - Informationssicherheit
+header: Modul 231 - Daten
 footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 ---
 
 <!-- _class: big center -->
-# Informationssicherheit
+# Daten
 ## Modul 231
 
 ---
 
-# Was sind Informationen?
+# Was sind Daten?
+
+> „Daten im IT Kontext sind Information welche in“
+
+[**artegic AG:** Wo liegt der Unterschied zwischen Daten, Informationen und Wissen?](https://www.artegic.com/de/blog/wo-liegt-der-unterschied-zwischen-daten-informationen-und-wissen/)
+
+---
+
+# Welche Arten von Daten gibt es?
+
+[![Information und Daten](./images/infotechnik1.png)]
+
+[**vis4.net:** Datavis vs. Infovis - Zwischen Kunst und Journalismus](https://www.vis4.net/blog/2010/11/datavis-vs-infovis/)
+
+---
+
+# Zustand von Daten
+
+[![Zustand von Daten](../images/whatis-states_of_digital_data.png)]()
+
+[**techtarget.com** data at rest](https://www.techtarget.com/searchstorage/definition/data-at-restg)
 
 ---
 
 # Was ist Informationssicherheit?
+
+> Schutz von Informationen in jeder Form, egal ob Papier oder Digital. 
 
 ---
 
@@ -74,30 +96,3 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 [![Verfügbarkeit](./images/patrick-robert-doyle-UrHNIeIjoE4-unsplash.jpg)]()
 
 :::
-
----
-
-# Erweiterte Schutzziele der Informationssicherheit
-
-- Authentizität
-- Nichtabstreitbarkeit
-- Verbindlichkeit
-- Zuverlässigkeit
-
----
-
-## Authentizität
-
-Echtheit der Daten ist gewährleistet
-
----
-
-## Nichtabstreitbarkeit
-
----
-
-## Verbindlichkeit
-
----
-
-## Zuverlässigkeit
