@@ -27,11 +27,11 @@ Die nachfolgenden Leitfragen sollen Ihnen eine Anregung geben.
 - So habe ich auf die Schwierigkeiten reagiert.
 - Ich bin zufrieden mit meiner Leistung, weil…
 
+
+
 ## Werkzeuge
-Für Ihr Lernjournal steht Ihnen ein entsprechendes Dokument (Google Docs) über eine Aufgabe in
-Google Classroom zur Verfügung. Wenn Sie eine andere Plattform nutzen, stellen Sie bitte den Zugriff
-für die Lehrperson (Lesen und Schreiben) sicher und geben Sie den entsprechenden Link in der Aufgabe
-(Classroom) an.
+Für Ihr Lernjournal steht Ihnen ein entsprechendes Vorlage auf [github](https://github.com/gaebi4102/bbzbl-lernjournal-vorlage) zur Verfügung. Wenn Sie eine andere Plattform nutzen, stellen Sie bitte den Zugriff
+für die Lehrperson (Lesen und Schreiben) sicher und senden Sie die Zungangsdaten via Mail an die Lehrperson.
 
 ## Sozialform
 Das Lernjournal ist eine Einzelarbeit.

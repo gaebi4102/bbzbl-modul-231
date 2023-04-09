@@ -11,8 +11,8 @@ sidebar_position: 2
 
 ## Ziel
 
-* Sie kennen die Unterschiedlichen Arten von Informationen.
-* Sie kennen die Grundlage vom Informationssicherheit.
+* Sie kennen die Unterschied zwischen Authentifizierung und Autorisierung.
+* Sie kennen die Rolle von Authentifizierung und Autorisierung im Kontext von IAM.
 
 ## Video
 
@@ -24,12 +24,10 @@ Als einstig schauen Sie sich das Video zum Thema Informationen an. Vertiefen sie
 
 Beantworten sie folgende Fragen im Lernjournal:
 
-- Was sind Informationen?
-- Was sind die drei Schutzziele der Informationssicherheit?
-- Was sind mögliche Gefahren der jeweiligen Schutzziele?
-  - pro Schutzziel 3 - 5 Gefahren welche in euerem Lehrbetrieb am Plausibelsten sind
-- Was ist der Unterschiede zwischen Informationssicherheit und Datenschutz?
-- Was ist der Unterschiede zwischen Informationssicherheit und IT-Sicherheit?
+- Was ist Authentifizierung?
+ - Was gibt es für Authentifizierungsmethoden?
+- Was ist Autorisierung?
+- Wie tragen Authentifizierung und Autorisierung jeweils zum Datenschutz und Datensicherheit bei?
 
 :::warning **Hinweis**
 
@@ -39,9 +37,9 @@ Erkläre jeweils in eigenen Worten!
 
 :::info Quellen
 
-- [**Security Insider:** Was ist Informationssicherheit?](https://www.security-insider.de/was-ist-informationssicherheit-a-677316/)
+- [**Okta:** Vergleich von Authentifizierung und Autorisierung](https://www.okta.com/de/identity-101/authentication-vs-authorization/#:~:text=Durch%20Authentifizierung%20wird%20best%C3%A4tigt%2C%20dass,Erlaubnis%20erhalten%2C%20auf%20Ressourcen%20zuzugreifen.)
 
-- [**BREKOM:** Informationssicherheit](https://brekom.de/ratgeber-it-sicherheit/informationssicherheit/)
+- [**auth0:** Authentication vs. Authorization](https://auth0.com/docs/get-started/identity-fundamentals/authentication-and-authorization)
 
 
 :::

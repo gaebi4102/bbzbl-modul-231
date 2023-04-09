@@ -18,9 +18,8 @@ Kurze Einführung in das Modul und die Unterlagen des Moduls, sowie die Tools, L
 ## Auftrag
 
 - Erstellen Sie ein gerüst für ihr Lernjournal und machen sie es der Lerperson verfügbar. Als Tool könnten sie z.B eines dieser Tools verwenden:
-  - [ google site](https://sites.google.com/)
-  - [ google blogger]( https://www.blogger.com/)
   - [ github.com](https://github.com/)
+  - [ google site](https://sites.google.com/)
 
 :::warning **Hinweis**
 

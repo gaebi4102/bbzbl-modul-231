@@ -12,8 +12,8 @@ sidebar_position: 1
 
 ## Ziel
 
-* Sie kennen die Unterschiedlichen Arten von Informationen.
-* Sie kennen die Grundlage vom Informationssicherheit.
+* Sie kennen die Grundlagen von  Identity and Access Management (IAM).
+* Sie wissen was Least Privileged Access (LPA) ist.
 
 ## Video
 
@@ -25,12 +25,13 @@ Als einstig schauen Sie sich das Video zum Thema Informationen an. Vertiefen sie
 
 Beantworten sie folgende Fragen im Lernjournal:
 
-- Was sind Informationen?
-- Was sind die drei Schutzziele der Informationssicherheit?
-- Was sind mögliche Gefahren der jeweiligen Schutzziele?
-  - pro Schutzziel 3 - 5 Gefahren welche in euerem Lehrbetrieb am Plausibelsten sind
-- Was ist der Unterschiede zwischen Informationssicherheit und Datenschutz?
-- Was ist der Unterschiede zwischen Informationssicherheit und IT-Sicherheit?
+- Was ist IAM?
+  - Wie Funktioniert es und welche Kompenten gehören in der Regel dazu?
+- Wie trägt IAM zu Datenschutz respektive Datensicherheit bei?
+- Was sind Vor- und Nachteile von IAM?
+- Was ist LPA?
+ - Wie Stärkt LPA den Datenschutz und die Datensicherheit?
+
 
 :::warning **Hinweis**
 
@@ -40,9 +41,9 @@ Erkläre jeweils in eigenen Worten!
 
 :::info Quellen
 
-- [**Security Insider:** Was ist Informationssicherheit?](https://www.security-insider.de/was-ist-informationssicherheit-a-677316/)
+- [**ComputerWeekly.de:** Identity Access Management (IAM) -Systeme](https://www.computerweekly.com/de/definition/Identity-Access-Management-IAM-Systeme)
 
-- [**BREKOM:** Informationssicherheit](https://brekom.de/ratgeber-it-sicherheit/informationssicherheit/)
+- [**Microsoft** Was ist Identity & Access Management (IAM)?](https://www.microsoft.com/de-de/security/business/security-101/what-is-identity-access-management-iam)
 
 
 :::

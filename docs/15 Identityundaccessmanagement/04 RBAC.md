@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# 4. RBAC
+# 4. Role Based Access Control (RBAC)
 
 | **Material**   | Video Informationen und Internet              |
 | :------------- | :-------------------------------------------- |
@@ -11,8 +11,8 @@ sidebar_position: 4
 
 ## Ziel
 
-* Sie kennen die Unterschiedlichen Arten von Informationen.
-* Sie kennen die Grundlage vom Informationssicherheit.
+* Sie kennen die Grundlagen von RBAC.
+* Sie wissen wo RBAC in IAM Einzuordnen ist.
 
 ## Video
 
@@ -24,12 +24,11 @@ Als einstig schauen Sie sich das Video zum Thema Informationen an. Vertiefen sie
 
 Beantworten sie folgende Fragen im Lernjournal:
 
-- Was sind Informationen?
-- Was sind die drei Schutzziele der Informationssicherheit?
-- Was sind mögliche Gefahren der jeweiligen Schutzziele?
-  - pro Schutzziel 3 - 5 Gefahren welche in euerem Lehrbetrieb am Plausibelsten sind
-- Was ist der Unterschiede zwischen Informationssicherheit und Datenschutz?
-- Was ist der Unterschiede zwischen Informationssicherheit und IT-Sicherheit?
+- Was ist RBAC?
+  - Was ist die Funktionsweise von RBAC?
+  - Welche Komponenten braucht es für RBAC?
+- Wo ist RBAC im IAM Einzuordnen?
+- Wie trägt RBAC zum Datenschutz und Datensicherheit bei?
 
 :::warning **Hinweis**
 
@@ -39,9 +38,11 @@ Erkläre jeweils in eigenen Worten!
 
 :::info Quellen
 
-- [**Security Insider:** Was ist Informationssicherheit?](https://www.security-insider.de/was-ist-informationssicherheit-a-677316/)
+- [**ionos:** Role Based Access Control (RBAC): Wie funktioniert die rollenbasierte Zugriffskontrolle?](https://www.ionos.de/digitalguide/server/sicherheit/was-ist-role-based-access-control-rbac/)
 
-- [**BREKOM:** Informationssicherheit](https://brekom.de/ratgeber-it-sicherheit/informationssicherheit/)
+- [**youtube.com:** Role-Based Access Control (RBAC) Explained: How it works and when to use it](https://www.youtube.com/watch?v=4Uya_I_Oxjk)
+
+- [**microsoft:** Azure Role-Based Access Control, Azure RBAC)?](https://learn.microsoft.com/de-de/azure/role-based-access-control/overview)
 
 
 :::

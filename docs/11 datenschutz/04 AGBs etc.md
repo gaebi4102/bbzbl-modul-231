@@ -28,13 +28,18 @@ Als einstig schauen Sie sich das Video zum Thema Daten an. Vertiefen sie das The
 Beantworten sie folgende Fragen im Lernjournal:
 
 
-- Was sind Daten?
-- Welche Arten von Daten gibt es?
- - Was sind Vor- und Nachteile der Arten?
-- Was sind die drei Zustände können Daten haben?
-  - Nenne die Zustände und Beschreibe diese inkl. Beispielen
-- Was gefahren sind die Daten im jeweiligen Zustand ausgesetzt?
-  - pro Schutzziel 2 - 3 Gefahren welche in euerem Lehrbetrieb am Plausibelsten sind
+- Was ist ein Impressum?
+  - Wann braucht es ein Impressum?
+  - Was gehört in ein Impressum?
+  - Gibt es eine Gesetzesgrundlage in der Schweiz?
+- Was ist ein Disclaimer?
+  - Wan ist es sinvoll das ihre Webseite über einen Disclaimer verfügt?
+  - Was wird üblicherweise im Disclaimer behandelt?
+  - Gibt es eine Gesetzesgrundlage in der Schweiz?
+- Was sind AGBs?
+  - Wan sind AGBs sinvoll?
+  - Was wird üblicherwise in den AGBs geregelt?
+  - Gibt es eine Gesetzesgrundlage in der Schweiz?
 
 :::warning **Hinweis**
 
@@ -44,10 +49,14 @@ Erkläre jeweils in eigenen Worten!
 
 :::info Quellen
 
-- [**Computerweekly:** Daten](https://www.computerweekly.com/de/definition/Daten)
+- [**Hostpoint:** Impressumspflicht ab Frühling in der Schweiz](https://www.hostpoint.ch/blog/impressumspflicht-ab-fruehling-auch-in-der-schweiz/#:~:text=In%20der%20Schweiz%20besteht%20bislang,Gesch%C3%A4ftsverkehr%C2%BB%20in%20der%20Schweiz%20eingef%C3%BChrt.)
 
-- [**Cintellic:** Strukturierte vs. unstrukturierte Daten](https://www.cintellic.com/wiki/strukturierte-vs-unstrukturierte-daten/)
+- [**cyon:** Websites: Wer benötigt ein Impressum und was muss darin stehen?](https://www.cyon.ch/blog/Impressum-Websites)
 
-- [**Cloudflare:** Was sind Data-at-Rest?](https://www.cloudflare.com/de-de/learning/security/glossary/data-at-rest/#:~:text=Data%2Dat%2DRest%20steht%20im,von%20einem%20Softwareprogramm%20verwendet%20werden)
+- [**beobachter.ch:** EIGENE WEBSITE ERSTELLEN: Das müssen Sie rechtlich beachten](https://www.beobachter.ch/digital/multimedia/eigene-website-erstellen-das-mussen-sie-rechtlich-beachten)
+
+- [**weka:** Impressumspflicht Schweiz: So erstellen Sie rechtssichere Websites](https://www.weka.ch/themen/marketing-verkauf/online-marketing/e-commerce/article/impressumspflicht-schweiz-so-erstellen-sie-rechtssichere-websites/)
+
+- [**020webdesign.ch:** Checkliste zur rechtlich sicheren Website in der Schweiz](https://8020webdesign.ch/checkliste-rechtlich-sichere-website-schweiz/)
 
 :::

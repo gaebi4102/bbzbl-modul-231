@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 1. Allgemein
 
-Was ist Datenschutz?
+Was ist Datensicherheit?
 
 | **Material**   | Video Informationen und Internet              |
 | :------------- | :-------------------------------------------- |

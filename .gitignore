@@ -18,3 +18,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#Draft
+docs/12 datensicherheit
+docs/16 lizenzen
+docs/17 massnahmen
+docs/18 frameworks
+docs/19 verschluesselung

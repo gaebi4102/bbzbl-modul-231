@@ -30,6 +30,7 @@ Beantworten sie folgende Fragen im Lernjournal:
 - Was ist der Unterschied zwischen Security und Safety?
   - Wo Ordnet sich Informationsicherheit ein?
 - Was ist Risiko?
+- Was ist eine Risiko Matrix?
 - Was ist Risikomanagement?
   - Was ist das Ziele und der Nutzen des Risikomanagements?
   - Erkläre wie eine KVP zum Risikomanagement beitragen kann?
@@ -43,12 +44,10 @@ Erkläre jeweils in eigenen Worten!
 
 :::info Quellen
 
-
-
-
-
 - [**Sichere Industrie:** Safety vs. Security...](https://www.sichere-industrie.de/safety-security-unterschied-erklaert-kombination-ziele-industrial-security/)
 
 - [**CH Admin:** Risikomanagement](https://www.kmu.admin.ch/kmu/de/home/praktisches-wissen/finanzielles/risikomanagement.html)
+
+- [**CH Admin:** Risikoidentifikation und Risikobewertung](https://www.kmu.admin.ch/kmu/de/home/praktisches-wissen/finanzielles/risikomanagement/wie-fuehrt-man-ein-risikomanagementsystem-ein/risikoidentifikation-und-risikobewertung.html)
 
 :::

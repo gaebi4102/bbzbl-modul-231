@@ -11,8 +11,9 @@ sidebar_position: 3
 
 ## Ziel
 
-* Sie kennen die Unterschiedlichen Arten von Informationen.
-* Sie kennen die Grundlage vom Informationssicherheit.
+* Sie wissen was ein "sicheres Passwort" ausmacht.
+* Sie kennen alternativen und ergänzungen zu Passwörter.
+* Sie kennen die Limitationen von Passwörter und MFA.
 
 ## Video
 
@@ -24,12 +25,13 @@ Als einstig schauen Sie sich das Video zum Thema Informationen an. Vertiefen sie
 
 Beantworten sie folgende Fragen im Lernjournal:
 
-- Was sind Informationen?
-- Was sind die drei Schutzziele der Informationssicherheit?
-- Was sind mögliche Gefahren der jeweiligen Schutzziele?
-  - pro Schutzziel 3 - 5 Gefahren welche in euerem Lehrbetrieb am Plausibelsten sind
-- Was ist der Unterschiede zwischen Informationssicherheit und Datenschutz?
-- Was ist der Unterschiede zwischen Informationssicherheit und IT-Sicherheit?
+- Was ist eine sicheres Passwort?
+ - Wie könnte eine Best Practice Passwort Richtline aussehen.
+- Weshalb sind Passwörter unsicher?
+- Was ist MFA?
+  - Wie macht es die Authentifizierung sicher?
+  - Was sind die Herausforderungen und Schwächen von MFA?
+
 
 :::warning **Hinweis**
 
@@ -39,9 +41,15 @@ Erkläre jeweils in eigenen Worten!
 
 :::info Quellen
 
-- [**Security Insider:** Was ist Informationssicherheit?](https://www.security-insider.de/was-ist-informationssicherheit-a-677316/)
+- [**CH Admin bit:** How To Choose a Strong Password](https://www.bit.admin.ch/bit/de/home/dokumentation/kundenzeitschrift-eisbrecher/eisbrecher-archiv/kundenzeitschrift-eisbrecher-ausgabe-75/self-service.html)
 
-- [**BREKOM:** Informationssicherheit](https://brekom.de/ratgeber-it-sicherheit/informationssicherheit/)
+- [**TechTarget:** strong password](https://www.techtarget.com/searchenterprisedesktop/definition/strong-password)
+
+- [**Boston University:** How To Choose a Strong Password](https://www.bu.edu/tech/support/information-security/security-for-everyone/how-to-choose-a-strong-password/)
+
+- [**tools4ever** Was ist Multi-Faktor-Authentifizierung?](https://www.tools4ever.de/glossar/was-ist-multi-faktor-authentifizierung/)
+
+- [**securityinsider** Was ist Multi-Faktor-Authentifizierung (MFA)?](https://security-insider.de/was-ist-multi-faktor-authentifizierung-mfa-a-631486/)
 
 
 :::
