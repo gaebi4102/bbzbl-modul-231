@@ -47,6 +47,10 @@ Erkläre jeweils in eigenen Worten!
 
 - [**NCSC:** Bundesinterne Kampagne](https://www.ncsc.admin.ch/ncsc/de/home/dokumentation/bundesinterne-kampagnen.html)
 
-
-
 :::
+
+## Slides
+
+[:computer: Im Browser öffnen](pathname:///slides/10_grundlagen/02_informationssicherheit) | [:floppy_disk: PDF speichern](pathname:///slides/10_grundlagen/02_informationssicherheit)
+
+<iframe src="/bbzbl-modul-231/slides/10_grundlagen/02_informationssicherheit"></iframe>

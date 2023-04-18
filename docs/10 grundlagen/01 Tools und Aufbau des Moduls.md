@@ -29,3 +29,9 @@ Der Zugang muss während dem ganzen Modul gewährleistet sein, falls dies nicht 
 
 - Erstellen Sie sich einen Plan wan Sie welche Thema bearbeiten möchten die übersich dazu finden Sie auf der Modulwebseite.
 Legen Sie den Plan als ersten Eintrag in Ihrem Lernjournal ab.
+
+## Slides
+
+[:computer: Im Browser öffnen](pathname:///slides/10_grundlagen/01_grundlagen) | [:floppy_disk: PDF speichern](pathname:///slides/10_grundlagen/01_grundlagen)
+
+<iframe src="/bbzbl-modul-231/slides/10_grundlagen/01_grundlagen"></iframe>

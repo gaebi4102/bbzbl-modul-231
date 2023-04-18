@@ -60,3 +60,9 @@ Erkläre jeweils in eigenen Worten!
 - [**020webdesign.ch:** Checkliste zur rechtlich sicheren Website in der Schweiz](https://8020webdesign.ch/checkliste-rechtlich-sichere-website-schweiz/)
 
 :::
+
+## Slides
+
+[:computer: Im Browser öffnen](pathname:///slides/11_datenschutz/04_agbs) | [:floppy_disk: PDF speichern](pathname:///slides/11_datenschutz/04_agbs)
+
+<iframe src="/bbzbl-modul-231/slides/11_datenschutz/04_agbs)"></iframe>

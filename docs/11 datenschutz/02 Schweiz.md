@@ -56,3 +56,9 @@ Erkläre jeweils in eigenen Worten!
 - [**Hostpoint:** Blog](https://www.hostpoint.ch/blog/das-neue-datenschutzgesetz-kommt-2023-was-gilt-es-dabei-zu-beachten/)
 
 :::
+
+## Slides
+
+[:computer: Im Browser öffnen](pathname:///slides/11_datenschutz/02_schweiz) | [:floppy_disk: PDF speichern](pathname:///slides/11_datenschutz/02_schweiz)
+
+<iframe src="/bbzbl-modul-231/slides/11_datenschutz/02_schweiz"></iframe>

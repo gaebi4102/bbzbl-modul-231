@@ -51,3 +51,10 @@ Erkläre jeweils in eigenen Worten!
 - [**CH Admin:** Risikoidentifikation und Risikobewertung](https://www.kmu.admin.ch/kmu/de/home/praktisches-wissen/finanzielles/risikomanagement/wie-fuehrt-man-ein-risikomanagementsystem-ein/risikoidentifikation-und-risikobewertung.html)
 
 :::
+
+
+## Slides
+
+[:computer: Im Browser öffnen](pathname:///slides/10_grundlagen/04_sicherheitundrisiko) | [:floppy_disk: PDF speichern](pathname:///slides/10_grundlagen/04_sicherheitundrisiko)
+
+<iframe src="/bbzbl-modul-231/slides/10_grundlagen/04_sicherheitundrisiko"></iframe>

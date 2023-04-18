@@ -53,3 +53,9 @@ Erkläre jeweils in eigenen Worten!
 - [**MoreThanDigital** 7 Grundsätze für Privacy by Design](https://morethandigital.info/7-grundsaetze-fuer-privacy-by-design-verbessern-sie-ihre-einhaltung-des-datenschutzes/)
 
 :::
+
+## Slides
+
+[:computer: Im Browser öffnen](pathname:///slides/11_datenschutz/01_allgemein) | [:floppy_disk: PDF speichern](pathname:///slides/11_datenschutz/01_allgemein)
+
+<iframe src="/bbzbl-modul-231/slides/11_datenschutz/01_allgemein"></iframe>

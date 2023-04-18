@@ -49,3 +49,9 @@ Erkläre jeweils in eigenen Worten!
 - [**Cloudflare:** Was sind Data-at-Rest?](https://www.cloudflare.com/de-de/learning/security/glossary/data-at-rest/#:~:text=Data%2Dat%2DRest%20steht%20im,von%20einem%20Softwareprogramm%20verwendet%20werden)
 
 :::
+
+## Slides
+
+[:computer: Im Browser öffnen](pathname:///slides/10_grundlagen/03_daten) | [:floppy_disk: PDF speichern](pathname:///slides/10_grundlagen/03_daten)
+
+<iframe src="/bbzbl-modul-231/slides/10_grundlagen/03_daten"></iframe>

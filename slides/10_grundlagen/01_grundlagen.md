@@ -2,12 +2,13 @@
 marp: true
 theme: bbzbl
 paginate: true
-header: Modul 231 - Grundlagen
+header: Modul 231 - Grundlagen - Tools und Aufbau des Moduls
 footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 ---
 
 <!-- _class: big center -->
-# Grundlagen
+### Grundlagen
+# Tools und Aufbau des Moduls
 ## Modul 231
 
 ---

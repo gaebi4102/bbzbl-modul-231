@@ -2,11 +2,12 @@
 marp: true
 theme: bbzbl
 paginate: true
-header: Modul 231 - Informationssicherheit
+header: Modul 231 - Grundlagen - Informationssicherheit
 footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 ---
 
 <!-- _class: big center -->
+### Grundlagen
 # Informationssicherheit
 ## Modul 231
 
