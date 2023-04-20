@@ -16,7 +16,7 @@ An der Prüfung wir der Inhalt aller Blöck geprüft:
 - [**Identity und Access Management**](../category/identity-und-access-management)
 - [**Lizenzen**](../category/lizenzen)
 - [**Massnahmen**](../category/massnahmen)
-- [**Nist**](../18%20frameworks/01%20Nist)
+- [**NIST - Framework**](../16%20frameworks/01%20Nist)
 
 Die Prüfung wird aus Multiple Choice und offenen Fragen bestehen.
 

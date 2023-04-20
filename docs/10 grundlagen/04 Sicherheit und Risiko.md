@@ -6,7 +6,7 @@ sidebar_position: 4
 
 Was ist Sicherheit und Risiko?
 
-| **Material**   | Video Informationen und Internet              |
+| **Material**   | Präsentation und Internet                     |
 | :------------- | :-------------------------------------------- |
 | **Richtzeit**  | ca. 45 Minuten                                |
 | **Sozialform** | Einzelarbeit                                  |
@@ -16,9 +16,17 @@ Was ist Sicherheit und Risiko?
 * Sie kennen die Unterschied zwischen Security und Safety.
 * Sie kennen die Grundlagen vom Risikomanagement.
 
+<!---
 ## Video
 
 [![IMAGE ALT TEXT HERE](https://via.placeholder.com/600x400)](https://www.youtube.com/watch?v=k1BneeJTDcU&ab_channel=boburnham)
+--->
+
+## Präsentation
+
+[:computer: Im Browser öffnen](pathname:///slides/10_grundlagen/04_sicherheitundrisiko) | [:floppy_disk: PDF speichern](pathname:///slides/10_grundlagen/04_sicherheitundrisiko)
+
+<iframe src="/bbzbl-modul-231/slides/10_grundlagen/04_sicherheitundrisiko"></iframe>
 
 ## Auftrag
 
@@ -51,10 +59,3 @@ Erkläre jeweils in eigenen Worten!
 - [**CH Admin:** Risikoidentifikation und Risikobewertung](https://www.kmu.admin.ch/kmu/de/home/praktisches-wissen/finanzielles/risikomanagement/wie-fuehrt-man-ein-risikomanagementsystem-ein/risikoidentifikation-und-risikobewertung.html)
 
 :::
-
-
-## Slides
-
-[:computer: Im Browser öffnen](pathname:///slides/10_grundlagen/04_sicherheitundrisiko) | [:floppy_disk: PDF speichern](pathname:///slides/10_grundlagen/04_sicherheitundrisiko)
-
-<iframe src="/bbzbl-modul-231/slides/10_grundlagen/04_sicherheitundrisiko"></iframe>

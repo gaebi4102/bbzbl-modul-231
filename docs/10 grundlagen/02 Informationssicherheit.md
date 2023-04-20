@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Was sind Informationen und was ist Informationssicherheit?
 
-| **Material**   | Video Informationen und Internet              |
+| **Material**   | Präsentation und Internet                     |
 | :------------- | :-------------------------------------------- |
 | **Richtzeit**  | ca. 45 Minuten                                |
 | **Sozialform** | Einzelarbeit                                  |
@@ -16,9 +16,17 @@ Was sind Informationen und was ist Informationssicherheit?
 * Sie kennen die Unterschiedlichen Arten von Informationen.
 * Sie kennen die Grundlage vom Informationssicherheit.
 
+<!---
 ## Video
 
 [![IMAGE ALT TEXT HERE](https://via.placeholder.com/600x400)](https://www.youtube.com/watch?v=k1BneeJTDcU&ab_channel=boburnham)
+--->
+
+## Präsentation
+
+[:computer: Im Browser öffnen](pathname:///slides/10_grundlagen/02_informationssicherheit) | [:floppy_disk: PDF speichern](pathname:///slides/10_grundlagen/02_informationssicherheit)
+
+<iframe src="/bbzbl-modul-231/slides/10_grundlagen/02_informationssicherheit"></iframe>
 
 ## Auftrag
 
@@ -48,9 +56,3 @@ Erkläre jeweils in eigenen Worten!
 - [**NCSC:** Bundesinterne Kampagne](https://www.ncsc.admin.ch/ncsc/de/home/dokumentation/bundesinterne-kampagnen.html)
 
 :::
-
-## Slides
-
-[:computer: Im Browser öffnen](pathname:///slides/10_grundlagen/02_informationssicherheit) | [:floppy_disk: PDF speichern](pathname:///slides/10_grundlagen/02_informationssicherheit)
-
-<iframe src="/bbzbl-modul-231/slides/10_grundlagen/02_informationssicherheit"></iframe>

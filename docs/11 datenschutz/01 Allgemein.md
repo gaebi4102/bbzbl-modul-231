@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Was ist Datensicherheit?
 
-| **Material**   | Video Informationen und Internet              |
+| **Material**   | Präsentation und Internet                     |
 | :------------- | :-------------------------------------------- |
 | **Richtzeit**  | ca. 45 Minuten                                |
 | **Sozialform** | Einzelarbeit                                  |
@@ -17,9 +17,17 @@ Was ist Datensicherheit?
 * Sie wissen wie der Datenschutz in ihrem Lehrbetrieb Umgesetzt wird.
 * Sie kennen die Grundsätze "privacy by design" und "privacy by default".
 
+<!---
 ## Video
 
 [![IMAGE ALT TEXT HERE](https://via.placeholder.com/600x400)](https://www.youtube.com/watch?v=k1BneeJTDcU&ab_channel=boburnham)
+--->
+
+## Präsentation
+
+[:computer: Im Browser öffnen](pathname:///slides/11_datenschutz/01_allgemein) | [:floppy_disk: PDF speichern](pathname:///slides/11_datenschutz/01_allgemein)
+
+<iframe src="/bbzbl-modul-231/slides/11_datenschutz/01_allgemein"></iframe>
 
 ## Auftrag
 
@@ -53,9 +61,3 @@ Erkläre jeweils in eigenen Worten!
 - [**MoreThanDigital** 7 Grundsätze für Privacy by Design](https://morethandigital.info/7-grundsaetze-fuer-privacy-by-design-verbessern-sie-ihre-einhaltung-des-datenschutzes/)
 
 :::
-
-## Slides
-
-[:computer: Im Browser öffnen](pathname:///slides/11_datenschutz/01_allgemein) | [:floppy_disk: PDF speichern](pathname:///slides/11_datenschutz/01_allgemein)
-
-<iframe src="/bbzbl-modul-231/slides/11_datenschutz/01_allgemein"></iframe>

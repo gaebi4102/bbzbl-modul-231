@@ -6,7 +6,7 @@ sidebar_position: 4
 
 Was gibts sonst noch?
 
-| **Material**   | Video Informationen und Internet              |
+| **Material**   | Präsentation und Internet                     |
 | :------------- | :-------------------------------------------- |
 | **Richtzeit**  | ca. 45 Minuten                                |
 | **Sozialform** | Einzelarbeit                                  |
@@ -17,9 +17,17 @@ Was gibts sonst noch?
 * Sie wissen was ein Disclaimer ist und wan dieser sinvoll ist.
 * Sie wissen was AGBs sind und wan diese sinvoll sind.
 
+<!---
 ## Video
 
 [![IMAGE ALT TEXT HERE](https://via.placeholder.com/600x400)](https://www.youtube.com/watch?v=k1BneeJTDcU&ab_channel=boburnham)
+--->
+
+## Präsentation
+
+[:computer: Im Browser öffnen](pathname:///slides/11_datenschutz/04_agbs) | [:floppy_disk: PDF speichern](pathname:///slides/11_datenschutz/04_agbs)
+
+<iframe src="/bbzbl-modul-231/slides/11_datenschutz/04_agbs)"></iframe>
 
 ## Auftrag
 
@@ -60,9 +68,3 @@ Erkläre jeweils in eigenen Worten!
 - [**020webdesign.ch:** Checkliste zur rechtlich sicheren Website in der Schweiz](https://8020webdesign.ch/checkliste-rechtlich-sichere-website-schweiz/)
 
 :::
-
-## Slides
-
-[:computer: Im Browser öffnen](pathname:///slides/11_datenschutz/04_agbs) | [:floppy_disk: PDF speichern](pathname:///slides/11_datenschutz/04_agbs)
-
-<iframe src="/bbzbl-modul-231/slides/11_datenschutz/04_agbs)"></iframe>

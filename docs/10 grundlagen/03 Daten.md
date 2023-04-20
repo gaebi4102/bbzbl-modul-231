@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Was sind Daten?
 
-| **Material**   | Video Informationen und Internet              |
+| **Material**   | Präsentation und Internet                     |
 | :------------- | :-------------------------------------------- |
 | **Richtzeit**  | ca. 45 Minuten                                |
 | **Sozialform** | Einzelarbeit                                  |
@@ -16,9 +16,17 @@ Was sind Daten?
 * Sie kennen die Unterschiedlichen Arten von Daten.
 * Sie kennen die Unterschiedlichen zustände welche Daten haben können.
 
+<!---
 ## Video
 
 [![IMAGE ALT TEXT HERE](https://via.placeholder.com/600x400)](https://www.youtube.com/watch?v=k1BneeJTDcU&ab_channel=boburnham)
+--->
+
+## Präsentation
+
+[:computer: Im Browser öffnen](pathname:///slides/10_grundlagen/03_daten) | [:floppy_disk: PDF speichern](pathname:///slides/10_grundlagen/03_daten)
+
+<iframe src="/bbzbl-modul-231/slides/10_grundlagen/03_daten"></iframe>
 
 ## Auftrag
 
@@ -49,9 +57,3 @@ Erkläre jeweils in eigenen Worten!
 - [**Cloudflare:** Was sind Data-at-Rest?](https://www.cloudflare.com/de-de/learning/security/glossary/data-at-rest/#:~:text=Data%2Dat%2DRest%20steht%20im,von%20einem%20Softwareprogramm%20verwendet%20werden)
 
 :::
-
-## Slides
-
-[:computer: Im Browser öffnen](pathname:///slides/10_grundlagen/03_daten) | [:floppy_disk: PDF speichern](pathname:///slides/10_grundlagen/03_daten)
-
-<iframe src="/bbzbl-modul-231/slides/10_grundlagen/03_daten"></iframe>

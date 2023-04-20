@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Was sagt das Schweizer Gesetz?
 
-| **Material**   | Video Informationen und Internet              |
+| **Material**   | Präsentation und Internet                     |
 | :------------- | :-------------------------------------------- |
 | **Richtzeit**  | ca. 45 Minuten                                |
 | **Sozialform** | Einzelarbeit                                  |
@@ -16,9 +16,17 @@ Was sagt das Schweizer Gesetz?
 * Sie kennen das DSG und nDSG der Schweiz.
 * Sie kennen weiter Gesetze der Schweiz zum Thema Datenschutz.
 
+<!---
 ## Video
 
 [![IMAGE ALT TEXT HERE](https://via.placeholder.com/600x400)](https://www.youtube.com/watch?v=k1BneeJTDcU&ab_channel=boburnham)
+--->
+
+## Präsentation
+
+[:computer: Im Browser öffnen](pathname:///slides/11_datenschutz/02_schweiz) | [:floppy_disk: PDF speichern](pathname:///slides/11_datenschutz/02_schweiz)
+
+<iframe src="/bbzbl-modul-231/slides/11_datenschutz/02_schweiz"></iframe>
 
 ## Auftrag
 
@@ -56,9 +64,3 @@ Erkläre jeweils in eigenen Worten!
 - [**Hostpoint:** Blog](https://www.hostpoint.ch/blog/das-neue-datenschutzgesetz-kommt-2023-was-gilt-es-dabei-zu-beachten/)
 
 :::
-
-## Slides
-
-[:computer: Im Browser öffnen](pathname:///slides/11_datenschutz/02_schweiz) | [:floppy_disk: PDF speichern](pathname:///slides/11_datenschutz/02_schweiz)
-
-<iframe src="/bbzbl-modul-231/slides/11_datenschutz/02_schweiz"></iframe>
