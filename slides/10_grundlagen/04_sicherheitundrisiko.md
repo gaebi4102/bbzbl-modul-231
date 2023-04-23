@@ -15,7 +15,7 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 
 # Was ist Sicherheit?
 
-> «Sicherheit bezeichnet einen Zustand, der frei von  unvertretbaren Risiken der Beeinträchtigung ist oder  als gefahrenfrei angesehen wird.»
+> «Sicherheit bezeichnet einen Zustand, der frei von  unvertretbaren Risiken der Beeinträchtigung ist oder als gefahrenfrei angesehen wird.»
 
 (DIN EN 61508)
 

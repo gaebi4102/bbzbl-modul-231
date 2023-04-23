@@ -13,7 +13,7 @@ Was ist Sicherheit und Risiko?
 
 ## Ziel
 
-* Sie kennen die Unterschied zwischen Security und Safety.
+* Sie kennen die Unterschiede zwischen Security und Safety.
 * Sie kennen die Grundlagen vom Risikomanagement.
 
 <!---
@@ -30,17 +30,17 @@ Was ist Sicherheit und Risiko?
 
 ## Auftrag
 
-Als einstig schauen Sie sich das Video zum Thema Informationen an. Vertiefen sie das Thema weiter mit Hilfe der Quellen.
+Als Einstig schauen Sie sich das Video zum Thema an. Vertiefen Sie das Thema weiter mit Hilfe der Quellen.
 
-Beantworten sie folgende Fragen im Lernjournal:
+Beantworten Sie folgende Fragen im Lernjournal:
 
 - Was ist Sicherheit?
 - Was ist der Unterschied zwischen Security und Safety?
-  - Wo Ordnet sich Informationsicherheit ein?
+  - Wo lässt sich Informationsicherheit einordnen?
 - Was ist Risiko?
 - Was ist eine Risiko Matrix?
 - Was ist Risikomanagement?
-  - Was ist das Ziele und der Nutzen des Risikomanagements?
+  - Was ist das Ziel und der Nutzen des Risikomanagements?
   - Erkläre wie eine KVP zum Risikomanagement beitragen kann?
 
 

@@ -12,7 +12,7 @@ Sie führen während der ganzen Moduldauer ein persönliches Lernjournal. Für d
 Ihnen entsprechend Zeit im Unterricht zur Verfügung. Sie halten im Lernjournal wöchentlich Ihre
 Tätigkeiten, Ihre Überlegungen zum Praxisbezug sowie eine kurze Reflexion fest. Dieser Teil bildet die
 Grundlage für die Bewertung des Lernjournals. Gleichzeitig führen Sie einen fachlichen Teil im
-Lernjournal über welchen Sie die Fragen aus den Themen Blöcken beantworten.
+Lernjournal, über welchen Sie die Fragen aus den Themenblöcken beantworten.
 Die nachfolgenden Leitfragen sollen Ihnen eine Anregung geben.
 
 ### Teil 1 - Tätigkeiten und Praxistransfer
@@ -22,7 +22,7 @@ Die nachfolgenden Leitfragen sollen Ihnen eine Anregung geben.
 - Das ist für mich persönlich wichtig.
 ### Teil 2 - Reflexion
 - Das ist mir gut gelungen.
-- So bin ich vorgegangen, dass es mir gelungen ist.
+- So bin ich vorgegangen, dass mir etwas gelungen ist.
 - Damit hatte ich Schwierigkeiten.
 - So habe ich auf die Schwierigkeiten reagiert.
 - Ich bin zufrieden mit meiner Leistung, weil…
@@ -30,7 +30,7 @@ Die nachfolgenden Leitfragen sollen Ihnen eine Anregung geben.
 
 
 ## Werkzeuge
-Für Ihr Lernjournal steht Ihnen ein entsprechendes Vorlage auf [github](https://github.com/gaebi4102/bbzbl-lernjournal-vorlage) zur Verfügung. Wenn Sie eine andere Plattform nutzen, stellen Sie bitte den Zugriff
+Für Ihr Lernjournal steht Ihnen eine entsprechende Vorlage auf [github](https://github.com/gaebi4102/bbzbl-lernjournal-vorlage) zur Verfügung. Wenn Sie eine andere Plattform nutzen, stellen Sie bitte den Zugriff
 für die Lehrperson (Lesen und Schreiben) sicher und senden Sie die Zungangsdaten via Mail an die Lehrperson.
 
 ## Sozialform

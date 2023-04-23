@@ -43,7 +43,7 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 
 # Modul Lernziele :dart:
 
-1. Kategorisiert Daten aufgrund ihres Schutzbedarfs. 
+1. Kategorisiert Daten aufgrund ihres Schutzbedarfes. 
 
 2. Überprüft und verbessert gegebenenfalls die Datensicherheit der eigenen Infrastruktur.
 
@@ -66,7 +66,7 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 ### :pencil: Lernjournal
 
 - Woche 1 - 9 
-- Journal das wärent des Unterichts geführt wird.
+- Journal das während des Unterrichts geführt wird.
 
 [:link: details...](https://gaebi4102.github.io/bbzbl-modul-231/docs/02%20beurteilungen/lb1)
 
@@ -117,11 +117,11 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 # Heutige Ziele :dart:
 
 - **Modulwebseite** kennen und anwenden
-- Sie kennen die Unterschiedlichen Arten von Informationen.
-- Sie kennen die Grundlage vom Informationssicherheit.
-- Sie kennen die Unterschiedlichen Arten von Daten.
-- Sie kennen die Unterschiedlichen zustände welche Daten haben können.
-- Sie kennen die Unterschied zwischen Security und Safety.
+- Sie kennen die unterschiedlichen Arten von Informationen.
+- Sie kennen die Grundlage von Informationssicherheit.
+- Sie kennen die unterschiedlichen Arten von Daten.
+- Sie kennen die unterschiedlichen Zustände, welche Daten haben können.
+- Sie kennen die Unterschiede zwischen Security und Safety.
 - Sie kennen die Grundlagen vom Risikomanagement.
 
 ---
@@ -142,7 +142,7 @@ Prüfungsrelevante Infos
 ::: split
 
 **:pencil: Grundlagen**
-Grundlagen zum Thema und Einstig ins Modul
+Grundlagen zum Thema und Einstieg ins Modul
 
 :::
 
@@ -154,6 +154,6 @@ Grundlagen zum Thema und Einstig ins Modul
 
 # :superhero: 
 
-Die Aufgaben unter sind aufeinander aufbauend. 
+Die Aufgaben eines Kapitels sind aufeinander aufbauend.
 
-Ihr könnt zu Hause im **Selbststudium** alle Aufgaben lösen.
+

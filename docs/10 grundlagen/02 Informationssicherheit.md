@@ -13,7 +13,7 @@ Was sind Informationen und was ist Informationssicherheit?
 
 ## Ziel
 
-* Sie kennen die Unterschiedlichen Arten von Informationen.
+* Sie kennen die unterschiedlichen Arten von Informationen.
 * Sie kennen die Grundlage vom Informationssicherheit.
 
 <!---
@@ -30,16 +30,16 @@ Was sind Informationen und was ist Informationssicherheit?
 
 ## Auftrag
 
-Als einstig schauen Sie sich das Video zum Thema Informationen an. Vertiefen sie das Thema weiter mit Hilfe der Quellen.
+Als Einstig schauen Sie sich das Video zum Thema an. Vertiefen Sie das Thema weiter mit Hilfe der Quellen.
 
-Beantworten sie folgende Fragen im Lernjournal:
+Beantworten Sie folgende Fragen im Lernjournal:
 
 - Was sind Informationen?
 - Was sind die drei Schutzziele der Informationssicherheit?
 - Was sind mögliche Gefahren der jeweiligen Schutzziele?
-  - pro Schutzziel 3 - 5 Gefahren welche in euerem Lehrbetrieb am Plausibelsten sind
-- Was ist der Unterschiede zwischen Informationssicherheit und Datenschutz?
-- Was ist der Unterschiede zwischen Informationssicherheit und IT-Sicherheit?
+  - pro Schutzziel 3 - 5 Gefahren, welche in eurem Lehrbetrieb am plausibelsten sind
+- Was ist der Unterschied zwischen Informationssicherheit und Datenschutz?
+- Was ist der Unterschied zwischen Informationssicherheit und IT-Sicherheit?
 
 :::warning **Hinweis**
 

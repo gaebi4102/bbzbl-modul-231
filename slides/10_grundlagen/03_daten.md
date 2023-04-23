@@ -15,7 +15,7 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 
 # Was sind Daten?
 
-> „Daten im IT Kontext sind Information welche in“
+> „Daten sind grundsätzlich Symbole und Zeichen. In der IT sind sie in der simpelsten Form 1 und O. Daten stellen, wenn man sie verknüpft und in Kontext stellt, Informationen respektive Sachverhalte dar. Daten können z.B. Messwerte sein."
 
 [**artegic AG:** Wo liegt der Unterschied zwischen Daten, Informationen und Wissen?](https://www.artegic.com/de/blog/wo-liegt-der-unterschied-zwischen-daten-informationen-und-wissen/)
 

@@ -22,6 +22,6 @@ Die Prüfung wird aus Multiple Choice und offenen Fragen bestehen.
 
 :::danger Hilfsmittel
 
-Spick **einseitiges** DIN A5 (halbes A4), es sind nur **handgeschriebene Notizen** darauf erlaubt!
+Spick **einseitiges** DIN A5 (halbes A4), es sind nur eigene **handgeschriebene Notizen** darauf erlaubt!
 
 :::

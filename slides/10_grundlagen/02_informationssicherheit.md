@@ -36,7 +36,7 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 
 # Was ist Informationssicherheit?
 
-> Schutz von Informationen in jeder Form, egal ob Papier oder Digital. 
+> Schutz von Informationen in jeder Form, egal ob auf Papier oder digital. 
 
 ---
 
@@ -58,8 +58,8 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 ::: columns
 ## Vertraulichkeit
 
-- Daten sind vertraulich zu behandelt
-- Nur autorisierten Personen haben Zugriff
+- Daten sind vertraulich zu behandeln
+- Nur autorisierte Personen haben Zugriff
 - Das ist bei Daten im Zugriff, im Transfair und im Ruhezustand zu gewährleisten
 
 ::: split
@@ -72,8 +72,8 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 ::: columns
 ## Integrität
 
-- Datenintegrität: Daten sind Korrekt, Vollständig und Konsistent
-- Systemintegrität: System Funktioniert zu jedem Zeitpunkt wie vorgesehen
+- Datenintegrität: Daten sind korrekt, vollständig und konsistent
+- Systemintegrität: System funktioniert zu jedem Zeitpunkt wie vorgesehen
 
 ::: split
 
@@ -85,7 +85,7 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 ::: columns
 ## Verfügbarkeit
 
-- Daten sind Verfügbar
+- Daten sind verfügbar
 - Üblicherweise in Service-Level-Agreements geregelt
 
 

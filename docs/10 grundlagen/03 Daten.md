@@ -13,8 +13,8 @@ Was sind Daten?
 
 ## Ziel
 
-* Sie kennen die Unterschiedlichen Arten von Daten.
-* Sie kennen die Unterschiedlichen zustände welche Daten haben können.
+* Sie kennen die unterschiedlichen Arten von Daten.
+* Sie kennen die unterschiedlichen Zustände, welche Daten haben können.
 
 <!---
 ## Video
@@ -30,17 +30,17 @@ Was sind Daten?
 
 ## Auftrag
 
-Als einstig schauen Sie sich das Video zum Thema Daten an. Vertiefen sie das Thema weiter mit Hilfe der Quellen.
+Als Einstig schauen Sie sich das Video zum Thema an. Vertiefen Sie das Thema weiter mit Hilfe der Quellen.
 
-Beantworten sie folgende Fragen im Lernjournal:
+Beantworten Sie folgende Fragen im Lernjournal:
 
 - Was sind Daten?
 - Welche Arten von Daten gibt es?
  - Was sind Vor- und Nachteile der Arten?
-- Was sind die drei Zustände können Daten haben?
-  - Nenne die Zustände und Beschreibe diese inkl. Beispielen
-- Was gefahren sind die Daten im jeweiligen Zustand ausgesetzt?
-  - pro Schutzziel 2 - 3 Gefahren welche in euerem Lehrbetrieb am Plausibelsten sind
+- Was sind die drei Zustände, die Daten haben können?
+  - Nenne die Zustände und beschreibe diese inkl. Beispielen
+- Welchen Gefahren sind die Daten im jeweiligen Zustand ausgesetzt?
+  - pro Schutzziel 2 - 3 Gefahren, welche in euerem Lehrbetrieb am plausibelsten sind
 
 :::warning **Hinweis**
 
