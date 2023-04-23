@@ -48,7 +48,7 @@ Ihr setzt euch mit Datenschutz und Datensicherheit im Unternehmenskontext ausein
 ## Abgabe
 
 -	Datei als PDF «LB1_Nachname.pdf»
--	Abgabe via Classroom
+-	Abgabe via Mail
 -	Abgabe bis 20:00 Uhr am …
     - (Relevant ist der Zeitstempel des Empfangs / Verspätete Abgabe = Abzug)
         - bis 12h = 1 Note Abzug
