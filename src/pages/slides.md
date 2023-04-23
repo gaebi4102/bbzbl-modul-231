@@ -54,3 +54,24 @@ title: Slides
 [:computer: Im Browser öffnen](pathname:///slides/11_datenschutz/04_agbs) | [:floppy_disk: PDF speichern](pathname:///slides/11_datenschutz/04_agbs)
 
 <iframe src="/bbzbl-modul-231/slides/11_datenschutz/04_agbs"></iframe>
+
+
+## Datensicherheit
+
+### 01 Allgemein
+
+[:computer: Im Browser öffnen](pathname:///slides/12_datensicherheit/01_allgemein) | [:floppy_disk: PDF speichern](pathname:///slides/12_datensicherheit/01_allgemein)
+
+<iframe src="/bbzbl-modul-231/slides/12_datensicherheit/01_allgemein"></iframe>
+
+### 02 Gefahren und weiter Begriffe zum Thema
+
+[:computer: Im Browser öffnen](pathname:///slides/12_datensicherheit/02_gefahren) | [:floppy_disk: PDF speichern](pathname:///slides/12_datensicherheit/02_gefahren)
+
+<iframe src="/bbzbl-modul-231/slides/12_datensicherheit/02_gefahren"></iframe>
+
+### 03 Klassifizierung und Speichermedien
+
+[:computer: Im Browser öffnen](pathname:///slides/12_datensicherheit/03_klassifizierung) | [:floppy_disk: PDF speichern](pathname:///slides/12_datensicherheit/03_klassifizierung)
+
+<iframe src="/bbzbl-modul-231/slides/12_datensicherheit/03_klassifizierung"></iframe>
