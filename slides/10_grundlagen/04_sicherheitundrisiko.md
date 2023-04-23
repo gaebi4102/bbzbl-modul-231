@@ -52,11 +52,6 @@ Eintrittswahrscheinlichkeit x Schadensschwere = Risiko
 [![Risiko](../images/arbeitsplatz-risikomatrix-nohl-schadensausmass-eintrittwahrscheinlichkeit.jpg)](https://www.uvex-safety.com/blog/de/risikomatrix-nach-nohl-so-ermitteln-sie-in-7-schritten-wie-gefaehrlich-ein-job-wirklich-ist/)
 
 ---
-
-[![Risiko](../images/uebersichtrisiko.png)]()
-
----
-
 # Was ist Risikomanagement?
 
 [![Risikomgm](../images/Prozess+RisikomanagementFra.png)](https://www.kmu.admin.ch/kmu/de/home/praktisches-wissen/finanzielles/risikomanagement/wie-fuehrt-man-ein-risikomanagementsystem-ein/risikomanagementprozess-analyse-und-massnahmen.html)
