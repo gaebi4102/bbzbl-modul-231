@@ -33,6 +33,8 @@ Die nachfolgenden Leitfragen sollen Ihnen eine Anregung geben.
 Für Ihr Lernjournal steht Ihnen eine entsprechende Vorlage auf [github](https://github.com/gaebi4102/bbzbl-lernjournal-vorlage) zur Verfügung. Wenn Sie eine andere Plattform nutzen, stellen Sie bitte den Zugriff
 für die Lehrperson (Lesen und Schreiben) sicher und senden Sie die Zungangsdaten via Mail an die Lehrperson.
 
+Link zur Vorlage [github](https://github.com/gaebi4102/bbzbl-lernjournal-vorlage)
+
 ## Sozialform
 Das Lernjournal ist eine Einzelarbeit.
 
