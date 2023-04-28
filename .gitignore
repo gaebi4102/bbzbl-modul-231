@@ -20,7 +20,6 @@ yarn-debug.log*
 yarn-error.log*
 
 #Draft
-docs/11 datenschutz
 docs/12 datensicherheit
 docs/13 Identityundaccessmanagement
 docs/14 lizenzen
