@@ -14,6 +14,7 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 ---
 # Gesetzt in der Schweiz
 
+
 ---
 # Rechte von Betroffenen
 

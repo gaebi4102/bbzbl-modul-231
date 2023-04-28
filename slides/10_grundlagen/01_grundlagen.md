@@ -7,6 +7,13 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 ---
 
 <!-- _class: big center -->
+### Modul 231
+## Datenschutz und Datensicherheit anwenden
+
+---
+
+
+<!-- _class: big center -->
 ### Grundlagen
 # Tools und Aufbau des Moduls
 ## Modul 231
