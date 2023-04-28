@@ -26,7 +26,7 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 # Was ist der Unterschied zwischen Security und Safety?
 
 ::: columns
-## Security
+## Safety
 
 Primäres Schutzziel =  Lebewesen
 
@@ -34,7 +34,7 @@ Primäres Schutzziel =  Lebewesen
 
 ::: split
 
-## Safety
+## Security
 
 Primäres Schutzziel =  Objekte
 
