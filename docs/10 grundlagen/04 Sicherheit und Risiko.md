@@ -39,10 +39,6 @@ Beantworten Sie folgende Fragen im Lernjournal:
   - Wo lässt sich Informationsicherheit einordnen?
 - Was ist Risiko?
 - Was ist eine Risiko Matrix?
-- Was ist Risikomanagement?
-  - Was ist das Ziel und der Nutzen des Risikomanagements?
-  - Erkläre wie eine KVP zum Risikomanagement beitragen kann?
-
 
 :::warning **Hinweis**
 
