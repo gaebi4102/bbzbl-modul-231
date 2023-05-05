@@ -44,7 +44,7 @@ section.emoji-list ul > li {
 }
 section.emoji-list ul > li img {
   left: -40px;
-  top: 5px;
+  top: 3px;
   position: absolute;
   /* text-align: center; */
   width: 1rem;
@@ -96,6 +96,8 @@ section {
 section h1 {
   font-weight: 400;
   letter-spacing: 0.05rem;
+  margin-bottom: 5px;
+  padding-bottom: 0;
 }
 section h2 {
   font-weight: 300;
