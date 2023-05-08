@@ -53,7 +53,6 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 
 :::
 
-
 ---
 ::: columns
 ## Vertraulichkeit

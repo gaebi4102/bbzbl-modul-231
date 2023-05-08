@@ -19,7 +19,22 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 
 ---
 # Was ist das Ziel des Datensicherheit?
-Das Riskio von 
+Jegliche Daten gegen mögliche Bedrohungen zu Schützen und so die 3 Schutzziele (CIA) umzusetzten.
 
 ---
+
 # Datenschutz vs. Datensicherheit
+
+::: columns
+## Datenschutz
+- Gesetzte zum Schutz von personenbezogen Daten
+- Vorschriften zum Schutz von personenbezogen Daten
+- "Legislative" (gesetzgebende Gewalt, Gesetzgebung)
+
+::: split
+
+## Datensicherheit
+- Massnahmen zum Schutz von Daten (nicht nur personenbezogen Daten)
+- "Exekutive" (vollziehende Gewalt)
+
+:::
