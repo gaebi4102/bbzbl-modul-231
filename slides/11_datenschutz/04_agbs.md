@@ -48,7 +48,7 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 :::
 
 ---
-# AGS
+# AGBs
 - **Gewährleistung** Garantiebestimmungen für die bei der Transaktion verkauften Waren oder Dienstleistungen.
 - **Datenschutz** Verwendung der gesammelten Daten, Verschlüsselungstechnik usw.
 - **Bestellungen** Rechnungs- und Zahlungsbedingungen, Mehrwertsteuer usw.
