@@ -52,10 +52,10 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 | hoch | Die Schadensauswirkungen können beträchtlich sein.  | 
 | sehr hoch | Die Schadensauswirkungen können ein existenziell bedrohliches, katastrophales Ausmass erreichen. |
 
-[**Klassifizierung nach BSI** ab Seite 104](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/BSI_Standards/standard_200_3.pdf?__blob=publicationFile&v=2)
+[**Klassifizierung nach BSI** ab Seite 104](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Grundschutz/BSI_Standards/standard_200_2.pdf?__blob=publicationFile&v=2)
 
 ---
-# Spicher
+# Speicher
 | Medium | Beschreibung |
 | :----------- | :------------------------------------------------ | 
 | HDD |  | 
