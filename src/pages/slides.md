@@ -90,14 +90,14 @@ title: Slides
 
 <iframe src="/bbzbl-modul-231/slides/13_identityundaccessmanagement/02_AuthenandAuthor"></iframe>
 
-### 03 Klassifizierung und Speichermedien
+### 03 Passwörter und MFA
 
-[:computer: Im Browser öffnen](pathname:///slides/13_identityundaccessmanagement/03_allgemein) | [:floppy_disk: PDF speichern](pathname:///slides/13_identityundaccessmanagement/03_allgemein)
+[:computer: Im Browser öffnen](pathname:///slides/13_identityundaccessmanagement/03_PasswoerterundMFA) | [:floppy_disk: PDF speichern](pathname:///slides/13_identityundaccessmanagement/03_PasswoerterundMFA)
 
-<iframe src="/bbzbl-modul-231/slides/13_identityundaccessmanagement/01_allgemein"></iframe>
+<iframe src="/bbzbl-modul-231/slides/13_identityundaccessmanagement/03_PasswoerterundMFA"></iframe>
 
-### 04 Klassifizierung und Speichermedien
+### 04 RBAC
 
-[:computer: Im Browser öffnen](pathname:///slides/13_identityundaccessmanagement/04_allgemein) | [:floppy_disk: PDF speichern](pathname:///slides/13_identityundaccessmanagement/04_allgemein)
+[:computer: Im Browser öffnen](pathname:///slides/13_identityundaccessmanagement/04_RBAC) | [:floppy_disk: PDF speichern](pathname:///slides/13_identityundaccessmanagement/04_RBAC)
 
-<iframe src="/bbzbl-modul-231/slides/13_identityundaccessmanagement/01_allgemein"></iframe>
+<iframe src="/bbzbl-modul-231/slides/13_identityundaccessmanagement/04_RBAC"></iframe>

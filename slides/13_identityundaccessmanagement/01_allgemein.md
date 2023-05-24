@@ -56,16 +56,13 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 | HR_read | \\FileServer001\HR$ | read | 
 | HR_write | \\FileServer001\HR$ | read | 
 
-
-
 ---
-
 # Least Privileged Access 
 User und System haben nur zugriff auf das was Notwenig ist um ihren Job zuerledigen.
 z.B. Der/ Die Service Desk Mitarbeiter:in hat keinen Domain Admin, sondern nur Password Reset Rechte.
 
 ---
-# ohne
+# ohne
 
 | Identity | Resource | Access
 | :----------- | :----------- | :----------- |
@@ -73,7 +70,7 @@ z.B. Der/ Die Service Desk Mitarbeiter:in hat keinen Domain Admin, sondern nur P
 | HR| \\FileServer001\HR$ | full | 
 
 ---
-# mit
+# mit
 
 | Identity | Resource | Access
 | :----------- | :----------- | :----------- |
