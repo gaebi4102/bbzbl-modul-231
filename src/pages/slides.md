@@ -75,3 +75,29 @@ title: Slides
 [:computer: Im Browser öffnen](pathname:///slides/12_datensicherheit/03_klassifizierung) | [:floppy_disk: PDF speichern](pathname:///slides/12_datensicherheit/03_klassifizierung)
 
 <iframe src="/bbzbl-modul-231/slides/12_datensicherheit/03_klassifizierung"></iframe>
+
+## Identity und Access Management
+
+### 01 Allgemein
+
+[:computer: Im Browser öffnen](pathname:///slides/13_identityundaccessmanagement/01_allgemein) | [:floppy_disk: PDF speichern](pathname:///slides/13_identityundaccessmanagement/01_allgemein)
+
+<iframe src="/bbzbl-modul-231/slides/13_identityundaccessmanagement/01_allgemein"></iframe>
+
+### 02 Authentifizierung und Autorisierung
+
+[:computer: Im Browser öffnen](pathname:///slides/13_identityundaccessmanagement/02_AuthenandAuthor) | [:floppy_disk: PDF speichern](pathname:///slides/13_identityundaccessmanagement/02_AuthenandAuthor)
+
+<iframe src="/bbzbl-modul-231/slides/13_identityundaccessmanagement/02_AuthenandAuthor"></iframe>
+
+### 03 Klassifizierung und Speichermedien
+
+[:computer: Im Browser öffnen](pathname:///slides/13_identityundaccessmanagement/03_allgemein) | [:floppy_disk: PDF speichern](pathname:///slides/13_identityundaccessmanagement/03_allgemein)
+
+<iframe src="/bbzbl-modul-231/slides/13_identityundaccessmanagement/01_allgemein"></iframe>
+
+### 04 Klassifizierung und Speichermedien
+
+[:computer: Im Browser öffnen](pathname:///slides/13_identityundaccessmanagement/04_allgemein) | [:floppy_disk: PDF speichern](pathname:///slides/13_identityundaccessmanagement/04_allgemein)
+
+<iframe src="/bbzbl-modul-231/slides/13_identityundaccessmanagement/01_allgemein"></iframe>
