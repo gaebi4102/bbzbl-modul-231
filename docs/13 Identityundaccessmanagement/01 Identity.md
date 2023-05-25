@@ -21,6 +21,11 @@ sidebar_position: 1
 [![IMAGE ALT TEXT HERE](https://via.placeholder.com/600x400)](https://www.youtube.com/watch?v=k1BneeJTDcU&ab_channel=boburnham)
 --->
 
+## Präsentation
+
+[:computer: Im Browser öffnen](pathname:///slides/13_identityundaccessmanagement/01_allgemein) | [:floppy_disk: PDF speichern](pathname:///slides/13_identityundaccessmanagement/01_allgemein)
+
+<iframe src="/bbzbl-modul-231/slides/13_identityundaccessmanagement/01_allgemein"></iframe>
 
 ## Auftrag
 

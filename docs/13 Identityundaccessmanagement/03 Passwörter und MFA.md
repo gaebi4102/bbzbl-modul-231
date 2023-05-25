@@ -21,6 +21,12 @@ sidebar_position: 3
 [![IMAGE ALT TEXT HERE](https://via.placeholder.com/600x400)](https://www.youtube.com/watch?v=k1BneeJTDcU&ab_channel=boburnham)
 --->
 
+## Präsentation
+
+[:computer: Im Browser öffnen](pathname:///slides/13_identityundaccessmanagement/03_PasswoerterundMFA) | [:floppy_disk: PDF speichern](pathname:///slides/13_identityundaccessmanagement/03_PasswoerterundMFA)
+
+<iframe src="/bbzbl-modul-231/slides/13_identityundaccessmanagement/03_PasswoerterundMFA"></iframe>
+
 ## Auftrag
 
 Als einstig schauen Sie sich das Video zum Thema Informationen an. Vertiefen sie das Thema weiter mit Hilfe der Quellen.
