@@ -12,4 +12,8 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 ## Modul 231
 
 ---
+# Was ist RBAC?
+[![RBAC](../images/role-based-access-control.jpg)](https://www.dnsstuff.com/de/rbac-vs-abac-zugriffskontrolle)
 
+[Gute Erklärung zum Thema](https://www.dnsstuff.com/de/rbac-vs-abac-zugriffskontrolle)
+[Video zum Thema](https://www.youtube.com/watch?v=C4NP8Eon3cA)
