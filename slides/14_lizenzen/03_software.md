@@ -13,9 +13,6 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 
 ---
 
-
-
-
 # Was ist IAM?
 
 ![IAM AWS](../images/howitworks_IAM_110321.8b2290727bb2022d54416e099c87ad9dc64be5d5.jpg)

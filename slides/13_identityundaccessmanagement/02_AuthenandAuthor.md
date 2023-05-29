@@ -24,7 +24,7 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
  - Hardware Token
 
 ---
-## Autorisierung: Rechte Vergabe
+## Autorisierung: Rechte Vergabe
 - Ordnet bestimmte Rechte einer Identität zu
     - Server
     - Admin Rechte
