@@ -101,3 +101,23 @@ title: Slides
 [:computer: Im Browser öffnen](pathname:///slides/13_identityundaccessmanagement/04_RBAC) | [:floppy_disk: PDF speichern](pathname:///slides/13_identityundaccessmanagement/04_RBAC)
 
 <iframe src="/bbzbl-modul-231/slides/13_identityundaccessmanagement/04_RBAC"></iframe>
+
+## Lizenzen
+
+### 01 Allgemein
+
+[:computer: Im Browser öffnen](pathname:///slides/14_lizenzen/01_allgemein) | [:floppy_disk: PDF speichern](pathname:///slides/14_lizenzen/01_allgemein)
+
+<iframe src="/bbzbl-modul-231/slides/14_lizenzen/01_allgemein"></iframe>
+
+### 02 Bildlizenzen
+
+[:computer: Im Browser öffnen](pathname:///slides/14_lizenzen/02_bilder) | [:floppy_disk: PDF speichern](pathname:///slides/14_lizenzen/02_bilder)
+
+<iframe src="/bbzbl-modul-231/slides/14_lizenzen/02_bilder"></iframe>
+
+### 03 Software Lizenzen
+
+[:computer: Im Browser öffnen](pathname:///slides/14_lizenzen/03_software) | [:floppy_disk: PDF speichern](pathname:///slides/14_lizenzen/03_software)
+
+<iframe src="/bbzbl-modul-231/slides/14_lizenzen/03_software"></iframe>

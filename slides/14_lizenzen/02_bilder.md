@@ -12,7 +12,7 @@ footer: BBZBL / Gianluca Aebi / Datenschutz und Datensicherheit anwenden
 ## Modul 231
 
 ---
-# Sind Bilder Urheberrechtlich geschützt?
+# Sind Bilder Urheberrechtlich geschützt?
 > Das Urheberrecht schützt sämtliche Fotografien und ähnlich wie Fotografien hergestellte Abbildungen, die physisch vorhandene dreidimensionale Objekte abbilden und von Menschen gemacht wurden. 
 
 > Der Schutz besteht unabhängig davon, ob die Fotografien individuellen Charakter aufweisen oder nicht. Geschützt sind sowohl Fotografien von professionellen Fotografen als auch die Fotografien von Laien, also beispielsweise Presse- und Produktbilder ebenso wie alltägliche Familien- und Urlaubsfotos.
