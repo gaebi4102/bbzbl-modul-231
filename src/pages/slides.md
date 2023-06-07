@@ -121,3 +121,24 @@ title: Slides
 [:computer: Im Browser öffnen](pathname:///slides/14_lizenzen/03_software) | [:floppy_disk: PDF speichern](pathname:///slides/14_lizenzen/03_software)
 
 <iframe src="/bbzbl-modul-231/slides/14_lizenzen/03_software"></iframe>
+
+
+## Massnahmen
+
+### 01 Organisatorische Massnahmen
+
+[:computer: Im Browser öffnen](pathname:///slides/15_massnahmen/01_organisatorische_massnahmen) | [:floppy_disk: PDF speichern](pathname:///slides/15_massnahmen/01_organisatorische_massnahmen)
+
+<iframe src="/bbzbl-modul-231/slides/15_massnahmen/01_organisatorische_massnahmen"></iframe>
+
+### 02 Technische Massnahmen
+
+[:computer: Im Browser öffnen](pathname:///slides/15_massnahmen/02_technische_massnahmen) | [:floppy_disk: PDF speichern](pathname:///slides/15_massnahmen/02_technische_massnahmen)
+
+<iframe src="/bbzbl-modul-231/slides/15_massnahmen/02_technische_massnahmen"></iframe>
+
+### 03 Physische Sicherheit
+
+[:computer: Im Browser öffnen](pathname:///slides/15_massnahmen/03_physische_sicherheit) | [:floppy_disk: PDF speichern](pathname:///slides/15_massnahmen/03_physische_sicherheit)
+
+<iframe src="/bbzbl-modul-231/slides/15_massnahmen/03_physische_sicherheit"></iframe>
