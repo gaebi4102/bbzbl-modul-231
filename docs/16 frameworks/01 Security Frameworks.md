@@ -31,10 +31,10 @@ Informiert die Mitglieder eurer neuen Gruppe über das Framework , in welches ih
 
 :::info Quellen
 
-- [**NIST:** ](https://www.nist.gov/cyberframework)
+- [**NIST** ](https://www.nist.gov/cyberframework)
 
-- [**BSI:**](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/it-grundschutz_node.html)
+- [**BSI**](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/it-grundschutz_node.html)
 
-- [**ITIL v4:**](https://www.youtube.com/watch?v=oMneceb71N0&ab_channel=Dr.MichaelGorski%E2%80%93IT-Security)
+- [**ITIL v4**](https://www.youtube.com/watch?v=oMneceb71N0&ab_channel=Dr.MichaelGorski%E2%80%93IT-Security)
 
 :::
