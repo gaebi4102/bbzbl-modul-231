@@ -25,7 +25,7 @@ Ihr setzt euch mit Datenschutz und Datensicherheit im Unternehmenskontext ausein
     - Erhebung der zu archivierenden Daten inkl. rechtlicher Grundlage
 -	Das Konzept soll den Umgang mit digitalen Identitäten im Unternehmen beschreiben
     - Berechtigungskonzept mit Rollen, Passwort-Richtlinien etc...
--	Das Konzept soll die Notwendigkeit und den rechtlichen Rahmen von Impressum, Disclaimer und AGBs im Lehrbetrieb aufzeigen.
+-	Das Konzept soll die Notwendigkeit und den rechtlichen Rahmen von Impressum, Disclaimer und AGBs der Daten AG aufzeigen.
     - Bei Impressum Mindeststandard eines Impressums.
     - Bei Disclaimer wofür und weshalb sinvoll?
     - Bei AGBs wofür und weshalb sinvoll?
