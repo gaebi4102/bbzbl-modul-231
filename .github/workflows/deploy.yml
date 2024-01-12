@@ -23,10 +23,6 @@ jobs:
         run: yarn install --frozen-lockfile
       - name: Build website
         run: yarn build
-      - name: Build slides 
-        run: yarn build-marp && yarn run copy-marp-images 
-      - name: Build slides PDFs
-        run: yarn build-marp-pdf
       - name: Build page PDF
         run: yarn build:pdf
 
