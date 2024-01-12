@@ -91,7 +91,7 @@ const config = {
             position: "left",
             label: "Unterlagen",
           },
-          { to: "/slides/", label: "Präsentationen", position: "left" },
+          //{ to: "/slides/", label: "Präsentationen", position: "left" },
           {
             to: `${modulConfig.url}/${modulConfig.repoName}/assets/pdf/${modulConfig.repoName}.pdf`,
             label: "PDF Download",
