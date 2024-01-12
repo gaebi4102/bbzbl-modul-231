@@ -1,3 +1,7 @@
+---
+keywords:
+  - pdf
+---
 # ITIL
 :::note
 Was ist ITIL?

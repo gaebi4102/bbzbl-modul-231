@@ -1,7 +1,5 @@
 ---
 sidebar_position: 2
-keywords:
-  - pdf
 ---
 # Sprint
 Das Herzstück von eduScrum® ist der Sprint, ein zusammengesetzter Satz von Lernmaterialien, die sicherstellen, dass die Lernziele erreicht werden. Ein Sprint kann eine kontextreiche Unterrichtsreihe, ein Projekt, ein Kapitel aus einem Buch usw. sein. Im Allgemeinen fällt ein Sprint mit der Länge eines Semesters oder einer Periode zusammen, obwohl dies keine Voraussetzung ist. 

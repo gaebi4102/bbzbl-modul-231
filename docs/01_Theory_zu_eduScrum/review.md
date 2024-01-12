@@ -1,7 +1,5 @@
 ---
 sidebar_position: 4
-keywords:
-  - pdf
 ---
 
 # Review

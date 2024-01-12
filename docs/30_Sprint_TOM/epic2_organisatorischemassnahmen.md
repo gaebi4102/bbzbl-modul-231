@@ -1,3 +1,7 @@
+---
+keywords:
+  - pdf
+---
 # Organisatorische Massnahmen
 :::note
 OMMMMM....🧘

@@ -1,3 +1,7 @@
+---
+keywords:
+  - pdf
+---
 # Physische Sicherheit
 :::note
 Keep your hands out of the cookie jar!!

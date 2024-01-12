@@ -1,3 +1,7 @@
+---
+keywords:
+  - pdf
+---
 # BSI
 :::note
 Was ist BSI?

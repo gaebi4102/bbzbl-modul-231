@@ -1,3 +1,7 @@
+---
+keywords:
+  - pdf
+---
 # Sprint - Rechtlicher Rahmen
 
 ___

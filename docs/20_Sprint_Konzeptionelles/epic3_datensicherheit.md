@@ -1,3 +1,7 @@
+---
+keywords:
+  - pdf
+---
 # Datensicherheit
 :::note
 Was ist Datensicherheit?

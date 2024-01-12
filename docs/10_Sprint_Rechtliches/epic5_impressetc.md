@@ -1,3 +1,7 @@
+---
+keywords:
+  - pdf
+---
 # Impressum, Disclaimer, AGBs
 :::note
 Was bracuht eine Webseite?

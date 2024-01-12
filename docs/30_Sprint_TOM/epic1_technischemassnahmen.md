@@ -1,3 +1,7 @@
+---
+keywords:
+  - pdf
+---
 # Technische Massnahmen
 :::note
 Who the F*** is TOM? 🧐

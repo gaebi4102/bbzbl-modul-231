@@ -1,3 +1,7 @@
+---
+keywords:
+  - pdf
+---
 # Copyright CH und EU
 :::note
 Was ist ein Urheberrecht?

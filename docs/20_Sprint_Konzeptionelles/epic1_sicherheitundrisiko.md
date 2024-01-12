@@ -1,3 +1,7 @@
+---
+keywords:
+  - pdf
+---
 # Sicherheit und Risiko
 :::note
 Was ist Sicherheit und Risiko?

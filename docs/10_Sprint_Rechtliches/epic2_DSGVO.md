@@ -1,3 +1,7 @@
+---
+keywords:
+  - pdf
+---
 # EU DSGVO
 :::note
 Welche Gesetzte gibt es in der EU zum Thema Datenschutz und was beeuten diese für uns als Informatiker.

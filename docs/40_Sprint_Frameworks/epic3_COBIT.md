@@ -1,3 +1,7 @@
+---
+keywords:
+  - pdf
+---
 # COBIT
 :::note
 Was ist COBIT?

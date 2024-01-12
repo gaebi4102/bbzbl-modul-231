@@ -1,3 +1,7 @@
+---
+keywords:
+  - pdf
+---
 # Lizenzen
 :::note
 Was ist eine Lizenz?

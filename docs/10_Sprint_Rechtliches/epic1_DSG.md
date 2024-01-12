@@ -1,3 +1,8 @@
+---
+keywords:
+  - pdf
+---
+
 # Schweiz DSG
 :::note
 Welche Gesetzte gibt es in der Schweiz zum Thema Datenschutz und was beeuten diese für uns als Informatiker.

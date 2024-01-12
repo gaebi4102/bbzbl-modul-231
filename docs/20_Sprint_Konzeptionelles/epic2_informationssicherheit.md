@@ -1,3 +1,7 @@
+---
+keywords:
+  - pdf
+---
 # Informationssicherheit
 :::note
 Was ist Informationssicherheit ?
