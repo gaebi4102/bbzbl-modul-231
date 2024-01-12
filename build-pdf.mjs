@@ -36,7 +36,7 @@ generatePDF({
   coverSub: modulConfig.tagline,
   paperFormat: "A4",
   baseUrl: modulConfig.url,
- // coverImage: "https://gaebi4102.github.io/bbzbl-modul-231/bbzbl-logo.png",
+  // coverImage: "https://gaebi4102.github.io/bbzbl-modul-231/img/bbzbl-logo.png",
   contentSelector: "article",
   excludeSelectors: [
     "article .anchor:has(+ .pdf-exclude)",
