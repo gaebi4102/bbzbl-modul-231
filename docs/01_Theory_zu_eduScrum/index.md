@@ -1,3 +1,6 @@
+---
+---
+
 # Theory zu eduScrum
 
 ![How eduScrum works](../img/how_eduScrum_works.png)
