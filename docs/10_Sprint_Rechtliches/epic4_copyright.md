@@ -1,1 +1,0 @@
-# Copyright CH und EU
