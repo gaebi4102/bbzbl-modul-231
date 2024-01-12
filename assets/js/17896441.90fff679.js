@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbbzbl_modul_231=self.webpackChunkbbzbl_modul_231||[]).push([[918],{1769:(b,u,s)=>{s.d(u,{Z:()=>o});s(7294);var e=s(4588),l=s(640),c=s(2991);s(9345);const o={...e.Z,YouTube:l.Z,DocCardList:c.Z}}}]);
