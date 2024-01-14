@@ -24,7 +24,6 @@ Kennt wesentliche Unterschiede in den Datenschutzgesetzen der verschiedenen Rech
 
 Kennt die Problematik von Datenlöschungen über alle Archive und Backups.
 
-___
 </details>
 
 <details>
