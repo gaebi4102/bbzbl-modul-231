@@ -53,6 +53,7 @@ Gruppenarbeit | Woche 9             | 40%
 ### 2. Reflexionen / Erkenntnisse
 
 - Reflexionen zu den Einträgen bzw. Belegen aus Punkt 1 sind vorhanden (die Reflexion des eigenen Lehrens und Lernens ist dokumentiert)
+- Erkenntnis aus Retroperspektive
 - Die Arbeit wird als Fazit zusammengefasst (Gesamtreflexion)
 
 ### 3. Journal
