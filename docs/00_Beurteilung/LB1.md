@@ -50,25 +50,22 @@ Gruppenarbeit | Woche 9             | 40%
 - Einträge zum Sprint 2
 - Einträge zum Sprint 3
 
-**10 Punkte**
-
 ### 2. Reflexionen / Erkenntnisse
 
 - Reflexionen zu den Einträgen bzw. Belegen aus Punkt 1 sind vorhanden (die Reflexion des eigenen Lehrens und Lernens ist dokumentiert)
 - Die Arbeit wird als Fazit zusammengefasst (Gesamtreflexion)
 
-**13 Punkte**
+### 3. Journal
+- [X] Definition of Doing / Wann ist ein Task erledigt?
+- [X] Definition of Fun / Wie gehen wir als Team miteinander um?
+- [X] Arbeitsjournal pro Woche
 
-### 3. Darstellung
+### 4. Darstellung
 
 - Das ePortfolio ist sinnvoll strukturiert, die Darstellung ist übersichtlich und lesefreundlich
 - Das ePortfolio wurde mit einem sinnvollen Instrument umgesetzt
 
-**4 Punkte**
-
-### 4. Gesamteindruck 
+### 5. Gesamteindruck 
 
 - Das ePortfolio stellt ein komplettes Ergebnis dar
 - Der Arbeitseinsatz (Motivation) ist ersichtlich
-
-**10 Punkte**
