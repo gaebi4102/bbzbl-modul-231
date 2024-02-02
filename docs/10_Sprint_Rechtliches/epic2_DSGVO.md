@@ -62,6 +62,8 @@ Kennt die Problematik von Datenlöschungen über alle Archive und Backups.
 
 - [**BARC GmbH:** Vergleich Schweiz vs. EU](https://barc.com/de/unterschiede-schweizer-datenschutzgesetz-dsgvo/)
 
+- [**europa.eu** The Digital Markets Act: ensuring fair and open digital markets](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_en)
+
 </details>
 
 ___
