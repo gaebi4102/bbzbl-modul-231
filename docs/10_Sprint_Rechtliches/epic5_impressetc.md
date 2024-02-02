@@ -16,6 +16,27 @@ Kennt wesentliche juristische Voraussetzungen und Eigenheiten von Websites (z.B.
 </details>
 
 <details>
+  <summary> 🤔 Leitfragen </summary>
+- Was ist ein Impressum?
+- Warum braucht es ein Impressum?
+- Was gehört in ein Impressum?
+- Gibt es eine Impressumspflicht in der Schweiz?
+
+- Was ist ein Disclaimer?
+- Weshalb und wan ist ein Disclaimer sinvoll?
+- Für was könne man einen Disclaimer brauchen? ( eventuell bsp. müssen nicht nur aus der IT sein)
+- Sind Disclamer Pflicht?
+- Gibt es Limitation bei Disclamer?
+
+- Was sind AGBs?
+- Wan sind diese sinvoll?
+- Was sollte man in AGBs Regeln ?
+- Sind AGBs Pflicht?
+- Gibt es Limitation bei AGBs?
+
+</details>
+
+<details>
   <summary> 🤫 Quellen für die Uninspierierten</summary>
 
 - [**Hostpoint:** Impressumspflicht ab Frühling in der Schweiz](https://www.hostpoint.ch/blog/impressumspflicht-ab-fruehling-auch-in-der-schweiz/#:~:text=In%20der%20Schweiz%20besteht%20bislang,Gesch%C3%A4ftsverkehr%C2%BB%20in%20der%20Schweiz%20eingef%C3%BChrt.)
