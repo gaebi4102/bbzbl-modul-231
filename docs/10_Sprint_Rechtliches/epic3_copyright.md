@@ -16,6 +16,23 @@ Kennt verschiedene Lizenzmodelle (z.B. für Software, Texte, Bilder).
 
 </details>
 
+
+<details>
+  <summary> 🤔 Leitfragen </summary>
+- Was ist Unter dem Urheberrecht geschütz?
+- Was ist ein Urheber?
+- Wie geht das mit KI weiter?
+- Wie kann ich meine Werke Schützen?
+- Was ist ein Werk?
+- Welche Institutionen gibt es in der Schweiz die einen Unterstützen können?
+- Ist Code Urheberrecht geschütz und wen ja wie?
+- Wie kann man sich bei einer Verletzung wären?
+- Wie sieht das z.b. mit dem Recht am Eigenbild aus?
+- Was gibt es für möglichkeiten seine Werke als Geschütz zu kennzeichnen?
+- etc.
+
+</details>
+
 <details>
   <summary> 🤫 Quellen für die Uninspierierten</summary>
 
