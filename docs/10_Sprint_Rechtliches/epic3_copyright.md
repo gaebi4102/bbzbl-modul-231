@@ -16,7 +16,6 @@ Kennt verschiedene Lizenzmodelle (z.B. für Software, Texte, Bilder).
 
 </details>
 
-
 <details>
   <summary> 🤔 Leitfragen </summary>
 - Was ist Unter dem Urheberrecht geschütz?
@@ -29,7 +28,7 @@ Kennt verschiedene Lizenzmodelle (z.B. für Software, Texte, Bilder).
 - Wie kann man sich bei einer Verletzung wären?
 - Wie sieht das z.b. mit dem Recht am Eigenbild aus?
 - Was gibt es für möglichkeiten seine Werke als Geschütz zu kennzeichnen?
-- etc.
+- ...
 
 </details>
 

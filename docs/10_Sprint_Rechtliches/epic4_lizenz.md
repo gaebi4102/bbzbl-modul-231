@@ -25,7 +25,7 @@ Kennt verschiedene Lizenzmodelle (z.B. für Software, Texte, Bilder).
 - Was sind Vor-und Nachteile als Kunde bei den Modellen ?
 - Was sind Vor-und Nachteile für euch als Entwickler?
 - Wie sieht das mit Piraterie in der Schweiz aus?
-- etc.
+- ...
 
 </details>
 
