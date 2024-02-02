@@ -27,6 +27,23 @@ Kennt die Problematik von Datenlöschungen über alle Archive und Backups.
 </details>
 
 <details>
+  <summary> 🤔 Leitfragen </summary>
+
+- Wer muss sich an das Gesetz halten?
+- Wer ist unter dem Gesetzt geschützt?
+- Was ist ein Juristiesch respektive Naturliche Person?
+- Welche Rechte hat eine Betroffen Person?
+- Wie kann ich als betroffene Person gebauch vom Gesetzt machen?
+- Welche Pflichten hat eine Firma oder öffentliche Institution?
+- Was sind die Konsequenzen von verstössen?
+- Was sind die Unterschiede der Gesetzte?
+- Was bedeute das Gesetzt für euch als Mitarbeiter, IT Mitarbeiter respektive Entwickler?
+- Was ist privacy by design und privacy by default?
+- ...
+
+</details>
+
+<details>
   <summary> 🤫 Quellen für die Uninspierierten</summary>
 
 - [**CH EDÖB:** Datenschutz](https://www.edoeb.admin.ch/edoeb/de/home/datenschutz/ueberblick/datenschutz.html)
