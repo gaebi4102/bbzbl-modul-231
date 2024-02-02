@@ -22,8 +22,8 @@ Sie kennen die Grundlage vom Informationssicherheit.
 
 - Was sind Informationen?
 - Was ist Sicherheit?
-- Was ist Informationsicherheit? !Nicht nur Digital!
-- Was ist das Ziel von Informationsicherheit (CIA)?
+- Was ist Informationssicherheit? !Nicht nur Digital!
+- Was ist das Ziel von Informationssicherheit (CIA)?
 - Wie kann das Ziel erreicht werden?
 - ...
 

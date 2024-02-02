@@ -31,20 +31,20 @@ Kennt die Problematik von Datenlöschungen über alle Archive und Backups.
 
 - Wer muss sich an das Gesetz halten?
 - Wer ist unter dem Gesetzt geschützt?
-- Was ist ein Juristiesch respektive Naturliche Person?
+- Was ist ein Juristisch respektive Natürliche Person?
 - Welche Daten sind geschützt?
 - Was sind besonders schützenswerte Daten?
-- Was muss bei besonders schützenswerte Daten beachte werden?
+- Was muss bei besonders schützenswerten Daten beachte werden?
 - Was ist eine Datensammlung?
-- Welche Rechte hat eine Betroffen Person?
-- Wie kann ich als betroffene Person gebauch vom Gesetzt machen?
+- Welche Rechte hat eine betroffene Person?
+- Wie kann ich als betroffene Person gebrauch vom Gesetzt machen?
 - Welche Pflichten hat eine Firma oder öffentliche Institution?
-- Was sind die Konsequenzen von verstössen?
+- Was sind die Konsequenzen von Verstössen?
 - Was sind die Unterschiede der Gesetzte?
-- Was bedeute das Gesetzt für euch als Mitarbeiter, IT Mitarbeiter respektive Entwickler?
+- Was bedeute das Gesetzt für euch als Mitarbeiter, IT-Mitarbeiter respektive Entwickler?
 - Was ist privacy by design und privacy by default?
 - Was bedeute das Gesetz bei der Evaluation von Anwendungen?
-- Was für Problem können bei SAAS (Cloud) Anwedungen entstehen?
+- Was für Problem können bei SAAS (Cloud) Anwendungen entstehen?
 - ...
 
 </details>

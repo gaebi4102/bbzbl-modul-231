@@ -23,13 +23,13 @@ Kennt wesentliche juristische Voraussetzungen und Eigenheiten von Websites (z.B.
 - Was gehört in ein Impressum?
 - Gibt es eine Impressumspflicht in der Schweiz?
 - Was ist ein Disclaimer?
-- Weshalb und wan ist ein Disclaimer sinvoll?
-- Für was könne man einen Disclaimer brauchen? ( eventuell bsp. müssen nicht nur aus der IT sein)
-- Sind Disclamer Pflicht?
-- Gibt es Limitation bei Disclamer?
+- Weshalb und wann ist ein Disclaimer sinnvoll?
+- Für was könne man einen Disclaimer brauchen? (eventuell Bsp. müssen nicht nur aus der IT sein)
+- Sind Disclaimer Pflicht?
+- Gibt es Limitation bei Disclaimer?
 - Was sind AGBs?
-- Wan sind diese sinvoll?
-- Was sollte man in AGBs Regeln ?
+- Wan sind diese sinnvoll?
+- Was sollte man in AGBs Regeln?
 - Sind AGBs Pflicht?
 - Gibt es Limitation bei AGBs?
 -...

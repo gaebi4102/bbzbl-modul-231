@@ -24,9 +24,9 @@ Sie kennen die Grundlagen vom Risikomanagement.
 - Was ist der Unterschiede zwischen Security und Safety?
 - Was ist Risiko?
 - Wie kann es erhoben werden?
-- Wie kann es gewichtet werden ?
+- Wie kann es gewichtet werden?
 - Wie kann man es minderen?
-- Wann ist es akzetable?
+- Wann ist es akzeptable?
 -...
 
 </details>

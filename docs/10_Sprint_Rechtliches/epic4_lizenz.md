@@ -22,10 +22,10 @@ Kennt verschiedene Lizenzmodelle (z.B. für Software, Texte, Bilder).
   <summary> 🤔 Leitfragen </summary>
 
 - Was kann man alles Lizenzieren?
-- Was ist die Grundlage für die Vergabe einer Lizen?
+- Was ist die Grundlage für die Vergabe einer Lizenz?
 - Was ist eine Lizenz?
 - Welche Arten von Lizenzen gibt es?
-- Was sind Vor-und Nachteile als Kunde bei den Modellen ?
+- Was sind Vor-und Nachteile als Kunde bei den Modellen?
 - Was sind Vor-und Nachteile für euch als Entwickler?
 - Wie sieht das mit Piraterie in der Schweiz aus?
 - ...

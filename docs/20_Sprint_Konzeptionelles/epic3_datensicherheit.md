@@ -23,7 +23,7 @@ Kennt Verfahren zur Speicherung von Daten und bewusst redundanter Datenhaltung (
 Kennt verschiedene Gefahren, denen Daten ausgesetzt sind (z.B. Diebstahl, Ransomware, Integritätsverletzung).
     - Sie kennen verschiedene Gefahren für Datensicherheit.
     - Sie kennen können den Begriff Bedrohung, Schwachstelle, Risiko und Asset einordnen.
-    - Sie wissen die wahl des korrekt Speicher Medium zum Schutzziel beitragen kann.
+    - Sie wissen die Wahl des korrekt Speicher Medium zum Schutzziel beitragen kann.
 
 </details>
 
@@ -34,7 +34,7 @@ Kennt verschiedene Gefahren, denen Daten ausgesetzt sind (z.B. Diebstahl, Ransom
 - Was ist das Ziel des Datensicherheit?
 - Was ist Datenschutz?
 - Datensicherheit vs. Datenschutz?
-- Welche Begriffe gibt es im Konetx?
+- Welche Begriffe gibt es im Kontext?
 - Was sind die Schutzziele?
 - Welche Klassifizierungen gibt es?
 - ...
