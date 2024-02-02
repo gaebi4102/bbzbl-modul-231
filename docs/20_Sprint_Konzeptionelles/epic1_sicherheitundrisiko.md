@@ -17,6 +17,21 @@ Sie kennen die Grundlagen vom Risikomanagement.
 </details>
 
 <details>
+  <summary> 🤔 Leitfragen </summary>
+
+- Was ist Security?
+- Was ist Safety?
+- Was ist der Unterschiede zwischen Security und Safety?
+- Was ist Risiko?
+- Wie kann es erhoben werden?
+- Wie kann es gewichtet werden ?
+- Wie kann man es minderen?
+- Wann ist es akzetable?
+-...
+
+</details>
+
+<details>
   <summary> 🤫 Quellen für die Uninspierierten</summary>
 
 - [**Sichere Industrie:** Safety vs. Security...](https://www.sichere-industrie.de/safety-security-unterschied-erklaert-kombination-ziele-industrial-security/)

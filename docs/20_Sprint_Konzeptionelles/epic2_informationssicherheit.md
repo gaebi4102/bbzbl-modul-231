@@ -16,6 +16,19 @@ Sie kennen die Grundlage vom Informationssicherheit.
 
 </details>
 
+
+<details>
+  <summary> 🤔 Leitfragen </summary>
+
+- Was sind Informationen?
+- Was ist Sicherheit?
+- Was ist Informationsicherheit? !Nicht nur Digital!
+- Was ist das Ziel von Informationsicherheit (CIA)?
+- Wie kann das Ziel erreicht werden?
+- ...
+
+</details>
+
 <details>
   <summary> 🤫 Quellen für die Uninspierierten</summary>
 

@@ -28,6 +28,20 @@ Kennt verschiedene Gefahren, denen Daten ausgesetzt sind (z.B. Diebstahl, Ransom
 </details>
 
 <details>
+  <summary> 🤔 Leitfragen </summary>
+
+- Was ist Datensicherheit?
+- Was ist das Ziel des Datensicherheit?
+- Was ist Datenschutz?
+- Datensicherheit vs. Datenschutz?
+- Welche Begriffe gibt es im Konetx?
+- Was sind die Schutzziele?
+- Welche Klassifizierungen gibt es?
+- ...
+
+</details>
+
+<details>
   <summary> 🤫 Quellen für die Uninspierierten</summary>
 
 - [**Profi AG** Datensicherheit](https://www.profi-ag.de/netzwerk-und-security/datensicherheit/#:~:text=Definition%3A%20Datensicherheit&text=Datensicherheit%20verfolgt%20also%20das%20Ziel,Sicherheit%20von%20Daten%20zu%20gew%C3%A4hrleisten.)

@@ -25,6 +25,24 @@ Kennt den Unterschied von Authentifizierung und Autorisierung.
 </details>
 
 <details>
+  <summary> 🤔 Leitfragen </summary>
+
+- Was ist IAM?
+- Was ist Authenifizierung?
+- Was ist Autorisierung?
+- Was ist ein Sicher Passwort ?
+- Was ist sind die grenzen von Passwörter?
+- Welche Modernen Auth Methoden gibt es? (MFA, Passkey, Biometrische Daten, etc..)
+- Wie kann ein Passwort sicher aufbewart werden?
+- Wie sieht das mit Post Quanten Kryptographie aus?
+- Was ist Least Privileged Access (LPA)?
+- Was sind gute Grundsätze für eine Berechtigungskonzept?
+- Was ist RBAC und wie ist es in IAM Einzuordnen?
+- ...
+
+</details>
+
+<details>
   <summary> 🤫 Quellen für die Uninspierierten</summary>
 
 
