@@ -18,7 +18,7 @@ Kennt verschiedene Lizenzmodelle (z.B. für Software, Texte, Bilder).
 
 <details>
   <summary> 🤔 Leitfragen </summary>
-  
+
 - Was ist Unter dem Urheberrecht geschütz?
 - Was ist ein Urheber?
 - Wie geht das mit KI weiter?
@@ -32,6 +32,7 @@ Kennt verschiedene Lizenzmodelle (z.B. für Software, Texte, Bilder).
 - ...
 
 </details>
+
 
 <details>
   <summary> 🤫 Quellen für die Uninspierierten</summary>

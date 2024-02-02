@@ -16,9 +16,11 @@ Kennt verschiedene Lizenzmodelle (z.B. für Software, Texte, Bilder).
 
 </details>
 
+
+
 <details>
   <summary> 🤔 Leitfragen </summary>
-  
+
 - Was kann man alles Lizenzieren?
 - Was ist die Grundlage für die Vergabe einer Lizen?
 - Was ist eine Lizenz?

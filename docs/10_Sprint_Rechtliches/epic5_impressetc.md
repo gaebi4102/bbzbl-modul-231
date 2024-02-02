@@ -17,7 +17,7 @@ Kennt wesentliche juristische Voraussetzungen und Eigenheiten von Websites (z.B.
 
 <details>
   <summary> 🤔 Leitfragen </summary>
-  
+
 - Was ist ein Impressum?
 - Warum braucht es ein Impressum?
 - Was gehört in ein Impressum?
