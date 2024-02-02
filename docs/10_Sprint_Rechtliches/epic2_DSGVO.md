@@ -53,7 +53,7 @@ Kennt die Problematik von Datenlöschungen über alle Archive und Backups.
 <details>
   <summary> 🤫 Quellen für die Uninspierierten</summary>
 
-- [**CH Admin EDÖB:** DSGVO](https://www.edoeb.admin.ch/edoeb/de/home/dokumentation/datenschutz/Datenschutz%20-%20International/DSGVO.html)
+- [**CH Admin EDÖB:** DSGVO](https://www.edoeb.admin.ch/edoeb/de/home/deredoeb/kontakt/faq_beratung1.html)
 
 - [**EU:** DSGVO](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679)
 
