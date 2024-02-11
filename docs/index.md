@@ -21,3 +21,10 @@ sidebar_position: 1
 |     Woche&nbsp;7       |  Sprint 2 | **LB2 - Sprint 2 Review** |
 |     Woche&nbsp;8       |  Sprint 3 |
 |     Woche&nbsp;9       |  Sprint 3 | **LB2 - Sprint 3 Review** / **Abgabe LB1** |
+
+# Tool
+
+- Modulwebseite
+- [GPT zum Modul](https://chat.openai.com/g/g-h8Zy8qQM7-bbzbl-m231)
+- [Kanban Board](https://kanboard.aebi.cloud/)
+- [SAL für das Administrative (Absenzen und Noten etc.)](https://portal.sbl.ch/my.policy)
