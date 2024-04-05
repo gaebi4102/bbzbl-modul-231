@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+keywords:
+  - pdf
 ---
 
 # Allgemeine Informationen
@@ -8,21 +10,21 @@ sidebar_position: 1
 
 - [:paperclip: Modulidentifikation](https://www.modulbaukasten.ch/module/231/1/de-DE?title=Datenschutz-und-Datensicherheit-anwenden)
 
-# Quartalsübersicht
+## Quartalsübersicht
 
-|         Woche          |    Thema                                             | Leistungsbewertung |
-| :--------------------: |   :------------------------------------------------ | :----------------- |
-|     Woche&nbsp;1       |  [Theory zu eduScrum](./category/grundlagen)|
-|     Woche&nbsp;2       |  Sprint 1 |
-|     Woche&nbsp;3       |  Sprint 1 |
-|     Woche&nbsp;4       |  Sprint 1 |  **LB2 - Sprint 1 Review** |
-|     Woche&nbsp;5       |  Sprint 2 |
-|     Woche&nbsp;6       |  Sprint 2 | 
-|     Woche&nbsp;7       |  Sprint 2 | **LB2 - Sprint 2 Review** |
-|     Woche&nbsp;8       |  Sprint 3 |
-|     Woche&nbsp;9       |  Sprint 3 | **LB2 - Sprint 3 Review** / **Abgabe LB1** |
+|    Woche     | Thema                                                  | Leistungsbewertung                         |
+| :----------: | :----------------------------------------------------- | :----------------------------------------- |
+| Woche&nbsp;1 | [Theory zu eduScrum](./01_Theory_zu_eduScrum/index.md) |                                            |
+| Woche&nbsp;2 | Sprint 1                                               |                                            |
+| Woche&nbsp;3 | Sprint 1                                               |                                            |
+| Woche&nbsp;4 | Sprint 1                                               | **LB2 - Sprint 1 Review**                  |
+| Woche&nbsp;5 | Sprint 2                                               |                                            |
+| Woche&nbsp;6 | Sprint 2                                               |                                            |
+| Woche&nbsp;7 | Sprint 2                                               | **LB2 - Sprint 2 Review**                  |
+| Woche&nbsp;8 | Sprint 3                                               |                                            |
+| Woche&nbsp;9 | Sprint 3                                               | **LB2 - Sprint 3 Review** / **Abgabe LB1** |
 
-# Tool
+## Tool
 
 - Modulwebseite
 - [GPT zum Modul](https://chat.openai.com/g/g-h8Zy8qQM7-bbzbl-m231)

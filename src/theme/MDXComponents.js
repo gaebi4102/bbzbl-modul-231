@@ -3,8 +3,8 @@ import MDXComponents from "@theme-original/MDXComponents";
 import LiteYouTubeEmbed from "react-lite-youtube-embed";
 import DocCardList from "@theme/DocCardList";
 import Timeline, { Event } from "../components/Timeline/index";
-
-import 'react-lite-youtube-embed/dist/LiteYouTubeEmbed.css'
+import Tabs from "@theme/Tabs";
+import TabItem from "@theme/TabItem";
 
 export default {
   // Re-use the default mapping
@@ -15,4 +15,6 @@ export default {
   DocCardList: DocCardList,
   Timeline: Timeline,
   Event: Event,
+  Tabs: Tabs,
+  TabItem: TabItem
 };

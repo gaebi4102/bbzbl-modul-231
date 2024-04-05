@@ -18,7 +18,7 @@ const getBase64ImgTag = (path) => {
 
 generatePDF({
   initialDocURLs: [
-    `http://localhost:3000/${modulConfig.repoName}/docs`,
+    `http://localhost:4000/${modulConfig.repoName}/docs`,
   ],
   puppeteerArgs: [
     "--no-sandbox",
