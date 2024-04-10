@@ -21,6 +21,7 @@
   --ifm-color-primary-lightest: #f1766b;
   --ifm-code-font-size: 95%;
   --ifm-link-color: #3867a3;
+  /* --ifm-menu-color: rgb(68, 73, 80); */
   --ifm-heading-color: rgb(68, 73, 80);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   --ifm-font-family-base: system-ui, -apple-system, Noto Emoji, Segoe UI, Roboto,
@@ -40,6 +41,7 @@
   --ifm-color-primary-lighter: #ed5447;
   --ifm-color-primary-lightest: #f1766b;
   --ifm-link-color: lightblue;
+  /* --ifm-menu-color: rgb(218, 221, 225); */
   --ifm-heading-color: rgb(218, 221, 225);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
   --ifm-font-family-base: system-ui, -apple-system, Noto Emoji, Segoe UI, Roboto,
@@ -47,6 +49,11 @@
   --mermaid-java-builtin-stroke-color: #00000040;
   --mermaid-java-builtin-fill-color: #ffffff95;
   --mermaid-java-builtin-text-color: #000000;
+}
+
+.menu__link--sublist {
+  color: var(--ifm-heading-color);
+  font-weight: bold;
 }
 
 @media print {
@@ -291,7 +298,6 @@ li.hidden {
 .javaBuiltIn .nodeLabel {
   color: var(--mermaid-java-builtin-text-color) !important;
 }
-
 
 .blank .navbar,
 .blank footer {
