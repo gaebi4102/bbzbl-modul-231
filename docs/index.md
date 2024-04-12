@@ -16,7 +16,7 @@ keywords:
 | :--------------: | :--------: | :-------------------------------------------------------------------------------------- | :----------------------------------------- |
 |   Woche&nbsp;1   | 26.04.2024 | [Theory zu eduScrum](./01_Theory_zu_eduScrum/index.md)                                  |                                            |
 |   Woche&nbsp;2   | 03.05.2024 | [:one: Sprint - Rechtlicher Rahmen](./10_Sprint_Rechtliches/index.md)                   |                                            |
-|                  | 10.05.2024 | _:star2: Auffahrt :star2:_                                                              |
+|                  | 10.05.2024 | _:star2: Auffahrt :star2:_                                                              |                                            |
 |   Woche&nbsp;3   | 17.05.2024 | :one: Sprint                                                                            |                                            |
 | **Woche&nbsp;4** | 24.05.2024 | :one: Sprint                                                                            | **LB2 - Sprint 1 Review**                  |
 |   Woche&nbsp;5   | 31.05.2024 | [:two: Sprint - Konzeptionelles](./20_Sprint_Konzeptionelles/index.md)                  |                                            |
