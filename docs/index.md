@@ -12,8 +12,8 @@ keywords:
 
 ## Quartalsübersicht
 
-|      Woche       |   Datum    | Thema                                                                                   | Leistungsbewertung                         |
-| :--------------: | :--------: | :-------------------------------------------------------------------------------------- | :----------------------------------------- |
+|      Woche       |   Datum Do   |   Datum Fr   | Thema | Leistungsbewertung                         |
+| :--------------: | :--------: | :--------: | :-------------------------------------------------------------------------------------- | :----------------------------------------- |
 |   Woche&nbsp;1  | 25.04.2024  | 26.04.2024 | [Theory zu eduScrum](./01_Theory_zu_eduScrum/index.md)                                  |                                            |
 |   Woche&nbsp;2  | 02.05.2024   | 03.05.2024 | [:one: Sprint - Rechtlicher Rahmen](./10_Sprint_Rechtliches/index.md)                   |                                            |
 |                  | 10.05.2024 | _:star2: Auffahrt :star2:_                                                              |
