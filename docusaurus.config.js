@@ -1,9 +1,10 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
-const oembed = require("@agentofuser/remark-oembed");
+const { themes } = require("prism-react-renderer");
+const lightCodeTheme = themes.github;
+const darkCodeTheme = themes.dracula;
+// const oembed = require("@agentofuser/remark-oembed");
 const modulConfig = require("./modul.config");
 
 /** @type {import('@docusaurus/types').Config} */
@@ -46,6 +47,31 @@ const config = {
     require.resolve("@docusaurus/theme-mermaid"),
   ],
 
+  plugins: [
+    // "@orama/plugin-docusaurus",
+    [
+      "devserver-config",
+      {
+        proxy: {
+          [`/${modulConfig.repoName}/slides`]: {
+            target: "http://localhost:4001",
+            pathRewrite: function (
+              /** @type {string} */ path,
+              /** @type {any} */ _req,
+            ) {
+              if (path.match(/.*\..*$/)) {
+                return path.replace(`/${modulConfig.repoName}/slides`, "");
+              }
+              return (
+                path.replace(`/${modulConfig.repoName}/slides`, "") + ".md"
+              );
+            },
+          },
+        },
+      },
+    ],
+  ],
+
   presets: [
     [
       "@docusaurus/preset-classic",
@@ -55,8 +81,8 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: `https://github.com/gaebi4102/${modulConfig.repoName}/tree/main/`,
-          remarkPlugins: [oembed],
+          editUrl: `https://github.com/codingluke/${modulConfig.repoName}/tree/main/`,
+          // remarkPlugins: [oembed],
         },
         // blog: {
         //   showReadingTime: true,
@@ -98,7 +124,7 @@ const config = {
             position: "right",
           },
           {
-            href: `https://github.com/gaebi4102/${modulConfig.repoName}`,
+            href: `https://github.com/codingluke/${modulConfig.repoName}`,
             label: "GitHub",
             position: "right",
           },
@@ -111,7 +137,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-        additionalLanguages: ["java"],
+        additionalLanguages: ["java", "bash", "diff", "json"],
         magicComments: [
           // Remember to extend the default highlight class name as well!
           {
