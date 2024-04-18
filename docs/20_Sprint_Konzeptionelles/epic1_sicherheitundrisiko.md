@@ -2,19 +2,17 @@
 keywords:
   - pdf
 ---
+
 # Sicherheit und Risiko
-:::note
+
 Was ist Sicherheit und Risiko?
-:::
 
-<details>
-  <summary> 🎉 Celebration Criteria</summary>
+## 🎉 Celebration Criteria
 
-Sie kennen die Unterschiede zwischen Security und Safety.
+  - :dart: Sie kennen die Unterschiede zwischen Security und Safety.
+  - :dart: Sie kennen die Grundlagen vom Risikomanagement.
 
-Sie kennen die Grundlagen vom Risikomanagement.
-
-</details>
+## :compass: Wegweiser
 
 <details>
   <summary> 🤔 Leitfragen </summary>
@@ -32,7 +30,7 @@ Sie kennen die Grundlagen vom Risikomanagement.
 </details>
 
 <details>
-  <summary> 🤫 Quellen für die Uninspierierten</summary>
+  <summary> ℹ️ Quellen für die Recherche</summary>
 
 - [**Sichere Industrie:** Safety vs. Security...](https://www.sichere-industrie.de/safety-security-unterschied-erklaert-kombination-ziele-industrial-security/)
 

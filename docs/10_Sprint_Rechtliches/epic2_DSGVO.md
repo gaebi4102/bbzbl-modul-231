@@ -2,30 +2,30 @@
 keywords:
   - pdf
 ---
+
 # EU DSGVO
-:::note
+
 Welche Gesetzte gibt es in der EU zum Thema Datenschutz und was beeuten diese für uns als Informatiker.
-:::
 
-<details>
-  <summary> 🎉 Celebration Criteria</summary>
+## 🎉 Celebration Criteria
 
-**Kategorisiert Daten aufgrund ihres Schutzbedarfs.**
+1. **Kategorisiert Daten aufgrund ihres Schutzbedarfs.**
 
-Kennt verschiedene Rechtsräume (Schweiz, EU).
+    - :dart: Kennt verschiedene Rechtsräume (Schweiz, EU).
+    - :dart: Kennt für den jeweiligen Rechtsraum die juristischen Werke (z. B. DSG,
+      DSGVO).
 
-Kennt für den jeweiligen Rechtsraum die juristischen Werke (z. B. DSG, DSGVO).
+2. **Überprüft eingesetzte Anwendungen auf Einhaltung der Datenschutzgesetze.**
 
-**Überprüft eingesetzte Anwendungen auf Einhaltung der Datenschutzgesetze.**
+    - :dart: Kennt wesentliche Unterschiede in den Datenschutzgesetzen der
+      verschiedenen Rechtsräume.
 
-Kennt wesentliche Unterschiede in den Datenschutzgesetzen der verschiedenen Rechtsräume.
+3. **Zeigt Konsequenzen von Fehlern im Datenschutz und bei der Datensicherheit auf.**
 
-**Zeigt Konsequenzen von Fehlern im Datenschutz und bei der Datensicherheit auf.**
+    - :dart: Kennt die Problematik von Datenlöschungen über alle Archive und
+      Backups.
 
-Kennt die Problematik von Datenlöschungen über alle Archive und Backups.
-
-</details>
-
+## :compass: Wegweiser
 
 <details>
   <summary> 🤔 Leitfragen </summary>
@@ -51,7 +51,7 @@ Kennt die Problematik von Datenlöschungen über alle Archive und Backups.
 </details>
 
 <details>
-  <summary> 🤫 Quellen für die Uninspierierten</summary>
+  <summary> ℹ️ Quellen für die Recherche</summary>
 
 - [**CH Admin EDÖB:** DSGVO](https://www.edoeb.admin.ch/edoeb/de/home/deredoeb/kontakt/faq_beratung1.html)
 
@@ -65,43 +65,3 @@ Kennt die Problematik von Datenlöschungen über alle Archive und Backups.
 - [**europa.eu** The Digital Markets Act: ensuring fair and open digital markets](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_en)
 
 </details>
-
-___
-
-## Information
-
-### Gesetzt der EU
-[Datenschutz Grundverordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679) 
-
-#### Rechte von Betroffenen
-Art. 15 Auskunftsrecht
-> Verarbeitungszweck; Kategorien der verarbeiteten Daten; (beabsichtigte) Empfänger der Daten;
-> geplante Speicherdauer oder die Kriterien, wie diese festgelegt wird;
-> Bestehen eines Rechts auf Berichtigung/Löschung der Daten sowie auf Einschränkung/Widerspruch der Verarbeitung;
-> Herkunft der Daten, wenn sie nicht bei dem Betroffenen erhoben wurden;
-> Bestehen eines automatisierten Entscheidungsverfahrens (inkl. Profiling) sowie dessen Logik und Zweck.
-> Geeignete Garantien (z. B. Zertifizierungen), wenn Daten an Drittland oder internationale Organisation übermittelt werden.
-
-- Art. 16 Recht auf Berichtigung
-- Art. 17 Recht auf Löschung
-- Art. 18 Recht auf Einschränkung der Verarbeitung
-- Art. 20 Recht auf Datenübertragbarkeit
-- Art. 21 Widerspruchsrecht
-- Art. 22 Automatisierte Entscheidungen im Einzelfall einschließlich Profiling
-- Art. 23 Beschränkungen
-
-#### Pflicht von Unternehmen
-- Art. 5 Grundsätze für die Verarbeitung personenbezogener Daten
-- Art. 6 Rechtmäßigkeit der Verarbeitung
-- Art. 7 Bedingungen für die Einwilligung
-- Art. 8 Bedingungen für die Einwilligung eines Kindes in Bezug auf Dienste der Informationsgesellschaft 
-- Art. 9 Verarbeitung besonderer Kategorien personenbezogener Daten
-- Art. 10 Verarbeitung von personenbezogenen Daten über strafrechtliche Verurteilungen und Straftaten
-- Art. 11 Verarbeitung, für die eine Identifizierung der betroffenen Person nicht erforderlich ist
-
-#### Vergleich CH vs. EU
-
-[![DataProccessing](../img/DSGvsDSGVO.png)](https://www.pragmatica.ch/revidiertes-datenschutzgesetz/)
-
-:paperclip: [Bildquelle](https://www.pragmatica.ch/revidiertes-datenschutzgesetz/)
-

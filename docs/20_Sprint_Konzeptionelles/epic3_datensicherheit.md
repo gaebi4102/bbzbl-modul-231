@@ -2,30 +2,28 @@
 keywords:
   - pdf
 ---
+
 # Datensicherheit
-:::note
+
 Was ist Datensicherheit?
-:::
 
-<details>
-  <summary> 🎉 Celebration Criteria</summary>
+## 🎉 Celebration Criteria
 
-**Kategorisiert Daten aufgrund ihres Schutzbedarfs.**
+1. **Kategorisiert Daten aufgrund ihres Schutzbedarfs.**
 
-Kennt verschiedene Kategorien der Schutzwürdigkeit von Daten und deren Kriterien.
-        - Sie könnne die Daten Anhand ihres Schutzbedarf Klassifizieren.
-Kennt den Unterschied von Datenschutz und Datensicherheit.
+    - :dart: Kennt verschiedene Kategorien der Schutzwürdigkeit von Daten und deren Kriterien.
+        - Sie können die Daten Anhand ihres Schutzbedarf Klassifizieren.
+    - :dart: Kennt den Unterschied von Datenschutz und Datensicherheit.
 
-**Setzt verschiedene Möglichkeiten der Datenspeicherung ein.**
+2. **Setzt verschiedene Möglichkeiten der Datenspeicherung ein.**
 
-Kennt Verfahren zur Speicherung von Daten und bewusst redundanter Datenhaltung (z.B. lokal, Server, Cloud).
+    - :dart: Kennt Verfahren zur Speicherung von Daten und bewusst redundanter Datenhaltung (z.B. lokal, Server, Cloud).
+    - :dart: Kennt verschiedene Gefahren, denen Daten ausgesetzt sind (z.B. Diebstahl, Ransomware, Integritätsverletzung).
+      - Sie kennen verschiedene Gefahren für Datensicherheit.
+      - Sie kennen können den Begriff Bedrohung, Schwachstelle, Risiko und Asset einordnen.
+      - Sie wissen die Wahl des korrekt Speicher Medium zum Schutzziel beitragen kann.
 
-Kennt verschiedene Gefahren, denen Daten ausgesetzt sind (z.B. Diebstahl, Ransomware, Integritätsverletzung).
-    - Sie kennen verschiedene Gefahren für Datensicherheit.
-    - Sie kennen können den Begriff Bedrohung, Schwachstelle, Risiko und Asset einordnen.
-    - Sie wissen die Wahl des korrekt Speicher Medium zum Schutzziel beitragen kann.
-
-</details>
+## :compass: Wegweiser
 
 <details>
   <summary> 🤔 Leitfragen </summary>
@@ -42,7 +40,7 @@ Kennt verschiedene Gefahren, denen Daten ausgesetzt sind (z.B. Diebstahl, Ransom
 </details>
 
 <details>
-  <summary> 🤫 Quellen für die Uninspierierten</summary>
+  <summary> ℹ️ Quellen für die Recherche</summary>
 
 - [**Profi AG** Datensicherheit](https://www.profi-ag.de/netzwerk-und-security/datensicherheit/#:~:text=Definition%3A%20Datensicherheit&text=Datensicherheit%20verfolgt%20also%20das%20Ziel,Sicherheit%20von%20Daten%20zu%20gew%C3%A4hrleisten.)
 

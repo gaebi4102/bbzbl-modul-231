@@ -5,22 +5,20 @@ keywords:
 
 # Identity und Access Management
 
-:::note
 Wer darf was machen?
-:::
 
-<details>
-  <summary>
-    🎉 Celebration Criteria
-  </summary>
+## 🎉 Celebration Criteria
 
-**Überprüft und verbessert gegebenenfalls die Datensicherheit der eigenen Infrastruktur.**
+1. **Überprüft und verbessert gegebenenfalls die Datensicherheit der eigenen Infrastruktur.**
 
-Kennt Techniken des Zugriffsschutzes, Passwortmanager und Prinzipien der Passwortverwaltung. - Sie wissen was ein "sicheres Passwort" ausmacht. - Sie kennen alternativen und ergänzungen zu Passwörter. - Sie kennen die Limitationen von Passwörter und MFA. - Sie kennen die Grundlagen von RBAC. - Sie wissen wo RBAC in IAM Einzuordnen ist. - Sie wissen was Least Privileged Access (LPA) ist.
+- :dart: Kennt Techniken des Zugriffsschutzes, Passwortmanager und Prinzipien der Passwortverwaltung. 
+- :dart: Sie wissen was ein "sicheres Passwort" ausmacht. - Sie kennen alternativen und ergänzungen zu Passwörter.
+- :dart: Sie kennen die Limitationen von Passwörter und MFA. - Sie kennen die Grundlagen von RBAC. 
+- :dart: Sie wissen wo RBAC in IAM Einzuordnen ist. 
+- :dart: Sie wissen was Least Privileged Access (LPA) ist.
+- :dart: Kennt den Unterschied von Authentifizierung und Autorisierung.
 
-Kennt den Unterschied von Authentifizierung und Autorisierung.
-
-</details>
+## :compass: Wegweiser
 
 <details>
   <summary> 
@@ -44,7 +42,7 @@ Kennt den Unterschied von Authentifizierung und Autorisierung.
 
 <details>
   <summary> 
-    🤫 Quellen für die Uninspierierten
+    ℹ️ Quellen für die Recherche
   </summary>
 
 - [**ComputerWeekly.de:** Identity Access Management (IAM) -Systeme](https://www.computerweekly.com/de/definition/Identity-Access-Management-IAM-Systeme)
@@ -72,105 +70,3 @@ Kennt den Unterschied von Authentifizierung und Autorisierung.
 - [**microsoft:** Azure Role-Based Access Control, Azure RBAC)?](https://learn.microsoft.com/de-de/azure/role-based-access-control/overview)
 
 </details>
-
----
-
-## Einstig in Identity und Access Management
-
-### Was ist IAM?
-
-![IAM AWS](../img/howitworks_IAM_110321.8b2290727bb2022d54416e099c87ad9dc64be5d5.jpg)
-
-**Identity**
-
-- Identität
-- Wer?
-  - ein Person welches sich via User, Password und MFA Authentifiziert
-  - ein System das sich via Zertifikat oder Key Authentifiziert
-
-**Access**
-
-- Zugriff
-- Was?
-  - legt fest auf was, wie zugegriffen werden darf oder eben nicht
-
-### Berechtigungen
-
-| Identity    | Resource                  | Access               |
-| :---------- | :------------------------ | :------------------- |
-| Hans Müller | Internet                  | allowed to google.ch |
-| FC_read     | \\FileServer001\Finanzen$ | read                 |
-| FC_write    | \\FileServer001\Finanzen$ | write                |
-| HR_read     | \\FileServer001\HR$       | read                 |
-| HR_write    | \\FileServer001\HR$       | read                 |
-
-### Least Privileged Access
-
-User und System haben nur zugriff auf das was Notwenig ist um ihren Job zuerledigen.
-z.B. Der/ Die Service Desk Mitarbeiter:in hat keinen Domain Admin, sondern nur Password Reset Rechte.
-
-**ohne**
-
-| Identity | Resource                  | Access |
-| :------- | :------------------------ | :----- |
-| FC       | \\FileServer001\Finanzen$ | full   |
-| HR       | \\FileServer001\HR$       | full   |
-
-**mit**
-
-| Identity                | Resource                             | Access |
-| :---------------------- | :----------------------------------- | :----- |
-| FC_Debitoren_read       | \\FileServer001\Finanzen$\Debitoren  | read   |
-| FC_Debitoren_write      | \\FileServer001\Finanzen$\Debitoren  | write  |
-| FC_Kreditoren_read      | \\FileServer001\Finanzen$\Kreditoren | read   |
-| FC_Kreditoren_write     | \\FileServer001\Finanzen$\Kreditoren | write  |
-| HR_Loehne_read          | \\FileServer001\HR$\Löhne            | read   |
-| HR_Loehne_write         | \\FileServer001\HR$\Löhne            | write  |
-| HR_Bewerbungen_read     | \\FileServer001\HR$\Bewerbungen      | read   |
-| HR_Bewerbungen_HR_write | \\FileServer001\HR$\Bewerbungen      | write  |
-
-### Verzeichnis Dienst
-
-![AD](../img/ADEUS.jpg)
-
-## Authentifizierung und Autorisierung
-
-[![Authentication_vs_Authorization.png](../img/Authentication_vs_Authorization.png)](https://www.okta.com/de/identity-101/authentication-vs-authorization/)
-
-### Authentifizierung: Identität nachweisen
-
-- Prüft Anmeldeinformation
-- Passwörter
-- Biometrische Daten
-- Pin
-- MFA APP
-- Hardware Token
-
-### Autorisierung: Rechte Vergabe
-
-- Ordnet bestimmte Rechte einer Identität zu
-  - Server
-  - Admin Rechte
-  - FileShare
-  - Zugriff auf bestimmtes APP
-
-## Passwörter und MFA
-
-### Was ist eine sicheres Passwort?
-
-```mdx-code-block
-<YouTube id="TvrFpAFitQ0" title="Free Security Awareness Chapter 4 - How To Create a Strong Password // Wizer - Security Awareness Training" />
-```
-
-### Was ist MFA?
-
-```mdx-code-block
-<YouTube id="xCCni1Sxe80" title="So funktioniert die Zwei-Faktor-Authentisierung // BSI" />
-```
-
-### Kuze Zusammenfassung
-
-```mdx-code-block
-<YouTube id="pxZH67w4PHY" title="Authentication Factors Explained: 2FA, MFA, TOTP // Intellectual Point" />
-```
-

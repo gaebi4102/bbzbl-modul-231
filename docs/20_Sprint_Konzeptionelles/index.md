@@ -1,4 +1,3 @@
 # Sprint - Konzeptionelles
 
-## Epics 
 <DocCardList/>
